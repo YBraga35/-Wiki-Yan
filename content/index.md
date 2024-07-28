@@ -29,6 +29,7 @@ Explore o mundo de Lhodos e conheça os elementos chave do meu universo RPG.
 - **[[RPG/Facções/index|Facções]]**: Grupos importantes, desde a Liga dos Aventureiros até cultistas antagonistas.
 - **[[RPG/Heróis/index|Heróis]]**: Lendas e figuras heroicas que refletem os valores culturais e divinos.
 - **[[RPG/NPCs/index|NPCs]]**: Personagens recorrentes que enriquecem as histórias e aventuras.
+- [[RPG/Regras/index|Regras]]: Regras alternativas ou complementares para as mesas de RPG, muitas vezes para todas as vezes, algumas em apenas algumas é aceito (consulte o narrador)
 
 ## 💻 Desenvolvimento
 

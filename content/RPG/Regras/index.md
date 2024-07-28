@@ -22,6 +22,7 @@ modification date: quarta-feira 24º julho 2024 02:44:35
 # Regras
 
 - [[Alinhamentos]]
+- [[Battle Focus]]
 
 
 

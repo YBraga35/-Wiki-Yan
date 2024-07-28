@@ -63,6 +63,7 @@ O que você poderia estar fazendo em vez disso? O que você está evitando?
 Algumas das áreas que têm o maior impacto na sua história podem acabar sendo as mais desafiadoras criativamente. Melhorar a improvisação é um exemplo, um que discutiremos mais adiante no livro. Construir sua campanha em torno das histórias dos personagens dos jogadores (PCs) pode ser outro. Às vezes, o empreendimento mais criativo é simplesmente aprender a deixar o jogo se desenvolver na mesa.
 
 Às vezes, a coisa mais difícil de fazer é nada.
+
 # III. Ser Preguiçoso é Difícil
 
 >[!quote] “Pare de tentar controlar tudo e simplesmente deixe ir.”

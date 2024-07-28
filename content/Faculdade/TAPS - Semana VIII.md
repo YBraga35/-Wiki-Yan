@@ -11,6 +11,8 @@ draft: true
 date: 2024-07-23
 creation date: 2024-07-22 05:33
 modification date: sexta-feira 19º julho 2024 21:41:03
+share_link: https://share.note.sx/ky2xt6e9#ir2GZRJdgCJmbQIZ7W/GyP+E2Vq9GGaQaFO0Qud8jD0
+share_updated: 2024-07-28T11:37:40-03:00
 ---
 
 > [!quote] Better it is to live one day seeing the rise and fall of things than to live a hundred years without ever seeing the rise and fall of things.

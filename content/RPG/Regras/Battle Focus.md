@@ -1,6 +1,6 @@
 ---
-title: Sumário Inicial
-description: Esse documento é supostamente o sumário e a página inicial de todo o meu site baseado nas anotações do Obsidian.
+title: Battle Focus
+description: Aqui estão as regras alternativas para várias mecânicas de D&D 5e, focando primariamente em sessões recheadas de batalhas.
 aliases:
   - indexação
   - Índice
@@ -59,6 +59,7 @@ Todos os livros oficiais de D&D 5ª Edição da Wizards anteriores ao Tasha’s 
 - UA Ranger Revised: [link](https://dnd5e.wikidot.com/ranger-revised)
 - Monge com Escudo (by Fernandez): [link]()
 - Subclasses do Tasha's Caldron of Everything Else[^1]: [link 5e.tools](https://5e.tools/book.html#tce,1)
+- Classes, subclasses, Talentos[^2] e Itens mágicos do Valda: [link]([VSS - Valdas Spire of Secrets.pdf](https://ufcspa1-my.sharepoint.com/:b:/g/personal/yan_silva_mca_ufcspa_edu_br/ESxZm96JgI5FibntdpP7nsoBHTb4wufWuzX_zlCxM_r9LQ?e=5wIIoh))
 
 ### Restringidos
 Os seguintes homebrew são especificamente impedidos para os propósitos das mesas com Battle Focus. Os que não foram citados também estão restringidos, mediante avaliação do narrador.
@@ -69,6 +70,7 @@ Os seguintes homebrew são especificamente impedidos para os propósitos das mes
 - não pode ter bônus de atributo de anão e os bônus de raça de elfo ao mesmo tempo
 
 [^1]: Magias novas não estão liberadas, nem as que vêm inatamente com as subclasses.
+[^2]: Talentos Iniciais não estão liberados (Starter feats)
 ## Talentos
 Modificação em três Talentos importantes que continuam fortes demais:
 - **Great Weapon Master**: Esse talento não concede mais o ataque de bônus action quando do crítico ou redução de vida a 0.

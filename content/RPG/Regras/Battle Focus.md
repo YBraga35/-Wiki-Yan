@@ -24,6 +24,9 @@ modification date: sábado 27º julho 2024 21:05:33
 	 - [[#Atributos]]
 	 - [[#Livros]]
 	 - [[#Homebrew]]
+		 - [[#Liberados]]
+		 - [[#Restringidos]]
+			 - [[#Exemplos]]
 	 - [[#Talentos]]
 	 - [[#Estilo de Luta]]
  - [[#Descansos]]
@@ -52,11 +55,20 @@ Para definir os atributos (Str, Dex, Wis,...) pode usar o sistema Point Buy ou S
 Todos os livros oficiais de D&D 5ª Edição da Wizards anteriores ao Tasha’s  Cauldron of Everything estão liberados. Humano Variante e multiclasse (obedecendo as limitações de atributo) inclusive. 
 
 ## Homebrew
-Homebrew e UA não estão liberados, com a excessão do UA de ranger revisado (aquele que dá +2 no dano de inimigo favorito) e a subclasse homebrew de monge com escudo criada pelo Fernandez. As subclasses do Tasha estão liberadas, mas não está liberada a lista de magia expandida desse suplemento ou magias concedidas por subclasse nele e nem os as mudanças de origem das raças nele.
-Por exemplo: 
-o Clérigo Twilight não tem acesso a Aura of Vitality
-não pode ter bônus de atributo de anão e os bônus de raça de elfo ao mesmo tempo
+### Liberados
+- UA Ranger Revised: [link](https://dnd5e.wikidot.com/ranger-revised)
+- Monge com Escudo (by Fernandez): [link]()
+- Subclasses do Tasha's Caldron of Everything Else[^1]: [link 5e.tools](https://5e.tools/book.html#tce,1)
 
+### Restringidos
+Os seguintes homebrew são especificamente impedidos para os propósitos das mesas com Battle Focus. Os que não foram citados também estão restringidos, mediante avaliação do narrador.
+- Magias e Origem Customizada do Tasha: [link 5e.tools](https://5e.tools/variantrules.html#customizing%20your%20origin_tce)
+
+#### Exemplos
+- Clérigo Twilight não tem acesso a Aura of Vitality
+- não pode ter bônus de atributo de anão e os bônus de raça de elfo ao mesmo tempo
+
+[^1]: Magias novas não estão liberadas, nem as que vêm inatamente com as subclasses.
 ## Talentos
 Modificação em três Talentos importantes que continuam fortes demais:
 - **Great Weapon Master**: Esse talento não concede mais o ataque de bônus action quando do crítico ou redução de vida a 0.
@@ -65,7 +77,7 @@ Modificação em três Talentos importantes que continuam fortes demais:
 
 ## Estilo de Luta
 Buff de um Fighting Style que era ruim, mas agora não é mais. Agora ele permite ser Tank Defensivo de forma eficiente em qualquer Tier:
-O protection fighting style (estilo de luta) usa free action (não gasta nenhuma ação) ao invés de usar a reação para impor desvantagem no ataque do inimigo que ataca aliado. O alcance do uso desse estilo de luta dobra a cada tier (Tier 1 =alcance 5 feet, tier 2 = alcance 10 feet, tier 3 = alcance 20 feet, tier 4 = alcance 40 feet).
+	O protection fighting style (estilo de luta) usa free action (não gasta nenhuma ação) ao invés de usar a reação para impor desvantagem no ataque do inimigo que ataca aliado. O alcance do uso desse estilo de luta dobra a cada tier (Tier 1 =alcance 5 feet, tier 2 = alcance 10 feet, tier 3 = alcance 20 feet, tier 4 = alcance 40 feet).
 
 
 - - -
@@ -187,3 +199,7 @@ As armaduras e outros itens que dariam bônus de CA +1,+2,+3 não aumentam a cla
 
 ## Armas e Dano
 As armas +1,+2,+3 não aumentam a chance de acerto e também não aumentam o dano em todos os ataques.  No entanto, elas aumentam bastante o dano do primeiro ataque do turno: arma +1 = aumenta em 5 o dano do primeiro ataque feito a cada turno, arma +2 = aumenta em 10 o dano do primeiro ataque feito a cada turno, arma +3 = aumenta em 20 o dano do primeiro ataque feito a cada turno.
+
+
+
+

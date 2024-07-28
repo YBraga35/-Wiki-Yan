@@ -1,9 +1,10 @@
 ---
-title: Sumário Inicial
+title: Sumário Guias
 description: Esse documento é supostamente o sumário e a página inicial de todo o meu site baseado nas anotações do Obsidian.
 aliases:
   - indexação
   - Índice
+  - Guias
 tags:
   - index-tag
   - indice-tag

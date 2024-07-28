@@ -1,12 +1,14 @@
 ---
-title: "Sumário Inicial"
-description: "Esse documento é supostamente o sumário e a página inicial de todo o meu site baseado nas anotações do Obsidian."
+title: Sumário Heróis
+description: Esse é o Sumário que explica e dá base para a busca dos diferentes Heróis do mundo
 aliases:
   - indexação
   - Índice
+  - heróis
 tags:
   - index-tag
   - indice-tag
+  - herói
 draft: false
 date: 2024-07-23
 creation date: 2024-07-23 04:04

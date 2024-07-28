@@ -1,12 +1,14 @@
 ---
-title: "Sumário Inicial"
-description: "Esse documento é supostamente o sumário e a página inicial de todo o meu site baseado nas anotações do Obsidian."
+title: Sumário Facções
+description: Esse é o Sumário que explica e dá base para a busca das diferentes Facções do mundo
 aliases:
   - indexação
   - Índice
+  - Facções
 tags:
   - index-tag
   - indice-tag
+  - facções
 draft: false
 date: 2024-07-23
 creation date: 2024-07-23 04:03

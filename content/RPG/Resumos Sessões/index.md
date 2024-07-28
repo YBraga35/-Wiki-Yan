@@ -1,5 +1,5 @@
 ---
-title: Sumário Inicial
+title: Sumário Sessões
 description: Aqui está a indexação dos arquivos dentro dos meus resumos de sessão.
 aliases:
   - indexação
@@ -10,7 +10,7 @@ tags:
   - indice-tag
   - resumos-tag
 draft: false
-date: <% tp.date.now("YYYY-MM-DD") %>
+date: 2024-07-28
 ---
 
 Aqui está a indexação dos arquivos dentro dos meus resumos de sessão

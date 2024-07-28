@@ -1,3 +1,23 @@
+---
+title: Sumário Inicial
+description: Esse documento é supostamente o sumário e a página inicial de todo o meu site baseado nas anotações do Obsidian.
+aliases:
+  - indexação
+  - Índice
+tags:
+  - index-tag
+  - indice-tag
+draft: true
+date: 2024-07-28
+creation date: 2024-07-28 12:06
+modification date: terça-feira 21º maio 2024 13:25:25
+---
+
+> [!quote] Our intention creates our reality.
+> — Wayne Dyer
+
+
+
 ### NPCs para as Missões e Momentos Cruciais
 
 #### **Reparos e Fortificações:**

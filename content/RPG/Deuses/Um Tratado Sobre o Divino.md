@@ -21,6 +21,20 @@ modification date: quarta-feira 24º julho 2024 03:08:46
 
 # Index
 Aqui está um sumário sobre cada um dos capítulos após a introdução, em ordem cronológica.
+- [[#Introdução]]
+- [[#Primeira Época]]
+	- [[#O Início]]
+	- [[#Reflexões]]
+- [[#Segunda Época]]
+	- [[#Criação]]
+	- [[#Nascimento]]
+- [[#A Terceira Época]]
+	- [[#A Menor Guerra]]
+	- [[#Morte e Renascimento]]
+	- [[#Corpus Infernus e as 3 Leis]]
+	- [[#A Queda de Kador A Grande Guerra dos Deuses]]
+- [[#A Quarta e a Quinta Épocas]]
+- [[#Epílogo]]
 - [[Cap 1 - Primeira Época]] ~> narra a criação do mundo pelo Inominável, surgido do caos primordial, e a formação das quatro forças primordiais: Fogo, Terra, Ar e Água.
 - [[Cap 2 - Segunda Época]] ~> descreve a criação do universo e dos deuses pelo Sem Nome, e o surgimento dos quatro frutos da Árvore da Vida, que deram origem às raças mortais e aos deuses, desencadeando conflitos e destinos.
 - [[Cap 3 - Terceira Época]] ~> após a derrota de Kador e a restauração da paz, Morwyn e Mormekar, agora casados, criam uma nova ordem divina para lidar com a corrupção remanescente e estabelecer leis celestiais, enquanto os deuses enfrentam novos desafios e tentam restaurar a ordem no cosmos.

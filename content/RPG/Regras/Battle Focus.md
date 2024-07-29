@@ -57,7 +57,7 @@ Todos os livros oficiais de D&D 5ª Edição da Wizards anteriores ao Tasha’s 
 ## Homebrew
 ### Liberados
 - UA Ranger Revised: [link](https://dnd5e.wikidot.com/ranger-revised)
-- Monge com Escudo (by Fernandez): [link]()
+- Monge com Escudo (by Fernandez): [[Monge com Escudo by Fernandez|link]]
 - Subclasses do Tasha's Caldron of Everything Else[^1]: [link 5e.tools](https://5e.tools/book.html#tce,1)
 - Classes, subclasses, Talentos[^2] e Itens mágicos do Valda: [link]([VSS - Valdas Spire of Secrets.pdf](https://ufcspa1-my.sharepoint.com/:b:/g/personal/yan_silva_mca_ufcspa_edu_br/ESxZm96JgI5FibntdpP7nsoBHTb4wufWuzX_zlCxM_r9LQ?e=5wIIoh))
 
@@ -69,7 +69,7 @@ Os seguintes homebrew são especificamente impedidos para os propósitos das mes
 - Clérigo Twilight não tem acesso a Aura of Vitality
 - não pode ter bônus de atributo de anão e os bônus de raça de elfo ao mesmo tempo
 
-[^1]: Magias novas não estão liberadas, nem as que vêm inatamente com as subclasses.
+[^1]: Magias de livros oficiais anteriores ao Tasha estão liberadas (salvo se forem, ao mesmo tempo, exclusivas da classe mago e de quarto nível ou maior). As subclasses do [Tasha](https://5e.tools/book.html#tce,1) estão liberadas, mas não estão liberadas a lista de magia de classe expandida desse suplemento nem tampouco as magias concedidas por subclasse nele
 [^2]: Talentos Iniciais não estão liberados (Starter feats)
 ## Talentos
 Modificação em três Talentos importantes que continuam fortes demais:

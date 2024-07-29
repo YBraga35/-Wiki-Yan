@@ -87,7 +87,7 @@ Enquanto estiver usando um escudo, você manifesta uma presença protetora que a
 
 O impacto da defesa é tão grande que um empurrão se torna uma oportunidade de infligir dano.  
 - **Dano ao Empurrar**: Toda vez que você empurra ou derruba um inimigo, você causa dano a ele igual ao seu dado marcial + seu modificador de Destreza.  
-- **Uso de Destreza**: Você pode usar seu modificador de Destreza em vez de seu modificador de Força combinado com a habilidade de atletismo para empurrar o inimigo.
+- **Uso de Destreza**: Você pode usar seu modificador de Destreza em vez de seu modificador de Força combinado com a habilidade de atletismo para empurrar ou derrubar o inimigo.
 
 ### Empurrão à Distância
 
@@ -109,6 +109,7 @@ A habilidade de inspirar aliados se torna mais eficiente e poderosa, refletindo 
 # Créditos
 Criação e Teste da classe por Diego Fernandez
 	[Discord](discord://users/339542618767753231)
+
 Revisão e Diagramação por Yan Braga
 	[Discord MD (pode não funcionar)](discord://users/646861187274768425)
 	[Servidor das Mesas](https://discord.gg/eDYGg4uVDW)

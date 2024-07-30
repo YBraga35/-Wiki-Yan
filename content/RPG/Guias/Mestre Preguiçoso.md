@@ -284,220 +284,223 @@ Seguindo com a semente da aventura de Yellowtop, vamos construir três áreas qu
 
 Agora, esse pequeno micro-universo está começando a se formar, mas sem sobrecarregar os detalhes. Temos alguns locais de aventura, temos algumas ideias de história e ameaça. Temos o suficiente para sentir que há alguma aventura a ser vivida, mesmo que ainda não esteja tudo interligado. O que usamos para conectar esses locais à nossa semente de aventura? Personagens não-jogadores (PNJs).
 
-# VIII. Character-Driven Stories
+# VIII. Histórias Baseadas em Personagens
 
-During the third component of adventure preparation, you want to determine the backgrounds and activities of the most important NPCs in your adventure or campaign. The paths and reactions of these NPCs flow like the lifeblood of the story and act as the sinew that binds the scenes and locations to the seed of the adventure. The actions of the NPCs move the rest of the story forward. Although the ancient history of a place might seem interesting, it is relatively static compared to the movements of living NPCs. Consider a pool table filled with balls. As one ball collides with another it takes a new path, potentially colliding with another. Sometimes they smash hard together; other times they just rub off of one another and veer in a new direction. The actions and interactions of the game’s NPCs collide the same way.
+Durante a terceira etapa da preparação da aventura, você deve determinar os antecedentes e as atividades dos NPCs mais importantes em sua aventura ou campanha. Os caminhos e as reações desses NPCs fluem como o sangue vital da história e agem como o tecido que liga as cenas e os locais à semente da aventura. As ações dos NPCs movem o restante da história adiante. Embora a história antiga de um lugar possa parecer interessante, ela é relativamente estática em comparação com os movimentos dos NPCs vivos. Considere uma mesa de bilhar cheia de bolas. À medida que uma bola colide com outra, ela toma um novo caminho, potencialmente colidindo com outra. Às vezes elas se chocam fortemente; outras vezes elas apenas se esfregam umas nas outras e desviam em uma nova direção. As ações e interações dos NPCs do jogo colidem da mesma forma.
 
-The PCs are the most active balls on this table, smashing and colliding and rebounding all over the place. It is the actions and motivations of the PCs that will fuel the story. Throughout their journey, they interact with all sorts of NPCs, creating new paths and reactions from session to session.
+Os PCs são as bolas mais ativas nessa mesa, colidindo e ricocheteando por toda parte. São as ações e motivações dos PCs que alimentarão a história. Ao longo de sua jornada, eles interagem com todos os tipos de NPCs, criando novos caminhos e reações de sessão para sessão.
 
-It gets really exciting when an action taken by the PC begins a chain of events outside of their view until it comes careening back towards them from a different angle a few sessions later. Now they might see the results of their actions and tie it back together to the original actions they took. It becomes really interesting when the players are able to piece it back together again, like Sherlock Holmes tracking a criminal’s motive back from the murder scene.
+Fica realmente emocionante quando uma ação tomada pelo PC inicia uma cadeia de eventos fora de sua vista até que ela volte de um ângulo diferente algumas sessões depois. Agora eles podem ver os resultados de suas ações e conectá-los às ações originais que tomaram. Fica muito interessante quando os jogadores conseguem juntar as peças novamente, como Sherlock Holmes rastreando o motivo de um criminoso desde a cena do crime.
 
-With some of this character-driven philosophy in mind, let’s get pragmatic about using NPCs in your lazy D&D game. Although your PCs will drive the main story, you shouldn’t prepare too much to drive their stories forward. Instead, focus on the NPCs you do control. Flip over your 3x5 card with the adventure seed and three branches on it and get ready for the NPCs.
+Com um pouco dessa filosofia centrada nos personagens em mente, vamos ser pragmáticos sobre o uso de NPCs em seu jogo de D&D preguiçoso. Embora seus PCs conduzam a história principal, você não deve preparar muito para avançar suas histórias. Em vez disso, concentre-se nos NPCs que você controla. Vire seu cartão 3x5 com a semente da aventura e três ramificações nele e prepare-se para os NPCs.
 
-## Focus on three important ally NPCs
+## Foque em três NPCs aliados importantes
 
-Great stories come from great characters. Keeping in mind that creativity comes from limitation, try to keep the number of these characters low. It’s hard to remember a bunch of new characters, and no one wants to jump directly into book four of the Song of Ice and Fire. Sticking to three primary NPCs helps your group remember who they are and details of their idiosyncrasies.
+Grandes histórias vêm de grandes personagens. Lembrando que a criatividade vem da limitação, tente manter o número desses personagens baixo. É difícil lembrar de um monte de novos personagens, e ninguém quer pular direto para o quarto livro de "A Song of Ice and Fire". Manter-se a três NPCs principais ajuda seu grupo a lembrar quem são e detalhes de suas idiossincrasias.
 
-### Example: Yellowtop NPCs
+### Exemplo: NPCs de Yellowtop
 
-Going back to Yellowtop, let’s identify three key NPCs:
+Voltando a Yellowtop, vamos identificar três NPCs principais:
 
-- **Lord Kanzlif Graystone**: Lord of Yellowtop. Paid off by mercenaries. Displaced from his home and secretly hopes for revolution.
-- **Lavasque**: Diplomat, alchemist, and “terrorist”. Led attacks and revolutions previously and is now in exile. Currently seeks heroes to displace the local mercenaries.
-- **Davins**: Former businessman and salt miner. Seeks to overthrow the mercenaries. Appalled at the murder of the resistance leader.
+- **Lord Kanzlif Graystone**: Lorde de Yellowtop. Subornado por mercenários. Deslocado de sua casa e secretamente espera por uma revolução.
+- **Lavasque**: Diplomata, alquimista e "terrorista". Liderou ataques e revoluções anteriormente e agora está no exílio. Atualmente procura heróis para deslocar os mercenários locais.
+- **Davins**: Ex-empresário e minerador de sal. Busca derrubar os mercenários. Horrorizado pelo assassinato do líder da resistência.
 
-None of these characters are doing anything yet because the story hasn’t begun. As the adventures go forward, let’s track the actions of these NPCs in addition to the progress of the PCs. Let’s focus on backgrounds and motivations of the NPCs first so we know what they will do when they begin to interact with the PCs.
+Nenhum desses personagens está fazendo nada ainda porque a história não começou. À medida que as aventuras avançam, vamos acompanhar as ações desses NPCs além do progresso dos PCs. Vamos focar nos antecedentes e motivações dos NPCs primeiro para saber o que eles farão quando começarem a interagir com os PCs.
 
-On the 3x5 card containing the adventure seed, describe these three NPCs so that you have their names and enough of a background to remember who they are. Over the course of a campaign, consider giving each of these NPCs their own card to track their actions over time.
+No cartão 3x5 contendo a semente da aventura, descreva esses três NPCs para que você tenha seus nomes e o suficiente de um histórico para lembrar quem eles são. Ao longo de uma campanha, considere dar a cada um desses NPCs seu próprio cartão para acompanhar suas ações ao longo do tempo.
 
-## Focus on one to three enemy NPCs
+## Foque em um a três NPCs inimigos
 
-Good stories need good villains. Sly Flourish’s Dungeon Master Tips already discusses the process for creating great villains, but I will quickly summarize it with the following points:
+Boas histórias precisam de bons vilões. As dicas do Mestre de Masmorra do Sly Flourish já discutem o processo para criar grandes vilões, mas vou resumir rapidamente com os seguintes pontos:
 
-- Good villains have a reason for being the way they are.
-- Good villains aren’t static, they have plots and plans.
-- Good villains are smart.
-- Good villains think what they are doing is right.
-- Great villains actually are right.
+- Bons vilões têm uma razão para serem do jeito que são.
+- Bons vilões não são estáticos, eles têm tramas e planos.
+- Bons vilões são inteligentes.
+- Bons vilões acham que o que estão fazendo é certo.
+- Grandes vilões realmente estão certos.
 
-Keeping this in mind, let’s focus on the ideal number of villains: one to three. One is the perfect number for a story with one focus. Three villains are enough to have a lot of interesting twists and turns in a longer story. More than three and the story won’t feel focused. Your players won’t really care about any particular one because their focus will be diluted.
+Tendo isso em mente, vamos focar no número ideal de vilões: um a três. Um é o número perfeito para uma história com um foco. Três vilões são suficientes para ter muitos reviravoltas interessantes em uma história mais longa. Mais de três e a história não parecerá focada. Seus jogadores não se importarão realmente com nenhum em particular porque seu foco será diluído.
 
-### Example: Yellowtop villains
+### Exemplo: Vilões de Yellowtop
 
-Let’s take a look at the Yellowtop villains:
+Vamos dar uma olhada nos vilões de Yellowtop:
 
-- **Theorn Whitescar**: Noble mercenary with pencil-thin mustache. Brutal and dictatorial. Resides in Graystone manor with a host of bodyguards.
-- **Captain Blackhand**: Leader of the Ashland goblinoid mercenaries. Looks forward to unleashing the trebuchets on the village.
-- **Father Moorland**: A priest of a dark god, Father Moorland looks like the type of fat priest who travels with the mercenaries. Adores children, particularly as sacrifices. Lures in victims with kindness.
+- **Theorn Whitescar**: Mercenário nobre com um bigode fino como lápis. Brutal e ditatorial. Reside na mansão Graystone com um grupo de guarda-costas.
+- **Capitão Blackhand**: Líder dos mercenários goblinoides de Ashland. Anseia por liberar as catapultas na vila.
+- **Padre Moorland**: Um sacerdote de um deus das trevas, Padre Moorland parece o tipo de padre gordo que viaja com os mercenários. Adora crianças, particularmente como sacrifícios. Atrai vítimas com bondade.
 
-Again, before the story has begun, the villains may not yet have acted. You want enough background to know what direction they will head to once the story does begin. Flip over that 3x5 card again, and describe these three villains on the back. If they end up lasting more than one or two sessions, they will deserve their own 3x5 card to keep track of their actions.
+Novamente, antes de a história começar, os vilões podem não ter agido ainda. Você quer um histórico suficiente para saber em que direção eles irão quando a história começar. Vire o cartão 3x5 novamente e descreva esses três vilões no verso. Se eles acabarem durando mais de uma ou duas sessões, eles merecerão seu próprio cartão 3x5 para acompanhar suas ações.
 
-## Improvise secondary NPCs
+## Improvise NPCs secundários
 
-Just because you focus on four to six primary NPCs (both allies and villains), that doesn’t mean the rest of the world doesn’t exist. Secondary NPCs are equally important in making a world feel real. These guys won’t have four-thousand-word biographies (of course, neither should your primary NPCs). In fact, they probably don’t need much more than a name and a primary occupation. The rest can come about organically.
+Só porque você foca em quatro a seis NPCs principais (tanto aliados quanto vilões), isso não significa que o resto do mundo não existe. NPCs secundários são igualmente importantes para fazer um mundo parecer real. Esses caras não terão biografias de quatro mil palavras (claro, nem seus NPCs principais deveriam). Na verdade, eles provavelmente não precisam de muito mais do que um nome e uma ocupação principal. O resto pode surgir organicamente.
 
-The secondary NPCs serve two main functions: they breathe life into the rest of the world and they serve as the pool from which primary NPCs emerge. Because you do not always know who will be primary NPCs and who will be secondary, you need to be ready to promote a secondary into a primary. In later sections, this book will cover some tools to help you build rich secondary NPCs with no preparation.
+Os NPCs secundários servem a duas funções principais: eles dão vida ao resto do mundo e servem como o reservatório de onde emergem os NPCs principais. Como você nem sempre sabe quem serão os NPCs principais e quem serão os secundários, você precisa estar pronto para promover um secundário a principal. Em seções posteriores, este livro abordará algumas ferramentas para ajudá-lo a construir NPCs secundários ricos sem preparação.
 
-## Rotate NPCs in and out
+## Rotacione NPCs para dentro e fora
 
-As the game moves on, as the balls collide and roll off in different directions, it’s quite possible that a primary NPC may fall out of the view of the group. They had their time in the spotlight, but now it’s time for someone else. At this point, you can promote a secondary NPC to a primary. The good news is that you largely don’t need to worry about who to choose – the players will often choose for you. Maybe they like the French accent of that innkeeper. Maybe they promote the huge well-spoken bandit lord as the chief of their new business venture. Whatever happens, stay flexible in promoting one NPC and demoting another.
+À medida que o jogo avança, conforme as bolas colidem e rolam em diferentes direções, é bem possível que um NPC principal possa sair da vista do grupo. Eles tiveram seu momento no centro das atenções, mas agora é a vez de outra pessoa. Nesse ponto, você pode promover um NPC secundário a principal. A boa notícia é que você não precisa se preocupar muito com quem escolher - os jogadores frequentemente escolherão por você. Talvez eles gostem do sotaque francês daquele estalajadeiro. Talvez eles promovam o grande senhor bandido eloquente como chefe de seu novo empreendimento comercial. Seja o que for, permaneça flexível em promover um NPC e rebaixar outro.
 
-The same is true for villains. Maybe the PCs killed the primary villain in a glorious battle or pushed him into a cauldron of molten rock. Now the second-in-command, who was always the smarter one, finally takes the position for which she was born and becomes a new and even more dangerous villain. She would never be caught in a situation where a cauldron of molten rock posed a threat.
+O mesmo vale para vilões. Talvez os PCs tenham matado o vilão principal em uma batalha gloriosa ou o empurraram para um caldeirão de rocha derretida. Agora o segundo em comando, que sempre foi o mais inteligente, finalmente assume a posição para a qual nasceu e se torna um novo e ainda mais perigoso vilão. Ela nunca seria pega em uma situação onde um caldeirão de rocha derretida representasse uma ameaça.
 
-Good NPCs build a network of potential story ideas, but the best story ideas will come from your players and their PCs. Let’s look at how you can tie all these threads together into a fantastic story.
+Bons NPCs constroem uma rede de ideias potenciais de história, mas as melhores ideias de história virão dos seus jogadores e seus PCs. Vamos ver como você pode amarrar todos esses fios em uma história fantástica.
 
-# IX. Tying PCs to the Story
 
-So far we’ve focused on building out all you need for a single adventure, or maybe a series of gaming sessions focused around a single idea. Larger campaigns require a little more planning, however. Most important, they require that dungeon masters build and tie the story around the backgrounds and arcs of the PCs. Players will care less about these ties for short-run games, but for longer campaigns, it’s important to always keep the PCs at the center of the stories.
+# IX. Ligando os PCs à História
 
-In his Dungeon Master Experience article *What’s My Motivation*, Chris Perkins describes the lessons learned in tying character backgrounds into your existing story with the following three points:
+Até agora, focamos em construir tudo o que você precisa para uma única aventura, ou talvez uma série de sessões de jogo focadas em uma única ideia. Campanhas maiores requerem um pouco mais de planejamento. Mais importante, elas requerem que os mestres de jogo construam e conectem a história em torno dos antecedentes e arcos dos PCs. Os jogadores se importarão menos com essas conexões em jogos de curta duração, mas para campanhas mais longas, é crucial manter os PCs no centro das histórias.
 
-- Build on what the player gives you.
-- Be willing to take your campaign in new directions.
-- Suggest ideas that have future adventure possibilities.
+No artigo *What’s My Motivation* da Dungeon Master Experience, Chris Perkins descreve as lições aprendidas ao amarrar os antecedentes dos personagens à sua história existente com os seguintes três pontos:
 
-The way of the lazy dungeon master helps considerably with two of these three points. First, as you have only a vague outline prepared in the first place, building on what the player gives you becomes much easier. The whole story might end up focusing on the characters. The second point also becomes much easier. If you have no focused campaign in the first place beyond a campaign elevator pitch, you will have little difficulty in modifying the campaign to fit a character’s background and motivations. It’s a lot easier to correct your course when no course is laid out in the first place.
+- Construa com base no que o jogador lhe dá.
+- Esteja disposto a levar sua campanha em novas direções.
+- Sugira ideias que tenham possibilidades de aventuras futuras.
 
-D&D organized play veteran and published Wizards of the Coast freelancer, Teos Abadia, spends an hour per session considering how PCs can fit into his story. Many other veteran dungeon masters agree. Building the story from the backgrounds and motivations of your PCs will greatly enhance your players’ enjoyment of your game. They will feel far greater connection to the story when it’s directly tied to their own PCs. Appendix C contains a series of questionnaires with veteran DMs, many of whom point at these PC story threads as a highly valuable element to their game preparation.
+O método do mestre preguiçoso ajuda consideravelmente com dois desses três pontos. Primeiro, como você tem apenas um esboço vago preparado inicialmente, construir com base no que o jogador lhe dá se torna muito mais fácil. Toda a história pode acabar focando nos personagens. O segundo ponto também se torna muito mais fácil. Se você não tem uma campanha focada inicialmente além de um esboço de campanha, você terá pouca dificuldade em modificar a campanha para se adequar ao histórico e às motivações de um personagem. É muito mais fácil corrigir seu curso quando nenhum curso foi estabelecido inicialmente.
 
-As you plan your campaign, consider keeping a single 3x5 card for each of the PCs, with a few key words on their backgrounds, motivations, and potential ties to the ongoing organic story. Reference these cards as you consider where each week’s adventure goes. You might not need to spend an hour tying these PC threads into the story, as Teos does, but any time spent here draws your players much closer to the story as it evolves. More importantly, reviewing these cards before each session helps you spontaneously tie them in when the moment presents itself at the game.
+O veterano de jogos organizados de D&D e freelancer publicado pela Wizards of the Coast, Teos Abadia, gasta uma hora por sessão considerando como os PCs podem se encaixar em sua história. Muitos outros mestres de jogo veteranos concordam. Construir a história a partir dos antecedentes e motivações dos seus PCs aumentará significativamente o prazer dos seus jogadores com o jogo. Eles se sentirão muito mais conectados à história quando estiver diretamente ligada aos seus próprios PCs. O Apêndice C contém uma série de questionários com DMs veteranos, muitos dos quais apontam esses fios da história dos PCs como um elemento altamente valioso para a preparação do jogo.
 
-In *Robin’s Laws of Good Game Mastering* and the *Dungeon Master’s Guide 2*, Robin Laws defines different groups of players into particular categories. Robin also describes the “emotional kicks” these particular groups might get out of a typical roleplaying game. When writing out 3x5 cards for each PC, consider adding the emotional kick you think that player gets out of playing D&D. Examples might include:
+Ao planejar sua campanha, considere manter um único cartão 3x5 para cada um dos PCs, com algumas palavras-chave sobre seus antecedentes, motivações e possíveis conexões com a história orgânica em andamento. Consulte esses cartões ao considerar para onde vai a aventura de cada semana. Você pode não precisar gastar uma hora amarrando esses fios da história dos PCs, como Teos faz, mas qualquer tempo gasto aqui aproxima muito mais seus jogadores da história conforme ela evolui. Mais importante, revisar esses cartões antes de cada sessão ajuda a amarrá-los espontaneamente quando o momento se apresenta no jogo.
 
-- _Enjoys flirting with nobility and authority
-- _Loves killing lots of minions
-- _Wants to take on the biggest baddest badass in the room
-- _Loves treasure with history
-- _Loves exploring the deepest ruins of ancient societies
-- _Loves creating political drama
-- _Is happy following the group
+Em *Robin’s Laws of Good Game Mastering* e no *Dungeon Master’s Guide 2*, Robin Laws define diferentes grupos de jogadores em categorias específicas. Robin também descreve os “chutes emocionais” que esses grupos específicos podem obter de um jogo típico de roleplaying. Ao escrever os cartões 3x5 para cada PC, considere adicionar o chute emocional que você acha que aquele jogador obtém ao jogar D&D. Exemplos podem incluir:
 
-If your players are not as forthcoming with character details or emotional kicks, you can bring out a few details from their choices of backgrounds, themes, or relationships. Later on, we’ll discuss a way of building character-focused relationships to give characters more detail and bring groups together while simultaneously building out the game’s world and generating interesting story hooks.
+- Gosta de flertar com a nobreza e autoridade
+- Adora matar muitos lacaios
+- Quer enfrentar o maior badass da sala
+- Ama tesouros com história
+- Adora explorar as ruínas mais profundas de sociedades antigas
+- Gosta de criar drama político
+- Está feliz seguindo o grupo
 
+Se seus jogadores não forem tão comunicativos com detalhes do personagem ou chutes emocionais, você pode extrair alguns detalhes de suas escolhas de antecedentes, temas ou relacionamentos. Mais adiante, discutiremos uma maneira de construir relacionamentos focados nos personagens para dar mais detalhes aos personagens e unir os grupos, ao mesmo tempo em que construímos o mundo do jogo e geramos ganchos de histórias interessantes.
 
-# X. Keeping the End in Sight
 
-There’s a big problem with character-focused open-ended stories – they often fall apart at the end. Even great writers like Stephen King and George R.R. Martin can suffer from these loose endings. Their stories are brilliant, thought-provoking, and unpredictable, yet often at the end, they completely unravel. Take the end of *The Stand* as an example. It’s one of the best fantasy books ever written, yet it ends with the hand of God appearing and detonating a nuke in the middle of Las Vegas with no actual interaction with our main characters. Why the hell did Larry and Ralph haul their asses from Colorado to Vegas only to have God nuke them? [Whoops, spoiler alert!]
+# X. Mantendo o Fim à Vista
 
-Your character-focused D&D game faces the same risk. There’s a good reason for this problem. When a story grows organically from the actions of rich characters, there is no clear ending. These characters drive things forward, building up momentum in directions you never thought about when you started. Then, suddenly, you find yourself out of time or money or pages and you need to end it, however you can.
+Há um grande problema com histórias abertas focadas nos personagens – elas frequentemente desmoronam no final. Mesmo grandes escritores como Stephen King e George R.R. Martin podem sofrer com esses finais soltos. Suas histórias são brilhantes, instigantes e imprevisíveis, mas muitas vezes, no final, elas se desfazem completamente. Tome o final de *A Dança da Morte* como exemplo. É um dos melhores livros de fantasia já escritos, mas termina com a mão de Deus aparecendo e detonando uma bomba nuclear no meio de Las Vegas sem nenhuma interação real com nossos personagens principais. Por que diabos Larry e Ralph arrastaram suas bundas do Colorado para Vegas apenas para Deus os explodir? [Opa, alerta de spoiler!]
 
-## Don’t Sell an Ending You Can’t Deliver
+Seu jogo de D&D focado nos personagens enfrenta o mesmo risco. Há uma boa razão para esse problema. Quando uma história cresce organicamente a partir das ações de personagens ricos, não há um final claro. Esses personagens impulsionam as coisas para frente, ganhando impulso em direções que você nunca pensou quando começou. Então, de repente, você se vê sem tempo ou dinheiro ou páginas e precisa terminar, de qualquer maneira que puder.
 
-Consider the recent remake of *Battlestar Galactica* and its tagline, “They have a plan.” They didn’t have a plan. The writers of the show didn’t know where it was going to go. *The X-Files* had the same problem. All of the *X-Files* mythology episodes, the ones with the crazy ink-in-the-eye aliens and the smoking man and the syndicate – there was clearly no real end to that story when they started and, by the end of the show, we all knew it.
+## Não Venda um Final que Você Não Pode Entregar
 
-The worst thing you can do for a character-driven story is sell an ending you can’t deliver. Don’t pretend to have some detailed intricate plot thread that doesn’t actually exist. Don’t have your group chasing so many seeds that, by the end, you have to tie them up in some sort of horrific mutated knot.
+Considere o recente remake de *Battlestar Galactica* e seu slogan, “Eles têm um plano.” Eles não tinham um plano. Os roteiristas do show não sabiam para onde a história iria. *Arquivo X* teve o mesmo problema. Todos os episódios mitológicos de *Arquivo X*, aqueles com os alienígenas de tinta nos olhos e o homem fumante e o sindicato – claramente não havia um fim real para essa história quando começaram e, no final do show, todos nós sabíamos disso.
 
-## The Single-Line Campaign Seed
+A pior coisa que você pode fazer para uma história impulsionada por personagens é vender um final que você não pode entregar. Não finja ter um fio de trama detalhado e intrincado que não existe realmente. Não faça seu grupo perseguir tantas pistas que, no final, você tenha que amarrá-las em um nó horrível e mutante.
 
-Instead, focus your campaign along that single campaign elevator pitch we talked about earlier. Focus on a single event or outcome that helps drive your players forward. Don’t make it more complicated than it has to be and don’t deviate. If you sell your campaign on preventing the arch-lich Xythar from destroying the Nentir Vale, stick to it and ensure you’re heading in that direction.
+## A Semente de Campanha de Linha Única
 
-A simple single-line seed leaves lots of room for the story to twist and weave as the characters and situations push it in new directions. Yet the primary goal always remains in focus.
+Em vez disso, concentre sua campanha naquele único esboço de campanha que discutimos anteriormente. Concentre-se em um único evento ou resultado que ajude a impulsionar seus jogadores para frente. Não torne isso mais complicado do que precisa ser e não desvie. Se você vende sua campanha com a premissa de impedir que o arquilich Xythar destrua o Vale Nentir, mantenha-se nisso e assegure-se de estar seguindo nessa direção.
 
-## Ask Your Players What They Want
+Uma simples semente de linha única deixa muito espaço para a história se torcer e entrelaçar conforme os personagens e situações a empurram em novas direções. No entanto, o objetivo principal sempre permanece em foco.
 
-Lucky for you, you don’t need to do a focus group or a survey to find out if you’re going to hit the mark with the story. All you have to do is ask your players if things are heading in the direction they want. After a few sessions into your campaign, ask them what sorts of things they want to do. They might come back with things like “fight a dragon” or “find old artifacts in ancient ruins” or “kill Asmodeus.” Take note of those things and add them to the fuel of the story. When the time is right, you can bring these things forward. Do it early and often enough and you will have time to gently push the story in the direction they seek without simply reacting.
+## Pergunte aos Seus Jogadores o Que Eles Querem
 
-When you ask a question like this, you have to be prepared to change the course of the campaign based on the answers. It’s no good to ask it one session before the end of the campaign.
+Felizmente para você, não é necessário fazer um grupo de foco ou uma pesquisa para descobrir se você está no caminho certo com a história. Tudo o que você precisa fazer é perguntar aos seus jogadores se as coisas estão indo na direção que eles querem. Depois de algumas sessões na sua campanha, pergunte a eles que tipos de coisas eles querem fazer. Eles podem responder com coisas como “lutar contra um dragão” ou “encontrar artefatos antigos em ruínas antigas” ou “matar Asmodeus”. Tome nota dessas coisas e adicione-as ao combustível da história. Quando chegar a hora certa, você pode trazer essas coisas à tona. Faça isso cedo e com frequência suficiente e você terá tempo para direcionar suavemente a história na direção que eles buscam sem simplesmente reagir.
 
-## The Advantage of the Mini-Campaign
+Quando você faz uma pergunta assim, precisa estar preparado para mudar o curso da campanha com base nas respostas. Não adianta perguntar uma sessão antes do final da campanha.
 
-Another way to ensure that your campaign’s ending doesn’t get too convoluted is to keep your entire campaign short. The fewer number of sessions you run, the harder it is for the story to deviate or stack up complications until it gets out of hand. Your players’ investment in the story also remains low. Instead of tying up three years of adventures, you’re just tying up a three-month mini-campaign, sort of like a TV mini-series or a short novella. A focused series of adventures lets you build a specific theme around a single clear idea. Knowing the ending is always just around the corner keeps it in your mind as the story progresses.
+## A Vantagem da Mini-Campanha
 
-It’s always important for you and your group to have that single shining star far off to guide the game, but like the rest of the ways of the lazy dungeon master, hang on with a loose grip and focus on the journey instead of the destination.
+Outra maneira de garantir que o final de sua campanha não fique muito complicado é manter toda a sua campanha curta. Quanto menor o número de sessões que você executar, mais difícil será para a história desviar ou acumular complicações até sair do controle. O investimento dos seus jogadores na história também permanece baixo. Em vez de amarrar três anos de aventuras, você está apenas amarrando uma mini-campanha de três meses, como uma minissérie de TV ou uma novela curta. Uma série de aventuras focadas permite que você construa um tema específico em torno de uma ideia clara. Saber que o final está sempre próximo mantém isso em mente conforme a história progride.
 
+É sempre importante para você e seu grupo ter aquela única estrela brilhante distante para guiar o jogo, mas, como o resto dos métodos do mestre preguiçoso, segure com um aperto frouxo e foque na jornada em vez do destino.
 
-# XI. World Building Through Relationships
 
-Of recent story-focused roleplaying games, [Fiasco](http://www.bullypulpitgames.com/games/fiasco/) stands out for group storytelling fun. In *Fiasco*, players build backgrounds, relationships, and stories through a series of dice rolls, letting the story grow with every round. You can use a stripped-down version of this technique to help players tie their characters together in a way that works far better than the old “you all meet at a bar” storytelling technique.
 
-## How Fiasco-Style Relationships Work
+# XI. Construção de Mundo Através de Relacionamentos
 
-During the first session of your campaign or mini-campaign, use a list of twelve to twenty relationships to tie together each pair of PCs. Pick a player to begin the roll. That player rolls the appropriate die. The relationship tied to that result is the relationship between the rolling player’s PC and the PC on his or her left. The roll now goes to the player on the left who rolls for the relationship between his or her PC and the PC of the player on his or her left. This goes around the table until each PC has two relationships, one with the PC on the right and one with the PC on the left. If someone rolls the same number as someone else, have them re-roll. You want unique relationships between each pair of PCs.
+Entre os jogos de interpretação de papéis focados em histórias recentes, [Fiasco](http://www.bullypulpitgames.com/games/fiasco/) se destaca pela diversão na narrativa em grupo. Em *Fiasco*, os jogadores constroem antecedentes, relacionamentos e histórias através de uma série de rolagens de dados, permitindo que a história cresça a cada rodada. Você pode usar uma versão simplificada dessa técnica para ajudar os jogadores a conectarem seus personagens de uma maneira que funciona muito melhor do que a antiga técnica de narrativa “vocês todos se encontram em um bar”.
 
-This is a difficult concept to understand from simple description. To see an example of Fiasco in action, watch [Wil Wheaton run a Fiasco setup on Tabletop](http://www.youtube.com/watch?v=uuJizhyf-y4).
+## Como Funcionam os Relacionamentos ao Estilo Fiasco
 
-## Weaving the Fabric of the Story
+Durante a primeira sessão da sua campanha ou mini-campanha, use uma lista de doze a vinte relacionamentos para ligar cada par de PCs. Escolha um jogador para começar a rolar. Esse jogador rola o dado apropriado. O relacionamento ligado a esse resultado é o relacionamento entre o PC do jogador que rolou e o PC à sua esquerda. A rolagem agora vai para o jogador à esquerda, que rola para o relacionamento entre o seu PC e o PC do jogador à sua esquerda. Isso continua ao redor da mesa até que cada PC tenha dois relacionamentos, um com o PC à direita e outro com o PC à esquerda. Se alguém rolar o mesmo número que outra pessoa, peça para rolar novamente. Você quer relacionamentos únicos entre cada par de PCs.
 
-This new network of relationships builds the bed of the whole rest of the story. Give the players time to explore these relationships, making sense of the ones that, on the surface, may seem contradictory. Give them time to build out their stories from these relationships. Take careful note of the relationships and think about how they will play into the sandbox you’ve created for the adventure.
+Este é um conceito difícil de entender apenas pela descrição. Para ver um exemplo de *Fiasco* em ação, assista [Wil Wheaton rodar uma configuração de Fiasco no Tabletop](http://www.youtube.com/watch?v=uuJizhyf-y4).
 
-## Building Your Campaign in the First Session
+## Tecendo o Tecido da História
 
-One way to build out your campaign’s environment is to use the first gaming session of that campaign as the world-building session. Come to it with loose ideas about the game’s world and the area in which the PCs might start. While your players develop characters and roll for relationships, give them ideas about potential themes such as dungeon exploration, political intrigue, nautical combat, war, or other overarching themes. As they develop their PCs, you can use their PC hooks to begin threading together the rest of the game world.
+Essa nova rede de relacionamentos constrói a base de toda a história. Dê aos jogadores tempo para explorar esses relacionamentos, entendendo aqueles que, na superfície, podem parecer contraditórios. Dê-lhes tempo para desenvolver suas histórias a partir desses relacionamentos. Tome nota cuidadosa dos relacionamentos e pense em como eles se encaixarão no sandbox que você criou para a aventura.
 
-### Example: The Relationships of Yellowtop
+## Construindo Sua Campanha na Primeira Sessão
 
-In the example town of Yellowtop, characters might roll on the following relationships:
+Uma maneira de construir o ambiente da sua campanha é usar a primeira sessão de jogo dessa campanha como a sessão de construção de mundo. Venha para essa sessão com ideias soltas sobre o mundo do jogo e a área onde os PCs podem começar. Enquanto seus jogadores desenvolvem personagens e rolam os relacionamentos, dê-lhes ideias sobre temas potenciais, como exploração de masmorras, intriga política, combate náutico, guerra ou outros temas abrangentes. À medida que desenvolvem seus PCs, você pode usar os ganchos dos personagens para começar a entrelaçar o restante do mundo do jogo.
 
-1. Former salt miners
-2. Former mercenary soldiers
-3. Nieces or nephews of Davins
-4. Apprentices to Lavasque
-5. Guards of Lord Kanzlif Graystone
-6. Explorers of the salt mine ruins
-7. Displaced villagers sent north
-8. Acolytes of Chauntea the Greatmother
-9. Orc hunters
-10. Secret agents of the neighboring kingdom
-11. Ancestors of the Graystone noble family
-12. Survivors of a hobgoblin ambush
+### Exemplo: Os Relacionamentos de Yellowtop
 
-From group to group, different relationships will result in completely different stories. This is handy for one-shot adventures that will turn out differently every time you run them. You can find more PC relationships in Appendix A.
+Na cidade exemplo de Yellowtop, os personagens podem rolar os seguintes relacionamentos:
 
+1. Ex-mineradores de sal
+2. Ex-soldados mercenários
+3. Sobrinhos ou sobrinhas de Davins
+4. Aprendizes de Lavasque
+5. Guardas de Lord Kanzlif Graystone
+6. Exploradores das ruínas da mina de sal
+7. Aldeões deslocados enviados ao norte
+8. Acólitos de Chauntea a Grande Mãe
+9. Caçadores de orcs
+10. Agentes secretos do reino vizinho
+11. Ancestrais da família nobre Graystone
+12. Sobreviventes de uma emboscada de hobgoblins
 
-# XII. Building from Frameworks
+De grupo para grupo, diferentes relacionamentos resultarão em histórias completamente diferentes. Isso é útil para aventuras one-shot que resultarão de maneira diferente toda vez que você as executar. Você pode encontrar mais relacionamentos de PCs no Apêndice A.
 
-The life of a lazy dungeon master gets much simpler as your bag of tools fills out. Building entire worlds from scratch, however, or creating deep and meaningful characters from thin air takes considerable time. Luckily, other great writers have already built so many models, all we need to do is pick and choose. Instead of building out worlds, characters, monsters, stories, or encounters from scratch; use ones already built as a framework. With some subtle tweaks you can turn these frameworks into something that appears brand new, yet as deep and rich as the originals.
 
-Simply put, a framework is a character, story, setting, or physical area you can use as a model for a component in your game. It’s a quick and easy way to add an element to your game that feels rich and textured but took only a few minutes of your time. Let’s look at some examples.
 
-## Story Seed Frameworks
+# XII. Construção a partir de Estruturas
 
-As we’ve discussed earlier, we don’t need a complete story spelled out from beginning to end. All we need is a good starting seed and an idea from which potential stories might grow. We can steal the ideas for these stories from just about anywhere including movies, TV shows, books, or even other games. Here are some example story ideas:
+A vida de um mestre de masmorras preguiçoso se torna muito mais simples à medida que sua bolsa de ferramentas se enche. Construir mundos inteiros do zero ou criar personagens profundos e significativos do nada leva um tempo considerável. Felizmente, outros grandes escritores já construíram tantos modelos que tudo o que precisamos fazer é escolher. Em vez de construir mundos, personagens, monstros, histórias ou encontros do zero, use os já construídos como estrutura. Com alguns ajustes sutis, você pode transformar essas estruturas em algo que parece totalmente novo, mas tão profundo e rico quanto os originais.
 
-- A creature of the heavens plummets to earth leaving a path of destruction in its wake. (Diablo 3)
-- An evil army attempts to uncover a powerful ancient artifact. (Raiders of the Lost Ark)
-- Two groups fight for power among the ruins of civilization. (The Stand)
-- A small isolated village must be protected from bands of marauding raiders. (Seven Samurai)
-- A small frontier town finds itself sitting on riches beyond imagination and becomes the focus of many powerful forces. (Deadwood)
-- Kill Graz’zt. (Kill Bill)
+Simplificando, uma estrutura é um personagem, história, cenário ou área física que você pode usar como modelo para um componente no seu jogo. É uma maneira rápida e fácil de adicionar um elemento ao seu jogo que parece rico e texturizado, mas que levou apenas alguns minutos do seu tempo. Vamos ver alguns exemplos.
 
-When considering story seeds, avoid choosing story seeds based on the growth of NPCs. Main characters, the PCs, don’t yet exist in these stories. As tempting as it is to build a story around an NPC, no group enjoys playing the secondary part to a main character controlled by the DM. Because a seed is only necessary when first planning out an adventure or mini-campaign, fewer models are necessary than you might think. A seed might last you three months or a year or four years depending on how long you want your campaign to go.
+## Estruturas de Sementes de História
 
-## Character Frameworks
+Como discutimos anteriormente, não precisamos de uma história completa detalhada do começo ao fim. Tudo o que precisamos é de uma boa semente inicial e uma ideia da qual histórias potenciais possam crescer. Podemos roubar as ideias dessas histórias de praticamente qualquer lugar, incluindo filmes, programas de TV, livros ou até outros jogos. Aqui estão alguns exemplos de ideias de histórias:
 
-Character frameworks give you deep NPCs without having to write entire novels of backstory. Build a list of some of your favorite characters and use them as both physical and mental models for NPCs in your game. Slight shifts in their character, such as changing genres or changing their sex, will make them appear completely unique to your game. Here are some example character frameworks for NPCs or villains:
+- Uma criatura dos céus cai na terra deixando um rastro de destruição em seu caminho. (*Diablo 3*)
+- Um exército maligno tenta descobrir um poderoso artefato antigo. (*Raiders of the Lost Ark*)
+- Dois grupos lutam pelo poder entre as ruínas da civilização. (*The Stand*)
+- Uma pequena aldeia isolada deve ser protegida de bandos de invasores saqueadores. (*Sete Samurais*)
+- Uma pequena cidade fronteiriça encontra-se sentada sobre riquezas inimagináveis e torna-se o foco de muitas forças poderosas. (*Deadwood*)
+- Matar Graz’zt. (*Kill Bill*)
 
-- Walter White from *Breaking Bad*
-- Al Swearengen from *Deadwood*
-- Wesley Wyndam-Pryce from *Angel*
-- Wayne Unser from *Sons of Anarchy*
-- Sam Merlotte from *True Blood*
-- Colonel Saul Tigh from *Battlestar Galactica*
-- Anton Chigurh from *No Country for Old Men*
+Ao considerar sementes de história, evite escolher sementes baseadas no crescimento de NPCs. Os personagens principais, os PCs, ainda não existem nessas histórias. Por mais tentador que seja construir uma história em torno de um NPC, nenhum grupo gosta de jogar o papel secundário para um personagem principal controlado pelo DM. Como uma semente é necessária apenas ao planejar uma aventura ou mini-campanha, menos modelos são necessários do que você imagina. Uma semente pode durar três meses, um ano ou quatro anos, dependendo de quanto tempo você deseja que sua campanha dure.
 
-### Example: Mike Ehrmantraut as the Grizzled War Vet
+## Estruturas de Personagens
 
-Let’s look at Mike Ehrmantraut from *Breaking Bad* as an example. We have a 70-year-old guy who still acts as the head of security for a major drug distributor. He’s deadly and cunning even if he appears to move slowly and always looks half asleep. We can take his character and easily turn it into the grizzled war veteran the PCs might encounter as advisor to a king or as a town guard who has seen many days in defense of the struggling town. His appearance, voice, background, and mannerisms give us everything we need to flesh him out during the game with almost no preparation ahead of time.
+Estruturas de personagens fornecem NPCs profundos sem a necessidade de escrever romances inteiros de história. Faça uma lista de alguns dos seus personagens favoritos e use-os como modelos físicos e mentais para NPCs em seu jogo. Pequenas mudanças em seu caráter, como mudar de gênero ou mudar seu sexo, os farão parecer completamente únicos para seu jogo. Aqui estão alguns exemplos de estruturas de personagens para NPCs ou vilões:
 
-There are thousands of potential character frameworks you can use in your game. Keeping a list of twenty of your favorites on hand can help considerably when you need a quick NPC. Wrap a notable NPC in your game with one of these character frameworks and you have a rich character ready to go in seconds.
+- Walter White de *Breaking Bad*
+- Al Swearengen de *Deadwood*
+- Wesley Wyndam-Pryce de *Angel*
+- Wayne Unser de *Sons of Anarchy*
+- Sam Merlotte de *True Blood*
+- Coronel Saul Tigh de *Battlestar Galactica*
+- Anton Chigurh de *No Country for Old Men*
 
-## Setting Frameworks
+### Exemplo: Mike Ehrmantraut como o Veterano de Guerra Enrugado
 
-As we discussed before, it’s much easier to use one of the published D&D settings than it is to build your own. It also helps your players know their place in the world. As much as you might enjoy building your own unique world for your game, you have to recognize that it’s not only a lot of extra work for you, but your players as well who must now learn all the histories, sociologies, politics, ecologies, and geographies of your new world.
+Vamos olhar para Mike Ehrmantraut de *Breaking Bad* como um exemplo. Temos um homem de 70 anos que ainda atua como chefe de segurança de um grande distribuidor de drogas. Ele é mortal e astuto, mesmo que pareça se mover devagar e sempre pareça meio adormecido. Podemos pegar seu personagem e facilmente transformá-lo no veterano de guerra enrugado que os PCs podem encontrar como conselheiro de um rei ou como um guarda da cidade que já viu muitos dias na defesa da cidade em dificuldades. Sua aparência, voz, histórico e maneirismos nos dão tudo o que precisamos para desenvolvê-lo durante o jogo, com quase nenhuma preparação prévia.
 
-Save yourself time and choose a published game world as your campaign framework. That said, there’s nothing stopping you from throwing in your own unique variable into the mix. What if Athas in Dark Sun was the fifty thousand-year post-apocalypse of Eberron? Just make it clear to your players that the Athas they might know isn’t necessarily the same as the Athas in your campaign.
+Existem milhares de potenciais estruturas de personagens que você pode usar em seu jogo. Manter uma lista de vinte dos seus favoritos à mão pode ajudar consideravelmente quando você precisar de um NPC rápido. Envolva um NPC notável em seu jogo com uma dessas estruturas de personagens e você terá um personagem rico pronto para usar em segundos.
 
-Sometimes using a published setting might appear to be more work than building your own game world. When you use a published setting, focus on one particular region and only worry about the details of that region. You also have full freedom to ignore canon, rename cities, move around the history, and build it into your own world as needed.
+## Estruturas de Cenários
 
-## Location Frameworks
+Como discutimos antes, é muito mais fácil usar um dos cenários publicados de D&D do que construir o seu próprio. Também ajuda os jogadores a conhecerem seu lugar no mundo. Por mais que você goste de construir seu próprio mundo único para seu jogo, você deve reconhecer que isso não é apenas muito trabalho extra para você, mas também para seus jogadores, que agora devem aprender todas as histórias, sociologias, políticas, ecologias e geografias do seu novo mundo.
 
-Location frameworks help you paint the details in the physical area the PCs might explore. The more detailed your framework, the more realistic it will appear at the table. Appropriate real-life locations work very well. The texture of the Tower of London can make for a perfect dungeon location. A two-story bar might make a perfect inn.
+Economize seu tempo e escolha um mundo de jogo publicado como sua estrutura de campanha. Dito isso, nada impede você de adicionar sua própria variável única à mistura. E se Athas em *Dark Sun* fosse o apocalipse de cinquenta mil anos de *Eberron*? Apenas deixe claro para seus jogadores que o Athas que eles podem conhecer não é necessariamente o mesmo Athas em sua campanha.
 
-D&D designer Rodney Thompson describes the three Fs of locations: fantastic, familiar, and functional. Two of these three Fs, familiar and functional, come from our frameworks. The third, the fantastic element, has to be something you throw in to show our players that they’re inhabiting a fantasy. Consider the talking paintings and shifting stairwells in *Harry Potter* for example. You might add a massive purple fire in a hearth that never goes out, or a glowing axe of the retired adventurer who now runs the bar. These small fantasy elements change the feel for a location you’ve built from a framework. With your framework in place and the fantasy variable set within it, you have an environment that feels real and draws the wonder of your players at the same time.
+Às vezes, usar um cenário publicado pode parecer mais trabalho do que construir seu próprio mundo de jogo. Quando você usa um cenário publicado, concentre-se em uma região específica e preocupe-se apenas com os detalhes dessa região. Você também tem total liberdade para ignorar o cânone, renomear cidades, mover a história e construí-la em seu próprio mundo conforme necessário.
 
-## Theft and Mashups
+## Estruturas de Localizações
 
-These frameworks can come from anywhere at any time. Keep your eyes open and you’ll get better and better at plucking them out of our world and jotting them down. Over time, you’ll get comfortable taking two or three potential elements and mashing them together into something brand new for your game. You’ll have just enough texture and depth to make something feel real with enough variations to make it unique for the game you want to run. These models can save you hundreds of hours trying to rebuild what has already been built, making them the perfect tool for the lazy dungeon master. Appendix A in this book contains many example frameworks you can use. There’s no end to the scope of mashups you can create. You can even mash up entire worlds.
+Estruturas de localizações ajudam você a pintar os detalhes na área física que os PCs podem explorar. Quanto mais detalhada sua estrutura, mais realista ela parecerá na mesa. Locais apropriados da vida real funcionam muito bem. A textura da Torre de Londres pode ser perfeita para uma masmorra. Um bar de dois andares pode ser uma estalagem perfeita.
+
+O designer de D&D Rodney Thompson descreve os três Fs das localizações: fantástico, familiar e funcional. Dois desses três Fs, familiar e funcional, vêm das nossas estruturas. O terceiro, o elemento fantástico, tem que ser algo que você adiciona para mostrar aos nossos jogadores que eles estão habitando uma fantasia. Considere as pinturas falantes e escadarias móveis em *Harry Potter*, por exemplo. Você pode adicionar um fogo roxo maciço em uma lareira que nunca se apaga, ou um machado brilhante do aventureiro aposentado que agora dirige o bar. Esses pequenos elementos de fantasia mudam a sensação de um local que você construiu a partir de uma estrutura. Com sua estrutura em vigor e a variável de fantasia definida dentro dela, você tem um ambiente que parece real e desperta a admiração dos seus jogadores ao mesmo tempo.
+
+## Roubo e Mashups
+
+Essas estruturas podem vir de qualquer lugar a qualquer momento. Mantenha os olhos abertos e você ficará cada vez melhor em tirá-las do nosso mundo e anotá-las. Com o tempo, você se sentirá confortável pegando dois ou três elementos potenciais e combinando-os em algo totalmente novo para o seu jogo. Você terá textura e profundidade suficientes para fazer algo parecer real, com variações suficientes para torná-lo único para o jogo que você deseja rodar. Esses modelos podem economizar centenas de horas tentando reconstruir o que já foi construído, tornando-os a ferramenta perfeita para o mestre de masmorras preguiçoso. O Apêndice A deste livro contém muitos exemplos de estruturas que você pode usar. Não há fim para o escopo dos mashups que você pode criar. Você pode até combinar mundos inteiros.
 
 
 # XIII. Colidindo Mundos

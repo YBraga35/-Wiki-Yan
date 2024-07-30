@@ -17,8 +17,7 @@ modification date: terça-feira 30º julho 2024 07:12:59
 > [!quote] Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.
 > — Richard Bach
 
-
-![250](https://i.pinimg.com/736x/f0/46/af/f046afd3d7931915b3ff56d00de848da.jpg)
+![[kaduchi.webp|254]]
 
 # Kaduchi
 **Guerreiro Tribal Invulnerável**

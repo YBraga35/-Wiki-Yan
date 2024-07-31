@@ -5,10 +5,12 @@ aliases:
   - O Invulnerável
   - Guerreiro Infalível
   - Líder Tribal
+  - Golias
 tags:
-  - index-tag
-  - indice-tag
-draft: false
+  - npc
+  - governante
+  - golias
+draft: true
 date: 2024-07-30
 creation date: 2024-07-30 07:12
 modification date: terça-feira 30º julho 2024 07:12:59

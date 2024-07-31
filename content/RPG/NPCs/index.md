@@ -1,6 +1,6 @@
 ---
-title: "Sumário Inicial"
-description: "Esse documento é supostamente o sumário e a página inicial de todo o meu site baseado nas anotações do Obsidian."
+title: NPCs
+description: Aqui está a indexação dos NPCs para facilitar encontrá-los
 aliases:
   - indexação
   - Índice
@@ -18,11 +18,12 @@ modification date: terça-feira 23º julho 2024 04:07:02
 
 
 
-# NPCs
+# NPCs Por Local
 - [[RPG/NPCs/Korala/index|Korala]]
 - [[RPG/NPCs/Apios/index|Apios]]
 - [[RPG/NPCs/Sibrius/index|Sibrius]]
 - [[RPG/NPCs/Serrappico/index|Serrappico]]
 - [[RPG/NPCs/Frosi'daranie/index|Frosi’daranie]]
 - [[RPG/NPCs/Costa Esmeralda/index|Costa Esmeralda]]
+- [[]]
 

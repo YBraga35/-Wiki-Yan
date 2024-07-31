@@ -5,8 +5,7 @@
 
 
 
-História:
-
+# História:
 > [!NOTE] Gunther Didz, 
 > Filho primogênito de uma das famílias mais proeminentes da nobreza Illuskan, nasceu em um ambiente de luxo e privilégio. Desde jovem, sua postura regal e sua determinação em seguir os passos de seus ilustres antepassados o destacavam entre os demais. Seu olhar de brasas parecia queimar com uma intensidade interior, refletindo sua ambição ardente.
 > 
@@ -23,5 +22,4 @@ História:
 > Assim, Gunther Didz se tornou um líder revolucionário, uma figura temida e adorada por aqueles que buscavam mudança e desafiavam o status quo. Seu nome ecoava pelos corredores dos salões nobres e pelas vielas escuras das cidades, enquanto ele tecia sua teia de intriga e conspiração para derrubar os poderes estabelecidos e criar um novo mundo onde ele reinaria supremo.
 
 
-
-
+# Prox

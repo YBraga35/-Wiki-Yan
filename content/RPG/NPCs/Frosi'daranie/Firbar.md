@@ -8,7 +8,7 @@ aliases:
   - Protetor Animais
 tags:
   - npc
-draft: false
+draft: true
 date: 2024-07-30
 creation date: 2024-07-30 07:26
 modification date: terça-feira 30º julho 2024 07:29:39

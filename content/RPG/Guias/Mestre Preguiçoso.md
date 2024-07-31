@@ -2,13 +2,10 @@
 title: Guia do Mestre Preguiçoso
 description: Esse documento é supostamente o sumário e a página inicial de todo o meu site baseado nas anotações do Obsidian.
 aliases:
-  - indexação
-  - Índice
   - Lazy Dm
   - Lazy Dungeon master
 tags:
   - index-tag
-  - indice-tag
   - guias
 draft: false
 date: 2024-07-29
@@ -28,11 +25,11 @@ modification date: segunda-feira 29º julho 2024 11:42:51
 - [[#V. Preparação de Aventuras em Cinco Minutos]]
 - [[#VI. Iniciando Sua Aventura]]
 - [[#VII. Os Três Caminhos]]
-- [[#VIII. Character-Driven Stories]]
-- [[#IX. Tying PCs to the Story]]
-- [[#X. Keeping the End in Sight]]
-- [[#XI. World Building Through Relationships]]
-- [[#XII. Building from Frameworks]]
+- [[#VIII. Histórias Baseadas em Personagens]]
+- [[#IX. Ligando os PCs à História]]
+- [[#X. Mantendo o Fim à Vista]]
+- [[#XI. Construção de Mundo Através de Relacionamentos]]
+- [[#XII. Construção a partir de Estruturas]]
 - [[#XIII. Colidindo Mundos]]
 - [[#XIV. Seis Traços Sobre o Seu Mundo de Jogo]]
 - [[#XV. Ferramentas do Mestre Preguiçoso]]

@@ -20,7 +20,7 @@ modification date: quarta-feira 24º julho 2024 22:11:43
 
 # Guias Traduzidos
 
-- ainda nenhum aqui, isso é um processo
+- ainda nenhum aqui, isso é um processo :smile:
 
 
 # Guias ~Traduzidos~

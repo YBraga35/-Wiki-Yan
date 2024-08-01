@@ -1,6 +1,6 @@
 ---
 title: Bardo - Colégio da Poesia Épica
-draft: false
+draft: true
 date: 2024-08-01
 ---
 

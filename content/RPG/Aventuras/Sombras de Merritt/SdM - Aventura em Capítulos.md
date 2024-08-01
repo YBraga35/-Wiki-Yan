@@ -1,6 +1,6 @@
 ---
 title: SdM - Aventura em Capítulos
-draft: false
+draft: true
 date: 2024-08-01
 ---
 

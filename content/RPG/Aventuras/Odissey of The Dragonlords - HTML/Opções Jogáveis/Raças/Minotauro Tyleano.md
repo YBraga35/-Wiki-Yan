@@ -1,6 +1,6 @@
 ---
 title: Minotauro Tyleano
-draft: false
+draft: true
 date: 2024-08-01
 ---
 <div>

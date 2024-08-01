@@ -5,7 +5,7 @@ aliases:
   - indexação
   - Índice
 tags: 
-draft: false
+draft: true
 date: 2024-07-26
 creation date: 2024-07-26 14:56
 modification date: sexta-feira 26º julho 2024 14:56:18

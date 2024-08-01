@@ -1,6 +1,6 @@
 ---
 title: 06 - Cap3 Alt
-draft: false
+draft: true
 date: 2024-08-01
 ---
 <p><img src="https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/ArcanumWorldsOdysseyoftheDragonlords/Chapter3_SummonedByTheKing_Page86.webp" alt=""></p>

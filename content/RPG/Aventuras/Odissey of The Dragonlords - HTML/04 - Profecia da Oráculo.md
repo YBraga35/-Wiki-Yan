@@ -1,6 +1,6 @@
 ---
 title: 04 - Profecia da Oráculo
-draft: false
+draft: true
 date: 2024-08-01
 ---
 # Caminhos Épicos

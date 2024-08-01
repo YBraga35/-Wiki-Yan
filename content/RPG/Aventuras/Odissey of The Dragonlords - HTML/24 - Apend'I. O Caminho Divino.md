@@ -1,6 +1,6 @@
 ---
 title: 24 - Apend'I. O Caminho Divino
-draft: false
+draft: true
 date: 2024-08-01
 ---
 <div class="rd__b  rd__b--1">

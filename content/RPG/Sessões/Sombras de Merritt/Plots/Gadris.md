@@ -1,3 +1,8 @@
+---
+title: Gadris
+draft: true
+date: 2024-08-01
+---
 Começou com dois irmãos e um pai, que claramente tinha seu filho favorito, que no caso era meu irmão. Desde cedo, percebi que o tratamento era diferente para cada um de nós. Enquanto eu tinha que aprender e conquistar tudo sozinha, meu irmão recebia tudo de mão beijada. Sabia que a culpa não era dele, então nunca o culpei por isso.
 
 Um dia, fomos atacados por um grupo de inimigos. Durante a confusão, por um descuido, meu irmão acabou morrendo. A dor da perda foi imensa, mas o pior ainda estava por vir. Quando meu pai soube do ocorrido, ele me expulsou de casa, jogando toda a culpa em mim. Ele me culpou pela morte de meu irmão, e sua reação foi dura e implacável.

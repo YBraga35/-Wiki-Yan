@@ -1,5 +1,7 @@
 ---
-draft: true
+title: 05 - Festival do Vinho
+draft: false
+date: 2024-08-01
 ---
 ### Festival do Vinho apresenta
 #### Peças detalhadas do grupo de teatro de Estória.

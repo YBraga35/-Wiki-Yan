@@ -1,7 +1,8 @@
 ---
-draft: true
+title: 04 - Profecia da Oráculo
+draft: false
+date: 2024-08-01
 ---
-
 # Caminhos Épicos
 
 Este diálogo deve ser compartilhado com os respectivos jogadores após completarem a masmorra do Templo do Oráculo, onde Versi revela a cada herói seu destino.

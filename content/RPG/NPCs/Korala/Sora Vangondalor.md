@@ -1,3 +1,8 @@
+---
+title: Sora Vangondalor
+draft: true
+date: 2024-08-01
+---
 Draconato Branco - Mago do Colégio da Transmutação
 ![250](https://i.pinimg.com/564x/5e/bc/9e/5ebc9eb9b98520b0a780d7fd3ba76a39.jpg)
 

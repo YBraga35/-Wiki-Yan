@@ -1,5 +1,7 @@
 ---
-draft: true
+title: 24 - Apend'I. O Caminho Divino
+draft: false
+date: 2024-08-01
 ---
 <div class="rd__b  rd__b--1">
     <h2 class="rd__h rd__h--1" data-title-index="2281"><span class="entry-title-inner">Appendix I: The Divine Path</span></h2>

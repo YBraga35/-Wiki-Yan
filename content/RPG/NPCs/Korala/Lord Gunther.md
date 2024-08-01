@@ -1,4 +1,8 @@
-
+---
+title: Lord Gunther
+draft: true
+date: 2024-08-01
+---
 [Gunther Didz](https://i.pinimg.com/564x/1a/1d/78/1a1d781c62333d89edf839c9f6cfc3ca.jpg)
 
 ![250](https://i.pinimg.com/564x/1a/1d/78/1a1d781c62333d89edf839c9f6cfc3ca.jpg)

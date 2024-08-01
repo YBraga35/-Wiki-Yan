@@ -1,3 +1,9 @@
+---
+title: Clérigo - Domínio da Profecia
+draft: false
+date: 2024-08-01
+---
+
 <div class="rd__b  rd__b--0">
 <a href="https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/ArcanumWorldsOdysseyoftheDragonlords/AppendixC_Cleric_Page325.webp"> <img src="https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/ArcanumWorldsOdysseyoftheDragonlords/AppendixC_Cleric_Page325.webp" alt="Descrição da imagem"> </a>
     <div data-source="OotDLPG" class="rd__b refreshing-brew rd__b--1">

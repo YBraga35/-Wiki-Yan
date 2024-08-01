@@ -1,3 +1,8 @@
+---
+title: Medusa Tyleana
+draft: false
+date: 2024-08-01
+---
 <div>
 <a href="https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/ArcanumWorldsOdysseyoftheDragonlords/AppendixB_ThyleanMedusa_Page313.webp"> <img src="https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/ArcanumWorldsOdysseyoftheDragonlords/AppendixB_ThyleanMedusa_Page313.webp" alt="Descrição da imagem"> </a>
     <table class="w-100 summary stripe-even">

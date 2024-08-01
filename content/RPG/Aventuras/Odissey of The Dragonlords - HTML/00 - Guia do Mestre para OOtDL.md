@@ -1,7 +1,8 @@
 ---
-draft: true
+title: 00 - Guia do Mestre para OOtDL
+draft: false
+date: 2024-08-01
 ---
-
 
 
 

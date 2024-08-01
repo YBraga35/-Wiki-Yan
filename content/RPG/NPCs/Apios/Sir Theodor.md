@@ -1,3 +1,9 @@
+---
+title: Sir Theodor
+draft: true
+date: 2024-08-01
+---
+
 
 [Sir Theodor](https://i.pinimg.com/736x/59/f0/6b/59f06b06f5956ca1e83db52c4e4bedad.jpg)
 ![250](https://i.pinimg.com/736x/59/f0/6b/59f06b06f5956ca1e83db52c4e4bedad.jpg)

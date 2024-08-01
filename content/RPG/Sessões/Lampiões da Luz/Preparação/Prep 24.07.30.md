@@ -1,3 +1,8 @@
+---
+title: Prep 24.07.30
+draft: true
+date: 2024-08-01
+---
 # Começo da Aventura
 
 >"A aventura começa nas terras geladas das Planícies de Geloeterno, na qual fica, à quilômetros de distância a Torre do Arcanista. Esse lugar supostamente está com o Pesadelo preso lá, ou em apuros. Além disso, é possível ver as cordilheiras, florestas congeladas e ruínas perdidas.

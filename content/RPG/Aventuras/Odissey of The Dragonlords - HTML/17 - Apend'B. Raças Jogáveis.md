@@ -1,5 +1,7 @@
 ---
-draft: true
+title: 17 - Apend'B. Raças Jogáveis
+draft: false
+date: 2024-08-01
 ---
 <div class="rd__b  rd__b--0">
     <h1 class="rd__h rd__h--0" data-title-index="2010"><span class="entry-title-inner">Appendix B: Playable Races</span></h1>

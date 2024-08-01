@@ -1,4 +1,8 @@
-
+---
+title: Alexandra Sylvandor
+draft: true
+date: 2024-08-01
+---
 
 ![150](https://i.pinimg.com/736x/a2/22/e3/a222e353dd0ce0be8ce1438fd9016eeb.jpg)
 ### Alexandra Sylvandor: A História da Nobre Elfa Guardiã do Conhecimento

@@ -1,3 +1,8 @@
+---
+title: Aric
+draft: true
+date: 2024-08-01
+---
 ☑Breve resumo do personagem
 Aric perdeu sua familia quando era criança e foi criado por um dos professores da academia de Korala, Pesadelo Leone, e se tornou um estudioso generalista / aventureiro, a serviço da academia.
 

@@ -1,3 +1,8 @@
+---
+title: Mago - Filósofo Acadêmico
+draft: false
+date: 2024-08-01
+---
 <div class="rd__b  rd__b--0">
     <div data-source="OotDLPG" class="rd__b refreshing-brew rd__b--1">
         <h2 class="rd__h rd__h--1" data-title-index="1"><span class="entry-title-inner">Filósofo da Academia</span><span class="ve-flex-vh-center"> </span><span class="help-subtle" title="Guia do Jogador de Odyssey of the Dragonlords">OotDLPG</span> p52<span class="rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden" data-rd-h-toggle-button="true" title="Alternar Visibilidade (CTRL para Alternar Tudo)">[–]</span></h2>

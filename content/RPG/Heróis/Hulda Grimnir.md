@@ -1,4 +1,8 @@
-
+---
+title: Hulda Grimnir
+draft: true
+date: 2024-08-01
+---
 Em meio às vastas terras percorridas por seu povo, o imponente Firbolg, conhecido como Hulda, ascendeu ao papel de diplomata, uma nomeação não apenas atribuída à sua linhagem como filho do líder do grupo de viajantes, mas também à sua habilidade em estabelecer vínculos e negociar em nome de sua comunidade. Enquanto trilhava os caminhos sinuosos do mundo, seu propósito transcendia a mera busca por um local onde erguer um novo templo, ele se aventurava na busca por compreensão, explorando as culturas e as alianças tecidas na tapeçaria da região. No entanto, essa jornada, realizada em uma era de aparente paz, revelou-se um labirinto de incertezas, onde as sombras das maldades e crueldades perpetradas entre os povos obscureciam qualquer vislumbre de luz divina.
 
 O que Hulda testemunhou em suas andanças foi um mundo imerso na voragem da ganância e do conflito, onde o brilho do sagrado era ofuscado pelo clamor das moedas e das armas. Vilarejos e cidades, que deveriam ser santuários de harmonia e espiritualidade, estavam mergulhados na escuridão da indiferença, alheios aos ensinamentos celestiais que poderiam trazer redenção e paz. Assim, o Firbolg se encontrava, desorientado em meio às encruzilhadas da existência, confrontado com a dissonância entre a visão idílica de seu povo e a dura realidade que se desvelava diante de seus olhos.

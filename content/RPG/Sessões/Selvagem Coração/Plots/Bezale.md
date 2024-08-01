@@ -1,3 +1,8 @@
+---
+title: Bezale
+draft: true
+date: 2024-08-01
+---
 Uma estrategista exilada e uma clériga com ambições divinas, Bezale Jassan adora apenas a guerra e a si mesma. Criada entre as Legiões de Conse, essa intelectual arcana trouxe espólios e vitórias dignas da Cidade da Guerra, mas trocou sua carreira por vingança e acabou se tornando uma pária entre os seus.
 
 Buscando redenção, ela acolhe um último aprendiz, aquele que seria o herdeiro de sua técnica e conhecimento e seria capaz de liderar Conse e o mundo para uma nova era. No entanto, um acidente levou a vida tanto de mentor quanto de aluno, mas apenas Bezale conseguiu voltar dos mortos.

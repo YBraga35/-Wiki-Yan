@@ -1,4 +1,8 @@
-
+---
+title: Cidadela de FerroFrio
+draft: true
+date: 2024-08-01
+---
 [[NPCs - Cidadela de FerroFrio]]
 
 **Campanha: A Resistência na Cidadela de FerroFrio**

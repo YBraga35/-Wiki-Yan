@@ -1,5 +1,8 @@
---- draft: true ---
-
+---
+title: 05 - Cap2 Grandes Trabalhos
+draft: false
+date: 2024-08-01
+---
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/ArcanumWorldsOdysseyoftheDragonlords/Chapter2_TheGreatLabors_Page41.webp)
 
 Capítulo 2: Os Grandes Trabalhos

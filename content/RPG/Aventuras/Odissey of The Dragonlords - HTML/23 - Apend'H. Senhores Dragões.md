@@ -1,5 +1,7 @@
 ---
-draft: true
+title: 23 - Apend'H. Senhores Dragões
+draft: false
+date: 2024-08-01
 ---
 <div class="rd__b  rd__b--1">
     <h2 class="rd__h rd__h--1" data-title-index="2259"><span class="entry-title-inner">Appendix H: Dragonlords</span></h2>

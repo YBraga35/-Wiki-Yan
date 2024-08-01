@@ -1,3 +1,9 @@
+---
+title: Sendas Épicas Adicionais
+draft: false
+date: 2024-08-01
+---
+
 ### Caminhos Épicos
 Os trechos entre parênteses são apenas para os olhos do DM - o documento inicial é seguro para os jogadores lerem e apresenta os Caminhos Épicos formatados no estilo dos encontrados no Guia do Jogador.
 

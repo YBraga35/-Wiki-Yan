@@ -1,4 +1,8 @@
-
+---
+title: Rohric Alvo
+draft: true
+date: 2024-08-01
+---
 
 [Rohric Alvo](https://i.pinimg.com/564x/92/43/c8/9243c8ec7d8530479347642f09e440cf.jpg)
 ![250](https://i.pinimg.com/564x/92/43/c8/9243c8ec7d8530479347642f09e440cf.jpg)

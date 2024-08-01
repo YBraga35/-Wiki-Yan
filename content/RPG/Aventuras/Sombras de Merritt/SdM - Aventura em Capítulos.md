@@ -1,4 +1,8 @@
-
+---
+title: SdM - Aventura em Capítulos
+draft: false
+date: 2024-08-01
+---
 
 
 ## Capítulo 2: A Ascensão da Shadowclaw

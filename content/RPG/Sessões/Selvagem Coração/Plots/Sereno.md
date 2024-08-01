@@ -1,3 +1,8 @@
+---
+title: Sereno
+draft: true
+date: 2024-08-01
+---
 # BREVE RESUMO SERENO CORIOLIS:
 Um genasi do ar, órfão da guerra que se espalha no continente, de uma infância repressiva onde foi criado por clérigos do sol, um dia alcançou a liberdade ao se ingressar como rapaz da pólvora em um navio pirata do Mar Remorático, onde cresceu aprendendo a arte da ladinagem, mas onde sua ingenuidade e pouca inteligência enxergava uma família acolhedora e o fazia crer em uma duvidosa fama de piratas da libertação, fama essa que o arrastou para uma aventura crucial para o fim da guerra no continente.
 

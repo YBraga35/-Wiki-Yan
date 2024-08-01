@@ -1,4 +1,8 @@
-
+---
+title: Grandes Trabalhos
+draft: true
+date: 2024-08-01
+---
 
 ## Generalidades sobre os Trabalhos
 

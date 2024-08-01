@@ -1,3 +1,8 @@
+---
+title: Khaiden
+draft: true
+date: 2024-08-01
+---
 Listinha de dever de casa pra campanha
 
 ☑Breve resumo do personagem

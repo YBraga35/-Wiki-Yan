@@ -1,3 +1,9 @@
+---
+title: Estoria
+draft: false
+date: 2024-08-01
+---
+
 # Estoria
 
 Muitas histórias gregas giram em torno de truques e jogos de palavras. Incentive os jogadores a encontrarem soluções criativas que pareçam trapaças e recompense-as, pois isso se encaixa perfeitamente no tom do jogo. Seus personagens saberiam que enganar os deuses obedecendo à letra da lei é uma tradição antiga. Um jogador usou a expressão "encadeado à rocha de Estor" e fez de Anora uma pulseira com um pedaço da rocha antes de escondê-la.

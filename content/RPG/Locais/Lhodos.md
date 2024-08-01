@@ -1,4 +1,3 @@
-
 ---
 title: "Mapa de Lhodos"
 description: "Mapa base do mundo de Lhodos, feito no inkarnate para reproduzir as distribuições de terras."

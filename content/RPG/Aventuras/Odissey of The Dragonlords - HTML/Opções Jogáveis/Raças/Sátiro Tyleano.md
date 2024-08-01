@@ -1,3 +1,8 @@
+---
+title: Sátiro Tyleano
+draft: false
+date: 2024-08-01
+---
 <div>
 <a href="https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/ArcanumWorldsOdysseyoftheDragonlords/AppendixB_ThyleanSatyr_Page319.webp"> <img src="https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/ArcanumWorldsOdysseyoftheDragonlords/AppendixB_ThyleanSatyr_Page319.webp" alt="Descrição da imagem"> </a>
     <table class="w-100 summary stripe-even">

@@ -1,3 +1,19 @@
+---
+title: Sessão 1 OdtD
+description: 
+aliases: []
+tags: 
+draft: false
+date: 2024-08-01
+creation date: 2024-08-01 00:55
+modification date: quinta-feira 1º agosto 2024 00:55:31
+---
+
+> [!quote] If you accept the expectations of others, especially negative ones, then you never will change the outcome.
+> — Michael Jordan
+
+
+
 
 
 

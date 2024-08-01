@@ -1,4 +1,8 @@
-
+---
+title: 0 - Principal
+draft: true
+date: 2024-08-01
+---
 ### **Capítulo 1: A Sombra da Academia Koralla**
 
 #### Resumo:

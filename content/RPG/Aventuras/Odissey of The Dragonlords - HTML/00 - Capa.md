@@ -1,6 +1,10 @@
 ---
-draft: true
+title: 00 - Capa
+draft: false
+date: 2024-08-01
 ---
+
+
 <div class="rd__b  rd__b--0">
     <h1 class="rd__h rd__h--0" data-title-index="1"><span class="entry-title-inner">Capa</span></h1>
     <div class="float-clear">

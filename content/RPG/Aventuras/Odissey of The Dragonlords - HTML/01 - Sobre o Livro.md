@@ -1,5 +1,7 @@
 ---
-draft: true
+title: 01 - Sobre o Livro
+draft: false
+date: 2024-08-01
 ---
 <div class="rd__b rd__b--0">
   <h1 class="rd__h rd__h--0" data-title-index="2"><span class="entry-title-inner">Sobre este Livro</span></h1>

@@ -1,3 +1,8 @@
+---
+title: Liga dos Aventureiros
+draft: true
+date: 2024-08-01
+---
 # Aqueles que tiverem a coragem dos deuses e a ambição dos homens estão aqui 
 
 A Liga dos Aventureiros é um grupo de mercenários em seu cerne. Mas não somente isso, sonhadores ambiciosos capazes de qualquer coisa para chegarem até seus objetivos, cada membro que compõe essa liga é influenciado por cada um dos que está acima de si, se não por uma questão de honra, por desejo de ter algum superior devendo um favor.

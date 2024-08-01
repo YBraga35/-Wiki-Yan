@@ -1,5 +1,7 @@
 ---
-draft: true
+title: 16 - Apend'A. Criando Heróis
+draft: false
+date: 2024-08-01
 ---
 <div class="rd__b  rd__b--0">
     <h1 class="rd__h rd__h--0" data-title-index="1935"><span class="entry-title-inner">Apêndice A: Criando Heróis</span></h1>

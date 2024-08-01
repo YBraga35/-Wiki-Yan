@@ -1,3 +1,8 @@
+---
+title: Thobos
+draft: true
+date: 2024-08-01
+---
 ![[thobos.webp|245]]
 
 

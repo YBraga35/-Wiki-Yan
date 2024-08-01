@@ -1,3 +1,9 @@
+---
+title: Sessão 24.06.14
+draft: true
+date: 2024-08-01
+---
+
 **Resumo da sessão do dia 14.06.24**
 
 # **Jornada pelo Chifre de Balmythria**

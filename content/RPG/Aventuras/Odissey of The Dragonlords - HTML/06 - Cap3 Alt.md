@@ -1,3 +1,8 @@
+---
+title: 06 - Cap3 Alt
+draft: false
+date: 2024-08-01
+---
 <p><img src="https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/ArcanumWorldsOdysseyoftheDragonlords/Chapter3_SummonedByTheKing_Page86.webp" alt=""></p>
 <h1 id="chapter-3-summoned-by-the-king">Chapter 3: Summoned by the King</h1>
 <p>“_You may be a goddess, my queen, but you fail to understand the hearts of your subjects. I alone know what is best for my people. Do not question me._”</p>

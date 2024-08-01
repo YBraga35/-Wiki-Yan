@@ -1,3 +1,8 @@
+---
+title: Zairon
+draft: true
+date: 2024-08-01
+---
 História
 Nascido e criado nas ruas das grandes cidades, Zairon, ou pelo menos como é conhecido como um de seus nomes, cresceu em meio a trapaças e ladinagens, aprendendo a se virar e fazer oque é necessário para sobreviver. 
 

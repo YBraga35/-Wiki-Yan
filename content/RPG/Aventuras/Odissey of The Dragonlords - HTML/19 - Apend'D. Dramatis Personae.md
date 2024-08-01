@@ -1,5 +1,7 @@
 ---
-draft: true
+title: 19 - Apend'D. Dramatis Personae
+draft: false
+date: 2024-08-01
 ---
 <div class="rd__b  rd__b--0">
     <h1 class="rd__h rd__h--0" data-title-index="2117"><span class="entry-title-inner">Appendix D: Dramatis Personae</span></h1>

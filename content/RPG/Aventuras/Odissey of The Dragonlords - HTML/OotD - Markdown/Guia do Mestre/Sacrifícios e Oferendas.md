@@ -1,3 +1,9 @@
+---
+title: Sacrifícios e Oferendas
+draft: false
+date: 2024-08-01
+---
+
 # Sacrifícios e Orações
 
 ## Incentivando Sacrifícios e Orações

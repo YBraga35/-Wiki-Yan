@@ -1,3 +1,6 @@
+---
+draft: true
+---
 <div class="rd__b  rd__b--0">
     <h1 class="rd__h rd__h--0" data-title-index="3"><span class="entry-title-inner">Prefácio: Por que a Mitologia Grega?</span></h1>
     <p>A primeira campanha épica de RPG aconteceu há mais de 3.000 anos. Um grupo de heróis se reuniu para realizar uma missão impossível, e entre eles estavam os filhos de Hermes, Apolo, Poseidon e Zeus. Eles eram os Argonautas - os lendários marinheiros liderados por Jasão. Suas fileiras incluíam Orfeu, o músico mais talentoso do mundo, e Peleu, pai de Aquiles. Eles até foram acompanhados por Hércules, o famoso guerreiro, que havia recentemente completado seus famosos Doze Trabalhos.</p>

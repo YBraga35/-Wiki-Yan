@@ -1,3 +1,6 @@
+---
+draft: true
+---
 <div class="rd__b  rd__b--0">
     <h1 class="rd__h rd__h--0" data-title-index="2117"><span class="entry-title-inner">Appendix D: Dramatis Personae</span></h1>
     <p>This section contains biographical and statistical information for most of the major characters in the story.</p>

@@ -1,3 +1,6 @@
+---
+draft: true
+---
 <div class="rd__b  rd__b--0">
     <h1 class="rd__h rd__h--0" data-title-index="2125"><span class="entry-title-inner">Appendix E: Monsters</span></h1>
     <p>This appendix details monsters and nonplayer characters that appear in this book. Most of the monsters in Thylea are inspired by Greek mythology. Many of the most common fantasy monsters (orcs, goblins, etc.) are not present in the Forgotten Land.</p>

@@ -1,3 +1,6 @@
+---
+draft: true
+---
 <div class="rd__b  rd__b--0">
     <h1 class="rd__h rd__h--0" data-title-index="2312"><span class="entry-title-inner">Appendix K: Handouts</span></h1>
     <hr class="rd__hr rd__hr--section">

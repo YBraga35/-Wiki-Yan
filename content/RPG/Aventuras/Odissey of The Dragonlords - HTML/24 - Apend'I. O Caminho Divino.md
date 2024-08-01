@@ -1,3 +1,6 @@
+---
+draft: true
+---
 <div class="rd__b  rd__b--1">
     <h2 class="rd__h rd__h--1" data-title-index="2281"><span class="entry-title-inner">Appendix I: The Divine Path</span></h2>
     <p><em>Odyssey of the Dragonlords</em> provides heroes with the means to become gods. Becoming a god requires the heroes to cast powerful spells, forge mighty artifacts, and perform great deeds. It is a very difficult process, but it's achievable for heroes who complete the epic adventures presented in this book.</p>

@@ -1,20 +1,6 @@
 ---
-title: Sumário Inicial
-description: Esse documento é supostamente o sumário e a página inicial de todo o meu site baseado nas anotações do Obsidian.
-aliases:
-  - indexação
-  - Índice
-tags:
-  - index-tag
-  - indice-tag
 draft: true
-date: 2024-07-23
-creation date: 2024-07-22 05:33
-modification date: terça-feira 23º julho 2024 02:58:55
 ---
-
-> [!quote] The attempt to combine wisdom and power has only rarely been successful and then only for a short while.
-> — Albert Einstein
 
 
 

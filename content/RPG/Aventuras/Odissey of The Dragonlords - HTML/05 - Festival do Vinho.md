@@ -1,3 +1,6 @@
+---
+draft: true
+---
 ### Festival do Vinho apresenta
 #### Peças detalhadas do grupo de teatro de Estória.
 

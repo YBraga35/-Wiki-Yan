@@ -1,3 +1,6 @@
+---
+draft: true
+---
 <div class="rd__b  rd__b--0">
     <h1 class="rd__h rd__h--0" data-title-index="2010"><span class="entry-title-inner">Appendix B: Playable Races</span></h1>
     <p>Thylea is home to a number of mythical races that your players may choose during character creation.</p>

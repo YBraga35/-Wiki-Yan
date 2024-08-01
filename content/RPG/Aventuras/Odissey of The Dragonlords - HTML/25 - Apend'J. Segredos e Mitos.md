@@ -1,3 +1,6 @@
+---
+draft: true
+---
 <div class="rd__b  rd__b--1">
     <h2 class="rd__h rd__h--1" data-title-index="2299"><span class="entry-title-inner">Appendix J: Secrets and Myths</span></h2>
     <p>The information in this section is strictly for the GM. There is much in Thylea that should be strange and mysterious to the players, even those with native-born characters. This appendix provides additional background to the world and its history. It is for you to decide how much of this to reveal to your players. One way to reveal the legends below is during downtime. When the party takes a long rest, or during the night at sea, one of the NPCs (Kyrah, for example) might decide to tell the heroes one of the old legends, especially if it relates to an upcoming adventure.</p>

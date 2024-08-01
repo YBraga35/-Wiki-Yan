@@ -1,3 +1,6 @@
+---
+draft: true
+---
 <div class="rd__b  rd__b--0">
     <h1 class="rd__h rd__h--0" data-title-index="2116"><span class="entry-title-inner">Appendix C: Class Archetypes</span></h1>
     <p><em>Odyssey of the Dragonlords</em> introduces a number of new class archetypes which can be used by players. These archetypes are flavored to fit with the world of Thylea.</p>

@@ -1,3 +1,6 @@
+---
+draft: true
+---
 <div class="rd__b rd__b--0">
   <h1 class="rd__h rd__h--0" data-title-index="2"><span class="entry-title-inner">Sobre este Livro</span></h1>
   <p>Bem-vindo ao <em>Odyssey of the Dragonlords</em>. Este livreto fornecerá tudo o que você precisa para executar uma campanha épica na terra esquecida de Thylea.</p>

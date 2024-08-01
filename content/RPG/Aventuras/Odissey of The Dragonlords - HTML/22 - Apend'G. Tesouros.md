@@ -1,3 +1,6 @@
+---
+draft: true
+---
 <div class="rd__b  rd__b--0">
     <h1 class="rd__h rd__h--0" data-title-index="2254"><span class="entry-title-inner">Appendix G: Treasures</span></h1>
     <p>This section describes all of the magic items that are unique to Thylea, including legendary treasures such as the Divine Artifacts.</p>

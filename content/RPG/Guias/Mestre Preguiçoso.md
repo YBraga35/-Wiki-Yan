@@ -2,10 +2,13 @@
 title: Guia do Mestre Preguiçoso
 description: Esse documento é supostamente o sumário e a página inicial de todo o meu site baseado nas anotações do Obsidian.
 aliases:
+  - indexação
+  - Índice
   - Lazy Dm
   - Lazy Dungeon master
 tags:
   - index-tag
+  - indice-tag
   - guias
 draft: false
 date: 2024-07-29

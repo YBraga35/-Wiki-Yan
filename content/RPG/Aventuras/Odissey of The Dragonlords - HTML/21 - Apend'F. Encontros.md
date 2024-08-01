@@ -1,3 +1,6 @@
+---
+draft: true
+---
 <div class="rd__b  rd__b--0">
     <h1 class="rd__h rd__h--0" data-title-index="2126"><span class="entry-title-inner">Appendix F: Encounters</span></h1>
     <p>This appendix provides a variety of encounters that you can use on land or at sea during your campaign. Encounters can be used to provide extra combat challenges and atmosphere to journeys across Thylea.</p>

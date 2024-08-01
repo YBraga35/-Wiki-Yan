@@ -1,3 +1,6 @@
+---
+draft: true
+---
 <div class="rd__b  rd__b--1">
     <h2 class="rd__h rd__h--1" data-title-index="2259"><span class="entry-title-inner">Appendix H: Dragonlords</span></h2>
     <p>Dragonlords are a significant part of Thylea's history, as they were largely responsible for carving a place for mortals in the Forgotten Land. Before they crossed the oceans and came to Thylea, the ancient Dragonlords bonded with some of the most powerful and beautiful creatures in the multiverse—metallic dragons. Legend has it that the original Dragonlords stole the ritual knowledge necessary to create the dragon bond from an elder draconic entity called Bahamut.</p>

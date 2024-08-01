@@ -1,3 +1,6 @@
+---
+draft: true
+---
 <div class="rd__b  rd__b--0">
     <h1 class="rd__h rd__h--0" data-title-index="10"><span class="entry-title-inner">Introdução</span></h1>
     <p>Este livro foi projetado para ajudá-lo a conduzir uma campanha de RPG orientada para a história que combina a exploração clássica de masmorras de fantasia com a amplitude épica da mitologia grega. Acontece no mundo de Thylea - um continente esquecido onde criaturas feéricas travam guerra contra a civilização e deuses caminham pela terra sob a aparência de mortais.</p>

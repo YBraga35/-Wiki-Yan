@@ -1,3 +1,6 @@
+---
+draft: true
+---
 <div class="rd__b  rd__b--0">
     <h1 class="rd__h rd__h--0" data-title-index="1"><span class="entry-title-inner">Capa</span></h1>
     <div class="float-clear">

@@ -82,46 +82,19 @@ Desde então, não houve mais grifos, pois não há ninguém para treiná-los, m
 
 # Ordens Sagradas
 As eyries têm quatro ordens sagradas, duas das quais estão quase
-extintas, e uma das quais esteve ativa pela última vez há tanto tempo que agora é
-apenas uma memória fraca. Cada ordem é nomeada após uma criatura das penas.
-Os Cotovias são clérigos e a ordem dominante, com dois níveis de status: as asas
-e as canções. As águias são guerreiros santos com dois cargos: as garras e as águias
-juramentadas. Os falcões são uma ordem de protetores que não reconhecem
-classificações entre si. Os grifos, agora extintos, uma vez dominaram os elementos
-místicos das manifestações de Urian. Além disso, um membro de qualquer seita
-pode ser nomeado senhor da eyrie, para gerenciar uma das fortalezas da fé, mas
-deve abandonar afiliações anteriores para supervisionar as outras seitas de maneira
-justa. Nem todas as eyries selecionam um senhor, e algumas simplesmente
-concedem autoridade ao residente de maior classificação, embora, em todos os
-casos, o Cotovia sênior seja a autoridade em assuntos espirituais.
-A eyrie média tem cinco ou seis asas de Cotovia, duas canções de Cotovia,
-algumas garras de águia e um senhor da eyrie. Quatro falcões podem ser
-residentes, mas raramente participam dos assuntos da eyrie, usando o local
-simplesmente como uma base de operações. No entanto, algumas eyries não têm
-águias e são protegidas pelos falcões.
+extintas, e uma das quais esteve ativa pela última vez há tanto tempo que agora é apenas uma memória fraca. Cada ordem é nomeada após uma criatura das penas.
+Os Cotovias são clérigos e a ordem dominante, com dois níveis de status: as asas e as canções. As águias são guerreiros santos com dois cargos: as garras e as águias juramentadas. Os falcões são uma ordem de protetores que não reconhecem classificações entre si. Os grifos, agora extintos, uma vez dominaram os elementos místicos das manifestações de Urian. Além disso, um membro de qualquer seita
+pode ser nomeado senhor da eyrie, para gerenciar uma das fortalezas da fé, mas deve abandonar afiliações anteriores para supervisionar as outras seitas de maneira justa. Nem todas as eyries selecionam um senhor, e algumas simplesmente concedem autoridade ao residente de maior classificação, embora, em todos os casos, o Cotovia sênior seja a autoridade em assuntos espirituais.
+A eyrie média tem cinco ou seis asas de Cotovia, duas canções de Cotovia, algumas garras de águia e um senhor da eyrie. Quatro falcões podem ser residentes, mas raramente participam dos assuntos da eyrie, usando o local simplesmente como uma base de operações. No entanto, algumas eyries não têm águias e são protegidas pelos falcões.
 
 ## Cotovias de Urian
 #clérigos
 Uma ordem contemplativa, a maioria dos Cotovias vive nas montanhas,
 dedicando toda a sua vida a ponderar os dois aspectos de Urian e as raças mortais.
-Eles são quietos e gentis, reverenciando a luz do sol e da lua. Os Cotovias valorizam
-a contemplação, a compaixão e o orientação suave muito mais do que a ação
-brutal. Existem outras ordens dos Urianita dedicadas a travar guerras brutais e
-salvar os oprimidos; os Cotovias são a ordem espiritual e mística, e muitas vezes
-são difíceis de conversar. Eles falam de mistérios e analisam constantemente as
-lições aprendidas com os acontecimentos no mundo. No entanto, para aqueles
-com corações pesados, sobrecarregados pelo pecado, os Cotovias se mostram
-maravilhosamente prestativos. Eles têm ouvidos atentos, nunca são
-julgamentais e estão sempre ansiosos para oferecer orientação aos que a buscam.
+Eles são quietos e gentis, reverenciando a luz do sol e da lua. Os Cotovias valorizam a contemplação, a compaixão e o orientação suave muito mais do que a ação brutal. Existem outras ordens dos Urianita dedicadas a travar guerras brutais e salvar os oprimidos; os Cotovias são a ordem espiritual e mística, e muitas vezes são difíceis de conversar. Eles falam de mistérios e analisam constantemente as lições aprendidas com os acontecimentos no mundo. No entanto, para aqueles com corações pesados, sobrecarregados pelo pecado, os Cotovias se mostram maravilhosamente prestativos. Eles têm ouvidos atentos, nunca são julgamentais e estão sempre ansiosos para oferecer orientação aos que a buscam.
 Alguns Cotovias deixam suas eyrias para embarcar em uma jornada.
-Eles se reúnem, informam as canções e descem a montanha. Ninguém ordena
-essas missões; em vez disso, os Cotovias sentem o chamado em suas meditações.
-Às vezes, isso é baseado em uma visão, outras vezes em um pressentimento.
-Às vezes, eles até têm certeza de que ouviram o comando no vento. Muitos
-Cotovias são mortos em suas jornadas espontâneas. Outros voltam rapidamente,
-com missões menores cumpridas. Alguns poucos vivem vidas de aventura
-espetacular e heróica, retornando à eyria quando estão velhos e prontos para
-transmitir a sabedoria adquirida em suas jornadas.
+Eles se reúnem, informam as canções e descem a montanha. Ninguém ordena essas missões; em vez disso, os Cotovias sentem o chamado em suas meditações.
+Às vezes, isso é baseado em uma visão, outras vezes em um pressentimento. Às vezes, eles até têm certeza de que ouviram o comando no vento. Muitos Cotovias são mortos em suas jornadas espontâneas. Outros voltam rapidamente, com missões menores cumpridas. Alguns poucos vivem vidas de aventura espetacular e heróica, retornando à eyria quando estão velhos e prontos para transmitir a sabedoria adquirida em suas jornadas.
 
 Os Cotovias têm apenas dois títulos, e eles não são baseados em poder ou prestígio, mas na idade. Um Cotovia jovem ou de meia-idade é uma asa. As asas são encarregadas de levar a fé, aprender, crescer e realizar quaisquer trabalhos físicos necessários. Uma asa é tratada como "asa de Cotovia". Todos os endereços dos Urianitas seguem essa forma, e todos são apresentados usando apenas este endereço - o nome da ordem não é repetido. Portanto, Idrin seria tratado como "Asa de Cotovia Idrin" e apresentado como "a Asa de Cotovia Idrin, das eyries de Urian". Quando uma asa atinge a velhice, ela se torna uma canção, sendo tratada como "canção de Cotovia". É dever delas ensinar aos outros os caminhos dos Cotovias, supervisionar alunos e visitantes na eyrie, e geralmente viver o resto de suas vidas com sabedoria e graça. As canções contemplam a fé e se submetem aos senhores da eyrie em questões seculares.
 

@@ -1,6 +1,6 @@
 ---
 title: Sereno
-draft: true
+draft: false
 date: 2024-08-01
 ---
 # BREVE RESUMO SERENO CORIOLIS:

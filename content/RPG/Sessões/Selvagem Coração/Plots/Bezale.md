@@ -1,6 +1,6 @@
 ---
 title: Bezale
-draft: true
+draft: false
 date: 2024-08-01
 ---
 Uma estrategista exilada e uma clériga com ambições divinas, Bezale Jassan adora apenas a guerra e a si mesma. Criada entre as Legiões de Conse, essa intelectual arcana trouxe espólios e vitórias dignas da Cidade da Guerra, mas trocou sua carreira por vingança e acabou se tornando uma pária entre os seus.

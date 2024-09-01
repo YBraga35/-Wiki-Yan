@@ -1,4 +1,4 @@
-# Deus da Lei e da Justiça,
+# Deus da Lei e da Justiça
 ![[Maal.jpg]]
 
 ## Olhar Firme, o Juiz, Primogênito, Juiz das Almas, Rei das Almas

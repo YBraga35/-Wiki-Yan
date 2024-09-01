@@ -12,14 +12,14 @@ date: 2024-08-01
 
 1. **Reunião com Aliados**:
     - **Conselho de Guerra**: Os personagens se reúnem em **Fortaleza Brilhante**, um antigo castelo restaurado como centro de operações. Entre os presentes estão:
-        - **Lorde Alistair Crowley**: Um nobre veterano de guerra, líder da resistência local.
-        - **Mestre Arin**: Um mago erudito, líder do Círculo Arcano.
-        - **Capitão Thalia**: Líder dos Guardiões do Norte, um grupo de guerreiros especializados em combate contra criaturas sombrias.
+        - **Lorde [[Alistair Crowley]]**: Um nobre veterano de guerra, líder da resistência local.
+        - **[[Mestre Arin]]**: Um mago erudito, líder do Círculo Arcano.
+        - **Capitã Thalia**: Líder dos Guardiões do Norte, um grupo de guerreiros especializados em combate contra criaturas sombrias.
         - **Informações do Barão**: O barão revela que a Shadowclaw está usando antigos **Santuários das Sombras** para canalizar energia para o portal.
 2. **Missões de Preparação**:
     - **Recrutamento de Forças**:
-        - **Floresta de Elarian**: Recrutar **Elara Windrunner**, líder dos elfos da floresta, e seu exército de arqueiros.
-        - **Cidade de Mytros**: Convencer **Archibald, o Artífice**, a fornecer armas e armaduras mágicas.
+        - **Floresta de Elarian**: Recrutar **[[Elara Correvento]]**, líder dos elfos da floresta, e seu exército de arqueiros.
+        - **Cidade de Mytros**: Convencer **[[Archibald, o Artífice]]**, a fornecer armas e armaduras mágicas.
     - **Sabotagem das Operações da Shadowclaw**:
         - **Mina Abandonada de Gorak**: Destruir os suprimentos de cristal sombrio usados pela Shadowclaw.
         - **Vilarejo de Harsford**: Libertar os prisioneiros capturados pela Shadowclaw e resgatar **Sir Gareth**, um cavaleiro que possui informações cruciais.

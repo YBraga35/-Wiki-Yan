@@ -18,6 +18,15 @@ modification date: sábado 10º agosto 2024 22:39:59
 > [!quote] Excellence, then, is a state concerned with choice, lying in a mean, relative to us, this being determined by reason and in the way in which the man of practical wisdom would determine it.
 > — Aristotle
 
+![[ashen-wolf.webp]]
+
+# Sumário
+- [[#A Chama Devoradora]]
+- [[#Patrono Sobrenatural O Lobo Cinzento]]
+- [[#O Festival do Lobo]]
+- [[#Origem Mágica Linhagem Cinza]]
+- [[#Incendiar o Lobo Cinza]]
+
 # A Chama Devoradora
 
 Dentro de cada fogo, há uma ganância insaciável e glutona. Um impulso predatório simples e puro de consumir, devorar e queimar até que nada reste. Madeira, carne e metal se curvam diante da supremacia furiosa da chama.
@@ -234,8 +243,7 @@ O Lobo Cinza é um conceito relativamente simples e possui um tema central singu
 Outra opção é substituir os aspectos lupinos do Lobo Cinza por aspectos mais humanos, transformando-o de uma fera temível em um pirocinético abominável de poder e renome incríveis. Se você decidir seguir por esse caminho, considere mudar a morada desse indivíduo para se adequar ao seu status mais humano e implementar construções feitas pelo homem em seu design.
 
 ## Negócios Mais Sombrio
-
-O Lobo Cinza é conhecido por fazer acordos sem um resultado positivo para aqueles que o procuram, infligindo terríveis maldições que gradualmente transformam o corpo do destinatário em um “ashenspawn” – uma das muitas raças Alfallen de indivíduos tocados pela magia dos Alrisen. Este não é o único preço que o Lobo pede, mas é de longe o mais comum, pois ele se deleita no sofrimento, dor e aceitação gradual da alma transformada, embora essa aceitação raramente sobreviva a um encontro com antigos amigos e familiares. Indivíduos dispostos a invocar o Lobo Cinza geralmente têm muito pouco a perder e tudo a ganhar. Marginais, órfãos e aqueles deixados para morrer frequentemente estão entre os rangos de seus bruxos, embora mercenários, assassinos e outros indivíduos que se importam mais com violência e riqueza por qualquer meio do que com uma vida confortável também sejam atraídos pelo poder distorcido do Lobo. Nem todos que o procuram são tão sombrios. Nobres e campeões de grande fama também são conhecidos por invocar o Lobo, desde que haja a motivação certa, sacrificando o que têm de mais querido nas chamas de uma pira de oferenda na tentativa de obter seu favor. Aqueles que têm sucesso entretêm-no com sua obediência, embora raramente sejam afortunados o suficiente para escapar inteiramente ilesos. A maioria desses indivíduos tem olhos que brilham dourado ou vermelho à luz do fogo, marcando sua natureza de pactuantes com o Lobo.
+O Lobo Cinza é conhecido por fazer acordos sem um resultado positivo para aqueles que o procuram, infligindo terríveis maldições que gradualmente transformam o corpo do destinatário em um “[[Ashenspawn]]” – uma das muitas raças Alfallen de indivíduos tocados pela magia dos Alrisen. Este não é o único preço que o Lobo pede, mas é de longe o mais comum, pois ele se deleita no sofrimento, dor e aceitação gradual da alma transformada, embora essa aceitação raramente sobreviva a um encontro com antigos amigos e familiares. Indivíduos dispostos a invocar o Lobo Cinza geralmente têm muito pouco a perder e tudo a ganhar. Marginais, órfãos e aqueles deixados para morrer frequentemente estão entre os rangos de seus bruxos, embora mercenários, assassinos e outros indivíduos que se importam mais com violência e riqueza por qualquer meio do que com uma vida confortável também sejam atraídos pelo poder distorcido do Lobo. Nem todos que o procuram são tão sombrios. Nobres e campeões de grande fama também são conhecidos por invocar o Lobo, desde que haja a motivação certa, sacrificando o que têm de mais querido nas chamas de uma pira de oferenda na tentativa de obter seu favor. Aqueles que têm sucesso entretêm-no com sua obediência, embora raramente sejam afortunados o suficiente para escapar inteiramente ilesos. A maioria desses indivíduos tem olhos que brilham dourado ou vermelho à luz do fogo, marcando sua natureza de pactuantes com o Lobo.
 
 ## A História de um Bruxo
 

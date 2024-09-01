@@ -1,3 +1,8 @@
+---
+title: Nero
+draft: false
+date: 2024-09-01
+---
 # Antecedente
 Em um antigo bosque, onde a luz da lua filtrava-se suavemente através das copas das árvores, vivia um jovem elfo chamado Nero. Ele era conhecido por habilidade com o arco e pelos cabelos prateados. Nero, no entanto, não era apenas uma alma gentil e sábia, mas também o filho de um respeitado conselheiro e uma habilidosa curandeira, ambos amantes da paz e protetores de seu povo. O lar de Nero estava imerso em serenidade até que, numa noite fatídica, a traição desenrolou-se com uma crueldade devastadora. O líder de uma facção rival, movido pela ambição e pela inveja, traiu a confiança do povo e invadiu a casa de Nero. O ataque foi brutal e letal, resultando na morte de seus pais. Nero, então com apenas dezenove anos, foi o único sobrevivente da carnificina. A dor e o desespero tomaram conta dele, e ele se viu vagando sozinho, carregando o peso da perda e da injustiça.
 Naquela noite terrível, Nero foi capturado pelos invasores e levado para um local sombrio, onde sua vida parecia estar à beira do fim. À medida que a vida lhe escapava lentamente, ele foi deixado para morrer após ser torturado, seu corpo e espírito em um estado de desespero total. No limiar da morte, Nero se encontrou em um lugar desconhecido, onde uma presença etérea e majestosa se fez sentir. Diante dele, apareceu Maal, o rei das almas. O deus estava sentado com uma coruja em seu ombro, com uma majestosa armadura e uma espada em mãos.

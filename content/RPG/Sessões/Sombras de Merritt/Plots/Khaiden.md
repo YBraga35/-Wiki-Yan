@@ -1,6 +1,6 @@
 ---
 title: Khaiden
-draft: true
+draft: false
 date: 2024-08-01
 ---
 

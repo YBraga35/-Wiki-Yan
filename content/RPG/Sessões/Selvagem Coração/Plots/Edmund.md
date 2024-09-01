@@ -1,6 +1,6 @@
 ---
 title: Edmund
-draft: true
+draft: false
 date: 2024-08-01
 ---
 ☑Breve resumo do personagem

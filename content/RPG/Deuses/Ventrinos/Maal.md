@@ -1,3 +1,16 @@
+---
+title: Maal
+description: Esse documento explica sobre o Deus da Lei e da Justiça
+aliases:
+  - Olhar Firme
+  - o Juiz
+  - Primogênito
+  - Juiz das Almas
+  - Rei das Almas
+tags:
+  - deuses
+draft: false
+---
 # Deus da Lei e da Justiça
 ![[Maal.jpg]]
 

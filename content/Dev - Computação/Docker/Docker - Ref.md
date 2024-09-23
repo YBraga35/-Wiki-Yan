@@ -1,3 +1,8 @@
+---
+title: Docker - Ref
+draft: false
+date: 2024-09-01
+---
 Claro! Vamos passar por um guia detalhado para localizar e gerenciar seus arquivos `docker-compose.yml` e seus módulos Docker. Este guia irá ajudá-lo a encontrar e entender onde seus arquivos estão localizados e como fazer mudanças futuras de maneira organizada.
 
 ### Passo 1: Localizando o Arquivo `docker-compose.yml`

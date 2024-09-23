@@ -1,8 +1,24 @@
+---
+title: Shalimyr
+description: Esse documento explica sobre o Deus das Águas Shalimyr
+aliases:
+  - o Furioso
+  - Magnífico
+  - Infinito
+  - a Onda
+  - Avô Oceano
+  - Pai Mar
+  - o Grande Mar
+  - as Águas do Mundo
+tags:
+  - deuses
+draft: false
+---
 # Deus das Águas
 ![[Shalimyr.webp]]
 
 ## O Furioso, Magnífico, Infinito, a Onda, Avô Oceano, Pai Mar, o Grande Mar, as Águas do Mundo
-Shalimyr (SHALL-uh-meer) é o deus caótico neutro das águas do mundo: oceano, rios, lagos, riachos e chuva. Ele é o deus da navegação, pesca e de todos os esforços mortais que dependem da água. Para aqueles que vivem em regiões costeiras, Shalimyr é o senhor das tempestades no mar (para povos sem acesso ao mar, Urian geralmente é considerado o pai das tempestades). Ele é o padroeiro dos pais, pois foi o pai de [[Eliwyn]], a árvore da qual surgiram os deuses e as raças mortais, mas também é o padroeiro dos avôs, pois a partir de [[Eliwyn]] surgiram as raças do mundo.
+Shalimyr (SHALL-uh-meer) é o deus caótico neutro das águas do mundo: oceano, rios, lagos, riachos e chuva. Ele é o deus da navegação, pesca e de todos os esforços mortais que dependem da água. Para aqueles que vivem em regiões costeiras, Shalimyr é o senhor das tempestades no mar (para povos sem acesso ao mar, [[Urian]] geralmente é considerado o pai das tempestades). Ele é o padroeiro dos pais, pois foi o pai de [[Eliwyn]], a árvore da qual surgiram os deuses e as raças mortais, mas também é o padroeiro dos avôs, pois a partir de [[Eliwyn]] surgiram as raças do mundo.
 
 Shalimyr é representado como uma grande figura de pele azul, com cabelos e barba feitos de espuma branca do mar. Ele empunha uma poderosa cimitarra chamada Crista do Mar e veste uma armadura feita de conchas do mar. Em seus olhos dançam as ondas selvagens do mar.
 
@@ -21,7 +37,7 @@ Embora ele despreze o orgulho nos outros (incluindo os outros deuses), Shalimyr 
 
 Dito isso, Shalimyr pode realizar atos de generosidade incrível. Desde os primeiros dias, Shalimyr permitiu que as raças mortais navegassem em suas costas. Às vezes, ele enfurece navios com suas terríveis chuvas e, às vezes, destrói um ou dois navios, mas geralmente é muito gentil com os marinheiros. Os elfos-do-mar teriam todos morrido se não fosse por sua graça. Sempre que uma cidade está sedenta e encontra um novo poço, é a graça de Shalimyr manifestada. Embora seja verdade que ele é caprichoso e muitas vezes uma força de destruição, ele não é mais puramente destrutivo do que é puramente nutridor. Ele pode dar presentes às raças mortais que são tão magníficos quanto suas punições.
 
-Entre os deuses, [[Shalimyr]] geralmente é distante, exceto no que diz respeito a [[Zheenkeef]]. Sua proteção eventualmente se tornou uma obsessão, pois [[Shalimyr]], a Onda, está irremediavelmente apaixonado pela Mãe da Loucura. Dizem que ele e ela se acasalam frequentemente e freneticamente, tudo sem o conhecimento de seu marido [[Tinel]], o deus do conhecimento.
+Entre os deuses, [[Shalimyr]] geralmente é distante, exceto no que diz respeito a [[Zheenkeef]]. Sua proteção eventualmente se tornou uma obsessão, pois [[Shalimyr]], a Onda, está irremediavelmente apaixonado pela [[Zheenkeef|Mãe da Loucura]]. Dizem que ele e ela se acasalam frequentemente e freneticamente, tudo sem o conhecimento de seu marido [[Tinel]], o deus do conhecimento.
 
 ### Servos Abundantes
 Shalimyr tem muitos filhos de suas copiosas uniões com mortais ao longo dos anos, e eles servem como seus assistentes. Entre eles, suas quatro filhas, Oceano, Rio, Lago e Riacho, cada uma supervisionando alguma parte de suas vastas águas para ele. Dizem que Shalimyr vive em um poderoso palácio feito de pérola e alabastro, arrastado pelas águas por doze baleias colossais, cada uma grande o suficiente para engolir uma pequena frota de navios. Essas baleias são nomeadas de acordo com os sons que as ondas fazem quando atingem os diferentes tipos de terra.
@@ -33,7 +49,7 @@ As bacias coletam a adoração, e seu clero e outras ordens sagradas ajudam outr
 Embora as bacias sejam geralmente lugares de devoção religiosa e oração piedosa, também são palco de festivais selvagens e tumultuados, acompanhados de bebedeiras intensas e, às vezes, atividades mais carnais. Os Shalimytas são tanto pacíficos quanto selvagens, assim como as águas.
 Shalimyr está mais envolvido na vida diária de seus adoradores do que qualquer outro deus. Ele está tão envolvido que é provável que ultrapasse os limites do Pacto. Nenhum dos deuses reclama porque, tão frequentemente quanto Shalimyr envia um de seus santos para ajudar um de seus adoradores, ele afunda um navio cheio deles ou aniquila uma cidade de Shalimytas que cresceu gorda e arrogante.
 Adorar Shalimyr é difícil. Envolve um constante debate interno com a própria fé e, frequentemente, com o próprio deus. Significa testes de humildade, a constante ameaça de morte, mensagens do mar e ajuda ou perdição da mão de um deus. É uma religião dramática, assim como Shalimyr é um deus dramático, e seus praticantes raramente são fracos de coração.
-Shalimyr sente como se seus adoradores sejam os únicos mortais que realmente o entendem. Embora todas as pessoas que adorem os deuses da árvore e viajem no mar ou rio prestem homenagem a Shalimyr, elas não vivem uma vida de servidão constante a Ele como ele acredita ser justificado. Entre os deuses, Shalimyr murmura constantemente que os destruirá todos um dia, mas nenhum dos outros deuses o leva a sério. No entanto, alguns estudiosos acreditam que o dia virá quando Shalimyr inundará o mundo, destruindo todos, exceto seus adoradores. A maioria vê esses estudiosos como apenas um pouco menos excêntricos do que os próprios Shalimytas.
+Shalimyr sente como se seus adoradores sejam os únicos mortais que realmente o entendem. Embora todas as pessoas que adorem os [[Grande Igreja|deuses da árvore]] e viajem no mar ou rio prestem homenagem a Shalimyr, elas não vivem uma vida de servidão constante a Ele como ele acredita ser justificado. Entre os deuses, Shalimyr murmura constantemente que os destruirá todos um dia, mas nenhum dos outros deuses o leva a sério. No entanto, alguns estudiosos acreditam que o dia virá quando Shalimyr inundará o mundo, destruindo todos, exceto seus adoradores. A maioria vê esses estudiosos como apenas um pouco menos excêntricos do que os próprios Shalimytas.
 Independentemente disso, porque desenvolveram um sistema de mostrar a ele um respeito tão elaborado, Shalimyr está bastante envolvido com os Shalimytas, gosta deles e fica um pouco triste quando precisa aniquilar navios inteiros deles porque o deixaram zangado.
 
 ## Doutrina da Humildade
@@ -59,7 +75,7 @@ Todo dia acordamos com nossas casas ainda intactas, nossas embarcações ainda j
 As Três Bênçãos são tão importantes para os Shalimytas porque eles sabem que Shalimyr é um deus vingativo e irado. Ele nutre aqueles que lhe mostram o devido respeito e destrói completamente os arrogantes. Os próprios Shalimytas ficam felizes em aplaudir essa destruição. As brigas de taverna iniciadas pelos Shalimytas são lendárias e facilmente iniciadas, pois consideram um dever religioso esvaziar o ego de homens pomposos. Se um homem se vangloriar em uma taverna de marinheiros sobre suas bravas e poderosas proezas, pode esperar um caneco na cabeça em breve.
 A fé Shalimyta é provavelmente a única fé (nominalmente) "boa" onde alguém faz seu dever religioso nocauteando alguém em um bar. Mas os Shalimytas realmente acreditam que estão ajudando essas pessoas, pois se acham arrogantes, imagine o que o Furioso Shalimyr fará com elas! Na verdade, os Shalimytas verdadeiramente devotos podem ser ouvidos murmurando "isso é para o seu próprio bem, em nome de Shalimyr" enquanto acertam a cabeça de um tolo pomposo e desprevenido com uma cadeira.
 É claro que nem todos os Shalimytas se entregam a esse tipo de comportamento, pois a fé abrange uma ampla gama, desde seguidores bons e caóticos até adoradores maus e caóticos. No entanto, quase todos os Shalimytas acham ridícula e risível a imposição de códigos elaborados de leis. A autoridade deve vir do respeito e da devoção pessoal. É assim que o capitão de um navio pode liderar uma tripulação incrivelmente leal, todos os quais morreriam com prazer sob sua palavra, sem ser considerado arrogante — cada membro da tripulação conhece o Capitão e o respeita. No entanto, tente dizer a um Shalimyta: "Você deve me obedecer porque essas são as regras", e isso não te levará longe. Some a isso o fato de que os Shalimytas estão dispostos a perder a vida caso Shalimyr chame, e você tem um potencial tumulto se formando em cada porto do mundo.
-Vale dizer, no entanto, que como todas as outras religiões dos deuses da árvore, nem todo Shalimyta é devoto ao ponto de estar disposto a morrer a qualquer momento. Existem muitos seguidores mais "racionais" de Shalimyr, o Infinito. Mas as Três Bênçãos tornam a religião volátil.
+Vale dizer, no entanto, que como todas as outras religiões dos [[Grande Igreja|deuses da árvore]], nem todo Shalimyta é devoto ao ponto de estar disposto a morrer a qualquer momento. Existem muitos seguidores mais "racionais" de Shalimyr, o Infinito. Mas as Três Bênçãos tornam a religião volátil.
 
 ## **Orações de Shalimyr**
 #oração #reza 
@@ -103,7 +119,7 @@ Quase todos os marinheiros de Shalimyr são caóticos, mas suas visões de mundo
 
 Marinheiros caóticos bons estendem sua preocupação para aqueles fora da fé. Eles acreditam que as virtudes da humildade e do sacrifício são exemplos para todas as pessoas, então tentam viver de acordo com elas. Eles pregam contra a arrogância daqueles que afirmam ter as respostas para todas as grandes perguntas, ou aqueles que dizem conhecer "o caminho". Eles são agitadores e arruaceiros, mas visam melhorar a sorte de todas as pessoas por meio da beleza duradoura de Shalimyr. Muitas vezes, esses marinheiros são aventureiros, já que os carpinteiros navais da bacia os consideram muito interessados em assuntos fora dos Shalimytas. Tal interesse é frequentemente condenado como orgulho; marinheiros acusados devem deixar a comunidade. No entanto, existem algumas bacias dominadas por marinheiros caóticos bons, e esses lugares são refúgios para todos os Shalimytas de mentalidade semelhante.
 
-Ao contrário de quase todas as outras igrejas dos deuses da árvore, onde adoradores malignos têm cultos separados repudiados pela igreja principal, marinheiros caóticos malignos têm um lugar nas bacias, desde que não ajam contra seus companheiros Shalimytas. Uma espécie de ramificação "ativista" das bacias, marinheiros caóticos malignos acreditam que Shalimytas deseja que os arrogantes e orgulhosos sejam erradicados. Segundo o raciocínio deles, isso entristece Shalimyr sempre que ele precisa destruir mortais com suas águas, porque mostra que seus seguidores são fracos demais e covardes para eliminar os orgulhosos por si mesmos. Marinheiros caóticos malignos levam o dever a sério causando estragos. Eles podem invadir as casas de nobres pomposos, matá-los e suas famílias, e queimar suas casas. Embora as bacias rotineiramente neguem qualquer conhecimento dessas atividades, muitos apoiam essas obras como males necessários.
+Ao contrário de quase todas as outras igrejas dos [[Grande Igreja|deuses da árvore]], onde adoradores malignos têm cultos separados repudiados pela igreja principal, marinheiros caóticos malignos têm um lugar nas bacias, desde que não ajam contra seus companheiros Shalimytas. Uma espécie de ramificação "ativista" das bacias, marinheiros caóticos malignos acreditam que Shalimytas deseja que os arrogantes e orgulhosos sejam erradicados. Segundo o raciocínio deles, isso entristece Shalimyr sempre que ele precisa destruir mortais com suas águas, porque mostra que seus seguidores são fracos demais e covardes para eliminar os orgulhosos por si mesmos. Marinheiros caóticos malignos levam o dever a sério causando estragos. Eles podem invadir as casas de nobres pomposos, matá-los e suas famílias, e queimar suas casas. Embora as bacias rotineiramente neguem qualquer conhecimento dessas atividades, muitos apoiam essas obras como males necessários.
 
 ### **Mãos de Praia**
 

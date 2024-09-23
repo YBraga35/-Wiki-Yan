@@ -1,9 +1,20 @@
+---
+title: Naran
+description: Esse documento explica sobre o Deus da Tirania, Orgulho e Astúcia
+aliases:
+  - o Irmão Sábio
+  - o Olhar Penetrante
+  - Senhor
+tags:
+  - deuses
+draft: false
+---
 # Deus da Tirania, Orgulho e Astúcia
 ![[Naran.jpg]]
 
 ## O Irmão Sábio, o Olhar Penetrante, Senhor
 
-Naran é o deus legalmente maligno da astúcia, tirania, orgulho, escravidão, tramas, vilania e conspirações. Ele é o líder dos Três Irmãos e busca posicioná-los para dominar o mundo. Ele confia em Asmodeus apenas até o limite do Pacto Sombrio, sabendo que seus termos não serão violados. No entanto, uma vez cumprido o pacto, ele espera que o autoproclamado Rei do Universo o traia e a seus irmãos. Por essa razão, Naran planeja uma guerra em várias camadas. Ele permanece oculto, manipulando as raças mortais em direção ao mal; ele se move para tomar o controle do pilar da terra; ele planeja derrubar os deuses da árvore uma vez que o pilar seja tomado; e ele planeja destruir Asmodeus quando essa guerra for vencida.
+Naran é o deus legalmente maligno da astúcia, tirania, orgulho, escravidão, tramas, vilania e conspirações. Ele é o líder dos Três Irmãos e busca posicioná-los para dominar o mundo. Ele confia em [[Asmodeus]] apenas até o limite do Pacto Sombrio, sabendo que seus termos não serão violados. No entanto, uma vez cumprido o pacto, ele espera que o autoproclamado [[Asmodeus|Rei do Universo]] o traia e a seus irmãos. Por essa razão, Naran planeja uma guerra em várias camadas. Ele permanece oculto, manipulando as raças mortais em direção ao mal; ele se move para tomar o controle do pilar da terra; ele planeja derrubar os [[Grande Igreja|deuses da árvore]] uma vez que o pilar seja tomado; e ele planeja destruir [[Asmodeus]] quando essa guerra for vencida.
 
 Naran é capaz de planejar tão cuidadosamente porque é o mais astuto de todos os deuses. Talvez seja tão sábio quanto [[Morwyn]], mas onde ela direciona sua sabedoria para o bem, a dele é voltada para a pura malevolência e controle. Ele é o senhor dos esquemas malignos.
 
@@ -26,7 +37,7 @@ Os Naranitas são um povo astuto e orgulhoso, e qualquer ofensa à sua honra ou 
 >>"O fraco deve ser protegido? Se não fosse tão perigoso, a ideia seria risível. Os fortes devem servir àqueles que precisam de sua ajuda? A própria noção desafia tudo o que a natureza nos diz. O leão mais forte serve ao mais fraco? Eu sou forte e não servirei aos fracos. Tomarei o que quero e farei o que quiser, e que seja amaldiçoado aquele que se opuser a mim!" 
 >—Declaração dos Naranitas do Duque Farvan Ulgost
 
-Naran ensina seus seguidores a procurar fraquezas, aproveitar oportunidades e serem fortes. Ao contrário dos Thellinos, os Naranitas não praticam uma religião egoísta. Eles acreditam que os fortes devem governar e obedecer àqueles que são mais fortes do que eles, para ganhar poder como vassalos. Eles trabalham juntos para fortalecer os Naranitas, recrutando convertidos com promessas de poder e trabalhando de perto com vários cultos infernais. Se [[Asmodeus]] é o Rei do Universo, os Naranitas se veem como servos do Príncipe Herdeiro. Mas um dia, o Príncipe será Rei.
+Naran ensina seus seguidores a procurar fraquezas, aproveitar oportunidades e serem fortes. Ao contrário dos Thellinos, os Naranitas não praticam uma religião egoísta. Eles acreditam que os fortes devem governar e obedecer àqueles que são mais fortes do que eles, para ganhar poder como vassalos. Eles trabalham juntos para fortalecer os Naranitas, recrutando convertidos com promessas de poder e trabalhando de perto com vários cultos infernais. Se [[Asmodeus]] é o [[Asmodeus|Rei do Universo]], os Naranitas se veem como servos do Príncipe Herdeiro. Mas um dia, o Príncipe será Rei.
 
 Os Naranitas pregam que a astúcia, o autocontrole e o controle sobre os outros são igualmente valiosos e necessários. Por exemplo, muitos Naranitas são funcionários em bons governos que esperam o momento certo para tomar autoridade e poder. Eles aguardam em posições menores, mantendo seu desejo de poder sob controle até encontrarem o momento certo para agir.
 

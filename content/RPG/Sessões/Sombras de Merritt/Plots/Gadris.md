@@ -1,6 +1,6 @@
 ---
 title: Gadris
-draft: false
+draft: true
 date: 2024-08-01
 ---
 Começou com dois irmãos e um pai, que claramente tinha seu filho favorito, que no caso era meu irmão. Desde cedo, percebi que o tratamento era diferente para cada um de nós. Enquanto eu tinha que aprender e conquistar tudo sozinha, meu irmão recebia tudo de mão beijada. Sabia que a culpa não era dele, então nunca o culpei por isso.

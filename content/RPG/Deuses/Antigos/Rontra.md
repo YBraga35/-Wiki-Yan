@@ -1,3 +1,18 @@
+---
+title: Rontra
+description: Esse documento explica sobre a Deusa Terra Rontra
+aliases:
+  - Deusa Terra
+  - Avó
+  - Venerável
+  - a Terra
+  - a Fonte
+  - a Mãe Terra
+  - a Antecessora
+tags:
+  - deuses
+draft: false
+---
 # A Deusa da Terra
 ![[Rontra.webp]]
 
@@ -45,7 +60,7 @@ Os adoradores mais místicos de [[Rontra]] acreditam que a superfície do mundo 
 ## Fundações de Rontra
 As fundações de Rontra, onde os Rontranos adoram, podem ser encontradas em muitas terras, pois seus seguidores são bastante numerosos. Em áreas rurais, onde a agricultura e a vida da terra são uma necessidade, quase sempre há uma fundação Rontranas presente. Os fazendeiros oferecem orações diárias lá, para que Rontra possa abençoar suas colheitas.
 
-Nas cidades, as fundações de [[Rontra]] são muito menos comuns. Quando encontradas, estão mais preocupadas com seu aspecto de fertilidade. Mulheres de todas as classes sociais prestam homenagem à Fonte da Vida, esperando poder "dar frutos", assim como a árvore de [[Eliwyn]] fez pela graça de Rontra. Muitas vezes, as igrejas de [[Rontra]] e [[Morwyn]] estão vinculadas, pois são consideradas a avó e mãe do povo, respectivamente. Nas catedrais da Grande Igreja, seus altares estão sempre juntos.
+Nas cidades, as fundações de [[Rontra]] são muito menos comuns. Quando encontradas, estão mais preocupadas com seu aspecto de fertilidade. Mulheres de todas as classes sociais prestam homenagem à Fonte da Vida, esperando poder "dar frutos", assim como a árvore de [[Eliwyn]] fez pela graça de Rontra. Muitas vezes, as igrejas de [[Rontra]] e [[Morwyn]] estão vinculadas, pois são consideradas a avó e mãe do povo, respectivamente. Nas catedrais da [[Grande Igreja]], seus altares estão sempre juntos.
 
 O principal objetivo da igreja de [[Rontra]] é sustentar a vida e a terra que a sustenta. Aqueles que matam e ferem sem motivo, ou saqueiam a terra sem motivo, são inimigos da fé Rontrana. Sacerdotes de [[Rontra]] se veem como conselheiros mais do que líderes do povo. Eles oferecem orientação aos fiéis e mantêm a saúde de seu rebanho por meio de sabedoria e conselhos. Eles dão a própria vida, se necessário, para defender a terra e os seres vivos que dela retiram sustento, mas raramente dizem às pessoas o que devem ou precisam fazer.
 

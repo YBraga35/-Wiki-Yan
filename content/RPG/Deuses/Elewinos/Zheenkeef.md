@@ -1,3 +1,19 @@
+---
+title: Zheenkeef
+description: Esse documento explica sobre a Deusa do Vinho, Loucura e Inspiração Zheenkeef
+aliases:
+  - a Ruiva
+  - Olhos Selvagens
+  - a Mutante
+  - dos Muitos Caminhos
+  - a Gnômica
+  - Raiz do Titã
+  - Mãe da Loucura
+  - Inspiradora
+tags:
+  - deuses
+draft: false
+---
 # Deusa do Vinho, Loucura e Inspiração
 ![[Zheenkeef.jpg]]
 
@@ -7,7 +23,7 @@ Zheenkeef (zheen-KEEF) é a deusa caótica e neutra da inspiração, intuição,
 
 Zheenkeef geralmente é representada como incrivelmente alta, com uma juba selvagem de cabelos vermelhos. Seus olhos geralmente são inumanos, totalmente pretos ou vermelhos, e às vezes ela é mostrada com a cauda de um cachorro ou com mais de dois braços. Nesses casos, essas representações são simbólicas ou derivam da visão de um artista. Os gestos das mãos de Zheenkeef e os itens que ela segura geralmente têm algum significado profundo.
 
-Zheenkeef aceita um número infinito de símbolos, pois aqueles que a adoram escolhem um símbolo para sua fé no dia em que se dedicam ao seu trabalho. Símbolos comuns incluem algemas usadas nos pulsos com a corrente rompida, um olho tatuado na testa ou uma videira de uva rastejante, seca e enrolada ao redor do braço esquerdo, sempre. Mas esses são apenas alguns de muitos — verdadeiramente, não há um único símbolo de Zheenkeef. Quando aqueles que não são seguidores da fé de Zheenkeef (e os membros da Grande Igreja) precisam simbolizá-la, usam um cacho de uvas. Isso geralmente é simplificado como uma pirâmide invertida de círculos.
+Zheenkeef aceita um número infinito de símbolos, pois aqueles que a adoram escolhem um símbolo para sua fé no dia em que se dedicam ao seu trabalho. Símbolos comuns incluem algemas usadas nos pulsos com a corrente rompida, um olho tatuado na testa ou uma videira de uva rastejante, seca e enrolada ao redor do braço esquerdo, sempre. Mas esses são apenas alguns de muitos — verdadeiramente, não há um único símbolo de Zheenkeef. Quando aqueles que não são seguidores da fé de Zheenkeef (e os membros da [[Grande Igreja]]) precisam simbolizá-la, usam um cacho de uvas. Isso geralmente é simplificado como uma pirâmide invertida de círculos.
 
 Ela está associada ao wolverine, ao texugo, ao chacal e à hiena. A associação mais forte é com a hiena, cujo riso é muito semelhante ao dela. Além disso, muitas hienas têm pelagem vermelha, como o cabelo da Mãe da Loucura.
 

@@ -1,5 +1,5 @@
 ---
-title: Personagem Coveiro
+title: Coveiro
 description: Aqui está uma descrição de como é o Coveiro, um personagem criado pelo Samuel para a campanha de Sombras de Merritt
 aliases:
   - Estel
@@ -7,13 +7,7 @@ tags:
   - herói
   - bárbaro
 draft: false
-date: 2024-07-28
-creation date: 2024-07-28 12:12
-modification date: domingo 28º julho 2024 14:35:13
 ---
-
-> [!quote] Technology is teaching us to be human again.
-> — Simon Mainwaring
 
 ## Sumário
 - [[#História]]

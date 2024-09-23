@@ -1,3 +1,18 @@
+---
+title: Korak
+description: Esse documento explica sobre o Deus da Forja e dos Artesãos
+aliases:
+  - Senhor dos Artesãos
+  - Grande Artesão
+  - Forjador de Almas
+  - Rei da Caldeira
+  - Mestre
+  - Mão de Martelo
+  - Hábil com as Mãos
+tags:
+  - deuses
+draft: false
+---
 # Deus da Forja e dos Artesãos
 ![[Korak.jpg]]
 

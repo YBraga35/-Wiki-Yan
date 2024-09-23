@@ -1,3 +1,15 @@
+---
+title: Eliwyn
+description: Esse documento explica sobre A Árvore da Vida Eliwyn
+aliases:
+  - a Preciosa
+  - a Única Árvore
+  - a Árvore da Vida
+  - a Dadora de Vida
+tags:
+  - deuses
+draft: false
+---
 # A Árvore da Vida
 ![[EliwynF.webp]]
 ## A Preciosa, a Única Árvore, a Árvore da Vida, a Dadora de Vida
@@ -6,7 +18,7 @@
 
 [[Eliwyn]] é representada como uma grande árvore florida com folhas douradas e flores de prata. Dessa árvore pendem cinco grandes frutos dourados - ou, se a representação for mitologicamente "atual", um único fruto. No entanto, os druidas e outros "adoradores" de [[Eliwyn]] não a representam em ícones ou com símbolos, pois todas as árvores nascem à sua imagem, e toda a vida é um lembrete da glória de Eliwyn.
 
-## Um Protetor Silencioso
+## Uma Protetora Silenciosa
 Eliwyn não é consciente, não se comunica e não possui um espírito. Ela é uma árvore grande e poderosa, e seu propósito é viver até morrer, emitir brotos que crescerão em novas árvores, suportar os frutos restantes até que caiam e, talvez, dar frutos novamente. O propósito de Eliwyn é o mesmo que o propósito de todas as árvores, apenas em uma escala maior, porque ela é a primeira árvore, e a partir dela o ciclo da vida começou.
 
 ## Guardiões da Natureza
@@ -18,7 +30,7 @@ Não existem ordens sagradas na "igreja" de Eliwyn. Suas catedrais são as clare
 
 Os druidas podem pertencer a qualquer Círculo de Druidas, e os mais poderosos entre eles residem na grande clareira de Eliwyn, onde servem como seus protetores. Eles cuidam dela e a mantêm segura de qualquer um que possa prejudicá-la.
 
-Há druidas no mundo que rezam para deuses, no entanto, e geralmente reverenciam uma espécie de trindade: [[Rontra]], de quem toda a natureza nasceu; Eliwyn, que é a natureza; e Thellyne, a primeira dos deuses a verdadeiramente respeitar e cuidar da natureza. No entanto, esses druidas recebem seus feitiços do poder da vida e da natureza, assim como os outros, e não são considerados clérigos de [[Rontra]] ou Thellyne.
+Há druidas no mundo que rezam para deuses, no entanto, e geralmente reverenciam uma espécie de trindade: [[Rontra]], de quem toda a natureza nasceu; Eliwyn, que é a natureza; e [[Thellyne]], a primeira dos deuses a verdadeiramente respeitar e cuidar da natureza. No entanto, esses druidas recebem seus feitiços do poder da vida e da natureza, assim como os outros, e não são considerados clérigos de [[Rontra]] ou [[Thellyne]].
 
 Em algumas terras, um novo culto está surgindo, no entanto. Chamado de "Culto do Quinto Fruto", ele deixou de lado a adoração dos deuses vivos e, em vez disso, presta homenagem ao fruto verde na ramificação de Eliwyn, que para eles representa o grande desconhecido e a esperança de um amanhã melhor. Tais cultistas são considerados loucos por muitos, por reverenciar um deus inexistente. Muitos desses cultistas se autodenominam druidas, embora não (pelo que se tem registrado) possuam poderes druídicos. Essa apropriação indevida do nome "druida" enfureceu alguns druidas reais, enquanto outros a veem como parte do grande ciclo e permanecem indiferentes ao assunto.
 
@@ -33,7 +45,7 @@ Em algumas terras, um novo culto está surgindo, no entanto. Chamado de "Culto d
 > 
 > Quando [[Thellyne]] viu que esses mortais atacavam a árvore, ela disparou com seu arco de caçadora. Em três respirações, ela matou os três mais poderosos entre eles, tamanho era sua habilidade, poderoso seu arco e mortal sua mira.
 > 
-> O sangue do primeiro druida derramado nas raízes de Eliwyn deu origem a um campo de papoulas vermelhas, eternamente mostrando sua tristeza pela passagem do grande druida, e os rebentos das raízes de Eliwyn que se banharam no sangue ganharam vida e ainda percorrem a Terra. Estes são os treants, protetores da floresta.
+> O sangue do primeiro druida derramado nas raízes de Eliwyn deu origem a um campo de papoulas vermelhas, eternamente mostrando sua tristeza pela passagem do grande druida, e os rebentos das raízes de Eliwyn que se banharam no sangue ganharam vida e ainda percorrem [[Rontra|a Terra]]. Estes são os treants, protetores da floresta.
 > 
 > O sangue do segundo druida derramado na clareira ao redor de Eliwyn deu origem a uma grande ramagem de rosas vermelhas de seu sangue e espinhos para proteger a Árvore da Vida. Da moita surgiu a naga, um grande espírito protetor, como uma serpente nascida de espinhos e moitas.
 > 

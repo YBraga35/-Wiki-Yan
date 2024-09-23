@@ -1,3 +1,22 @@
+---
+title: Darmon
+description: Esse documento explica sobre o Deus da Viagem, Riqueza e Alegria Darmon
+aliases:
+  - Lábia de Prata
+  - Astuto
+  - Engenhoso
+  - Alegre
+  - o Viajante
+  - dos Vários Rostos
+  - o Deus Risonho
+  - Mestre da Estrada
+  - Senhor dos Caminhos
+  - Campeão do Céu
+  - o Mensageiro Dourado
+tags:
+  - deuses
+draft: false
+---
 # O Deus da Viagem, Riqueza e Alegria
 ![[Darmon.jpg]]
 

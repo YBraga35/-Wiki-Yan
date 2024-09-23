@@ -1,3 +1,18 @@
+---
+title: Mormekar
+description: Esse documento explica sobre o Deus da Morte e Renascimento Mormekar
+aliases:
+  - Silencioso
+  - Temeroso
+  - o Entregador
+  - a Sombra
+  - o Peregrino Sombrio
+  - o Último Guia
+  - Morte
+tags:
+  - deuses
+draft: false
+---
 # Deus da Morte e Renascimento
 ## Silencioso, Temeroso, o Entregador, a Sombra, o Peregrino Sombrio, o Último Guia, Morte
 
@@ -7,7 +22,7 @@ Mormekar é representado como o mais alto de todos os deuses, mas magro como um 
 
 O símbolo de Mormekar é seu cajado queimado ou outro pedaço de madeira carbonizada. Isso recorda a pira sobre a qual os deuses foram queimados, seu cajado e o fogo da morte e renascimento que ele empunha. Quando um símbolo simples e rápido de Mormekar é necessário, as pessoas usam uma mancha de fuligem.
 
-Ele é adorado por todas as pessoas, incluindo algumas que nada sabem sobre os deuses da árvore. O poder da morte toca todos os mortais. A adoração não é gratidão, no entanto, e a maioria é bastante cautelosa com o poder de Mormekar, evitando seus templos sempre que possível. No entanto, todos que morrem são, quando possível, levados a um templo de Mormekar para os ritos finais, para facilitar a passagem para a terra do filho de Mormekar, [[Maal]]. Em todo caso, não é uma igreja popular, e poucos se juntam às suas ordens sagradas. Nenhuma classe específica está regularmente associada a Mormekar, nem há uma classe menos propensa a ter seus adoradores do que qualquer outra.
+Ele é adorado por todas as pessoas, incluindo algumas que nada sabem sobre os [[Grande Igreja|deuses da árvore]]. O poder da morte toca todos os mortais. A adoração não é gratidão, no entanto, e a maioria é bastante cautelosa com o poder de Mormekar, evitando seus templos sempre que possível. No entanto, todos que morrem são, quando possível, levados a um templo de Mormekar para os ritos finais, para facilitar a passagem para a terra do filho de Mormekar, [[Maal]]. Em todo caso, não é uma igreja popular, e poucos se juntam às suas ordens sagradas. Nenhuma classe específica está regularmente associada a Mormekar, nem há uma classe menos propensa a ter seus adoradores do que qualquer outra.
 
 
 ## **Dever da Morte**
@@ -37,7 +52,7 @@ Dito isso, o afeto raramente se estende a interferência ou orientação real. M
 > "Se eu não cumprir meu dever para com Mormekar, o que sou eu? Eu poderia ignorar os decretos da Morte como outros fazem, eu poderia fingir que a morte está além do meu entendimento como eles fazem, mas isso me faria pouco mais que um covarde. Eu carrego os fardos do dever, e todos que fariam o que é certo seguirão meus passos."
 > — O quarto decreto do Ministro Alonzo d'Eriq
 
-A fé Mormekim é uma devoção seguida por poucos. Embora quase todos que adoram os deuses da árvore venham às sacristias para serviços fúnebres, a maioria deixa outros assuntos da morte para essas pessoas estranhas, que são completamente devotas aos seus caminhos. As doações dadas pelas famílias dos mortos mais do que financiam as sacristias. Algumas pessoas acreditam que quanto mais generosamente derem, mais amável Mormekar será com seus entes queridos, então as sacristias frequentemente têm muito mais dinheiro do que podem usar.
+A fé Mormekim é uma devoção seguida por poucos. Embora quase todos que adoram os [[Grande Igreja|deuses da árvore]] venham às sacristias para serviços fúnebres, a maioria deixa outros assuntos da morte para essas pessoas estranhas, que são completamente devotas aos seus caminhos. As doações dadas pelas famílias dos mortos mais do que financiam as sacristias. Algumas pessoas acreditam que quanto mais generosamente derem, mais amável Mormekar será com seus entes queridos, então as sacristias frequentemente têm muito mais dinheiro do que podem usar.
 
 A fé pode ser explicada em três enunciados, frequentemente repetidos pelos Mormekim. Mormekar teria feito essas três afirmações a d'Eriq há muito tempo:
 > A morte é sagrada. Ministre a todos aqueles que passaram por este rito que eu lhe dei, e você será abençoado.
@@ -46,7 +61,7 @@ A fé pode ser explicada em três enunciados, frequentemente repetidos pelos Mor
 
 Alonzo d'Eriq foi o primeiro a administrar o rito quando fundou a ordem dos ministros. Ele deu à ordem um rito de vinte passos para preparar os mortos, transmitido por Mormekar. O rito conecta o ministro ao corpo e ao espírito do falecido, para que todos possam ser devidamente preparados para Mormekar. Deve ser realizado dentro de um dia da morte. Os Mormekim acreditam que, se esta cerimônia não for realizada adequadamente, o espírito pode ficar preso no mundo, erguendo-se como um dos mortos inquietos. O conhecimento do rito leva alguns Mormekim a acreditar, talvez arrogantemente, que eles sozinhos realizam um dever adequado e útil para os deuses.
 
-Se uma pessoa morre e não recebe o rito, a maioria do clero dos deuses da árvore pode realizar uma aproximação razoável. Uma aproximação não é o rito adequado, no entanto, e muitos fiéis solicitam que seus corpos sejam levados aos Mormekim se morrerem, mesmo que estejam longe da civilização. Diferentes sociedades têm noções diferentes sobre o que acontece após o rito—algumas queimam os corpos, outras os enterram. O rito é uma preparação, não a totalidade do descarte do corpo.
+Se uma pessoa morre e não recebe o rito, a maioria do clero dos [[Grande Igreja|deuses da árvore]] pode realizar uma aproximação razoável. Uma aproximação não é o rito adequado, no entanto, e muitos fiéis solicitam que seus corpos sejam levados aos Mormekim se morrerem, mesmo que estejam longe da civilização. Diferentes sociedades têm noções diferentes sobre o que acontece após o rito—algumas queimam os corpos, outras os enterram. O rito é uma preparação, não a totalidade do descarte do corpo.
 
 Há mais na fé do que o rito, é claro. A irmandade obediente foi formada para se concentrar na segunda afirmação, embora seja um édito que todos os Mormekim obedeçam. Eles erradicam os mortos-vivos e aqueles que os criariam. A Morte deve permanecer sacrossanta e inviolável. A última afirmação diferencia os Mormekim de outras fés do panteão: eles proíbem expressamente qualquer magia que traga uma pessoa de volta da morte e aconselham seus companheiros contra o uso de tal magia. Por esse motivo, geralmente é impossível ressuscitar um Mormekim, a menos que o falecido retorne para realizar uma tarefa maior em prol da santidade da morte.
 
@@ -118,7 +133,7 @@ Os iniciados da ordem devem encontrar um irmão ou irmã obediente disposto a tr
 
 Mormekar é o deus do renascimento, assim como da morte. Isso raramente tem algum impacto na sociedade mortal, pois aqueles que renascem não têm lembrança de suas vidas anteriores. No entanto, há aqueles que acreditam ser possível influenciar o próprio renascimento, ou até renascer durante a vida. Alguns que levaram vidas de maldade indescritível vêm às sacristias de Mormekar implorando para renascerem, para que possam corrigir seus atos imperdoáveis. Esses atos geralmente são crimes que certamente resultariam em punição eterna em um dos reinos infernais - conluio com demônios e diabos, assassinato de familiares, ou algo pior.
 
-As pessoas em busca do renascimento rezam por dias, às vezes semanas, para os outros deuses da árvore, implorando por perdão. Durante esse tempo, os ministros trazem comida e água, mas não falam com o suplicante. No final desse período, o penitente se levanta e os ministros administram o rito, embora ela ainda respire. O penitente então pula para uma das enormes bacias que ficam no centro de cada sacristia, mostrando que está preparado para fazer o sacrifício supremo pelo perdão e se render à vontade dos deuses.
+As pessoas em busca do renascimento rezam por dias, às vezes semanas, para os outros [[Grande Igreja|deuses da árvore]], implorando por perdão. Durante esse tempo, os ministros trazem comida e água, mas não falam com o suplicante. No final desse período, o penitente se levanta e os ministros administram o rito, embora ela ainda respire. O penitente então pula para uma das enormes bacias que ficam no centro de cada sacristia, mostrando que está preparado para fazer o sacrifício supremo pelo perdão e se render à vontade dos deuses.
 
 Normalmente, as chamas consomem o penitente, e ninguém sabe se ela alcança o perdão ou as tormentas do além para as quais estava destinada. Uma vez ou outra, por razões conhecidas apenas pelos deuses, o fogo não consome o penitente. Ela se levanta das chamas, e os ministros se reúnem ao seu redor. Eles a ungem com três óleos puros - um para o nascimento, um para a vida e outro para a morte - e lhe dão um novo nome. Sob este novo nome, ela é enviada para o mundo para corrigir os terríveis erros que cometeu em sua vida anterior. Ela agora faz parte dos renascidos, a terceira ordem sagrada dos Mormekim. Ela não recebe nenhum tratamento especial, honrarias ou apresentação, mas pode pedir a ajuda de qualquer Mormekim fiel dizendo: "Eu renasci". Para detalhes sobre como interpretar um dos renascidos, consulte o Capítulo X.
 
@@ -130,13 +145,13 @@ Normalmente, as chamas consomem o penitente, e ninguém sabe se ela alcança o p
 > 
 > Mas aqueles que buscam verdades mais profundas sabem que há uma coisa pela qual Mormekar se importa. Aqueles que examinam o mundo no outono, quando todas as coisas mudam de justas para escuras, sabem o que move seu coração: o amor por [[Morwyn]], a Misericordiosa, sua esposa.
 > 
-> No entanto, esse amor deve ser frustrado a cada ano. Há muito tempo, quando Mormekar apareceu pela primeira vez no mundo, quando [[Terak]] e [[Tinel]] se mataram e destruíram [[Eliwyn]], o Passeador Sombrio veio a amar a Rainha dos Céus, a quem os homens chamam de [[Morwyn]]. Juntos, eles geraram um filho, [[Maal]], que foi o primeiro filho nascido de um ventre e agora é o Juiz das Almas. Naqueles dias, a morte era rara, e Mormekar não era tão gélido em temperamento. Mas [[Terak]] renasceu, e ele havia conquistado o coração de [[Morwyn]] muito antes da chegada de Mormekar. Ela tomou [[Terak]] como marido também e o fez Rei nos Céus, não Mormekar.
+> No entanto, esse amor deve ser frustrado a cada ano. Há muito tempo, quando Mormekar apareceu pela primeira vez no mundo, quando [[Terak]] e [[Tinel]] se mataram e destruíram [[Eliwyn]], o Passeador Sombrio veio a amar a Rainha dos Céus, a quem os homens chamam de [[Morwyn]]. Juntos, eles geraram um filho, [[Maal]], que foi o primeiro filho nascido de um ventre e agora é o [[Maal|Juiz das Almas]]. Naqueles dias, a morte era rara, e Mormekar não era tão gélido em temperamento. Mas [[Terak]] renasceu, e ele havia conquistado o coração de [[Morwyn]] muito antes da chegada de Mormekar. Ela tomou [[Terak]] como marido também e o fez Rei nos Céus, não Mormekar.
 > 
 > De fato, quem poderia culpar a bela Rainha, pois Mormekar é sombrio e austero. Ele não ri e conhece pouco alegria. Sua cama nupcial nunca foi aquecida, nem havia muitos prazeres em sua casa, mesmo quando [[Maal]] era jovem e brincalhão.
 > 
-> Não demorou muito para que [[Morwyn]] não conseguisse mais administrar um salão com dois maridos. Pois quando ela sorria para Mormekar, [[Terak]] ficava irado, e quando ela mostrava afeto a Terak, Mormekar ficava miserável. Após algum tempo, ela disse a seus dois maridos que passaria metade de cada ano com eles por vez. Durante seis meses, Mormekar seria seu marido, e nos seis meses seguintes, seria [[Terak]]. Isso agradou a todos os três e encerrou muitos conflitos.
+> Não demorou muito para que [[Morwyn]] não conseguisse mais administrar um salão com dois maridos. Pois quando ela sorria para Mormekar, [[Terak]] ficava irado, e quando ela mostrava afeto a [[Terak]], Mormekar ficava miserável. Após algum tempo, ela disse a seus dois maridos que passaria metade de cada ano com eles por vez. Durante seis meses, Mormekar seria seu marido, e nos seis meses seguintes, seria [[Terak]]. Isso agradou a todos os três e encerrou muitos conflitos.
 > 
-> No entanto, na primeira vez que [[Morwyn]] deixou Mormekar e levou [[Terak]] de volta ao seu lado, o Passeador Sombrio ficou mais miserável do que jamais havia sido. Era como se seu coração tivesse sido dividido ao meio, e ele percorreu o mundo em tristeza. Por fim, a loucura apaixonada o consumiu; ele começou a destruir as coisas mais belas que conseguia encontrar. Na época, [[Korak]], o Martelo da Mão, havia sido enviado em suas tarefas impossíveis por Thellyne, para provar seu amor por ela. [[Korak]] havia revestido todas as folhas de todas as árvores do mundo com uma fina camada de ouro, e, enquanto o Tranquilo Mormekar perambulava de um lugar para outro, via sua tristeza zombada pela beleza brilhante das árvores.
+> No entanto, na primeira vez que [[Morwyn]] deixou Mormekar e levou [[Terak]] de volta ao seu lado, o Passeador Sombrio ficou mais miserável do que jamais havia sido. Era como se seu coração tivesse sido dividido ao meio, e ele percorreu o mundo em tristeza. Por fim, a loucura apaixonada o consumiu; ele começou a destruir as coisas mais belas que conseguia encontrar. Na época, [[Korak]], o Martelo da Mão, havia sido enviado em suas tarefas impossíveis por [[Thellyne]], para provar seu amor por ela. [[Korak]] havia revestido todas as folhas de todas as árvores do mundo com uma fina camada de ouro, e, enquanto o Tranquilo Mormekar perambulava de um lugar para outro, via sua tristeza zombada pela beleza brilhante das árvores.
 > 
 > Assim, Mormekar tocou as árvores e fez suas folhas de ouro caírem, e depois se voltou para outras maravilhas vivas, para dar a elas o abraço da Morte. Logo, todos os animais do mundo fugiram dele, pois temiam seu toque terrível. Naquela época, muitas criaturas fantásticas sucumbiram ao toque da Morte e nunca mais foram vistas, como o gato com mil cabeças e dez mil caudas, e a serpente que [[Korak]] havia feito, que cresceu tanto que cercava uma montanha e roía sua própria cauda. O mundo inteiro se escondeu de Mormekar, a Sombra, e até [[Alimus]], que puxa o sol ao redor do mundo todos os dias, fugiu, deixando o mundo coberto de gelo, neve e escuridão.
 > 

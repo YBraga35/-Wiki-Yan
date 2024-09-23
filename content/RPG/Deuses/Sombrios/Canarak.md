@@ -1,3 +1,14 @@
+---
+title: Canarak
+description: Esse documento explica sobre o Deus da Destruição, Violência e Raiva Canarak
+aliases:
+  - o Irmão Feroz
+  - a Mão Selvagem
+  - o Voraz
+tags:
+  - deuses
+draft: false
+---
 # Deus da Destruição, Violência e Raiva
 ![[Canarak.jpg]]
 
@@ -37,7 +48,7 @@ Canarak é negado sua posição legítima nos céus e deve se esconder e se cons
 
 Os Canaraketh são extremamente malignos, mas a fé tem apelo para aqueles que se sentem impotentes e desejam ver ordens estabelecidas serem derrubadas. Há até alguns adoradores eruditos de Canarak que buscam a destruição de modos de pensar estabelecidos.
 
-A maioria dos saqueadores, e de fato a maioria dos Canaraketh, é caoticamente maligna. Esses malfeitores destrutivos trabalham para derrubar tudo, com uma peculiar exceção. Saqueadores de alto escalão se concentram na conquista do pilar da água por Canarak. Nesta missão, muitos deles se aliam aos Shalimyn. Como há membros ativos das bacias dos Shalimyn que também são caoticamente malignos, essa é frequentemente uma amizade frutífera, mas o que Shalimyr pensa sobre isso, ninguém pode dizer.
+A maioria dos saqueadores, e de fato a maioria dos Canaraketh, é caoticamente maligna. Esses malfeitores destrutivos trabalham para derrubar tudo, com uma peculiar exceção. Saqueadores de alto escalão se concentram na conquista do pilar da água por Canarak. Nesta missão, muitos deles se aliam aos Shalimyn. Como há membros ativos das bacias dos Shalimyn que também são caoticamente malignos, essa é frequentemente uma amizade frutífera, mas o que [[Shalimyr]] pensa sobre isso, ninguém pode dizer.
 
 Alguns saqueadores são neutralmente malignos e se importam apenas com o poder pessoal que Canarak lhes proporciona. Enquanto a maioria dos Canaraketh destrói simplesmente pelo prazer da destruição em si, esses saqueadores trabalham dentro de uma ordem estabelecida se isso lhes der poder e força. Isso inclui aventurar-se com pessoas boas, algo que a maioria dos saqueadores não fará.
 

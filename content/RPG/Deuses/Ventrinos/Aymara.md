@@ -1,3 +1,19 @@
+---
+title: Aymara
+description: Esse documento explica sobre a Deusa do Amor e das Artes Aymara
+aliases:
+  - Doce
+  - Adorável
+  - Mais Justa
+  - a Dourada
+  - a Cantora
+  - Irmã da Canção
+  - Joia do Céu
+  - Senhora do Amor
+tags:
+  - deuses
+draft: false
+---
 # Deusa do Amor e das Artes
 ![[AymaraF.png]]
 

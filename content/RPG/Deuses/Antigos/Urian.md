@@ -1,3 +1,19 @@
+---
+title: Urian
+description: Esse documento explica sobre o Deus do Ar e do Céu Urian
+aliases:
+  - o Radiante
+  - Estrondoso
+  - Senhor do Vento
+  - Rei do Céu
+  - Pai do Céu
+  - Grande Céu
+  - a Lua e as Estrelas
+  - Mestre dos Ventos
+tags:
+  - deuses
+draft: false
+---
 # Deus do Ar e do Céu
 ![[UrianF.webp]]
 
@@ -16,7 +32,7 @@ Urian não demonstra grande interesse nos vários conflitos mesquinhos dos deuse
 ## Sete Servos
 Urian tem sete servos principais. Os quatro ventos, discutidos acima, podem ser chamados alternativamente pelos nomes Rigyl ou Norte, Ragyl ou Leste, Wyndyl ou Sul, e Wandyl ou Oeste. O Pai do Céu prende todos os ventos em seus quatro grandes salões e os libera apenas quando necessário, sob seu controle cuidadoso, para evitar a destruição de tudo em seu caminho.
 Alimus e Faro estão eternamente ligados ao sol e à lua. Algumas culturas adoram esses dois como deuses e acreditam que são irmãos que esqueceram suas verdadeiras origens. Na verdade, eles são bastante poderosos, pois carregam os mais encantadores dos orbes celestes há milhares de anos, e isso os afetou até o âmago. Não está claro se os adoradores dos dois recebem poder deles ou de Urian, mas Alimus e Faro são tão poderosos que é bastante possível que concedam poder aos seus seguidores.
-O companheiro mais próximo de Urian, no entanto, é Grifynne, sua magnífica águia dourada. Grifynne é mãe dos grifos (que são nomeados em sua homenagem), que foram gerados por ela e pelo leão dourado de [[Terak]], Metteron. Grifynne tem uma envergadura tão longa quanto um rio poderoso, e seu grito pode ser ouvido pelos céus. Suas origens são misteriosas, embora a maioria assuma que Urian a criou antes mesmo de os deuses da árvore nascerem.
+O companheiro mais próximo de Urian, no entanto, é Grifynne, sua magnífica águia dourada. Grifynne é mãe dos grifos (que são nomeados em sua homenagem), que foram gerados por ela e pelo leão dourado de [[Terak]], Metteron. Grifynne tem uma envergadura tão longa quanto um rio poderoso, e seu grito pode ser ouvido pelos céus. Suas origens são misteriosas, embora a maioria assuma que Urian a criou antes mesmo de os [[Grande Igreja|deuses da árvore]] nascerem.
 
 ## Os Ninhos de Urian
 
@@ -30,8 +46,8 @@ Urian certamente não tem motivo para desconfiar ou não gostar de sua igreja, m
 
 # Doutrina
 #doutrina #históriadivina #testemunho
-> "O céu é claro e escuro. O vento é quente e frio. O sol dá vida e morte. Mas o céu fica escuro quando o mundo precisa de escuridão, e a morte vem por necessidade. Podemos questionar e nos revoltar contra o frio enquanto louvamos e santificamos o calor? Podemos odiar o sol no deserto quando o amamos no inverno? Todos fazem parte do Pai do Céu, e todos têm um propósito em seu plano. Devemos ser gratos, mesmo pela escuridão e pela morte."
-	— Canção do Cotovia de Abu Goldfeather, "Eu provei as estrelas"
+> [!quote] "O céu é claro e escuro. O vento é quente e frio. O sol dá vida e morte. Mas o céu fica escuro quando o mundo precisa de escuridão, e a morte vem por necessidade. Podemos questionar e nos revoltar contra o frio enquanto louvamos e santificamos o calor? Podemos odiar o sol no deserto quando o amamos no inverno? Todos fazem parte do Pai do Céu, e todos têm um propósito em seu plano. Devemos ser gratos, mesmo pela escuridão e pela morte."
+> — Canção do Cotovia de Abu Pena Dourada, "Eu provei as estrelas"
 
 Os Urianitas praticam uma fé alinhada ao bem, mesmo que às vezes elogiem e glorifiquem coisas que outros consideram más, como frio amargo, a lua de sangue ou a meia-noite mais escura — e é precisamente porque outros as consideram más que eles as elogiam. A premissa central da fé Urianita é que Urian ama o mundo e seu povo. Afinal, ele guardou a árvore, opôs-se amargamente a Kador, e tirou os ventos de seu próprio corpo e os escravizou — ele que ama a liberdade acima de tudo! Ele trouxe luz para as partes escuras do mundo e deu noite para as partes iluminadas. Portanto, é inquestionável que ele ama o mundo e os mortais que o habitam.
 
@@ -60,15 +76,13 @@ Em ritmo rimado, expressando devoção e virtude seduz.
 
 ## Dias Sagrados
 #diasanto
-Os Urianitas consideram cada amanhecer e crepúsculo como eventos sagrados,
-E a maioria assegura-se de estar ao ar livre para observar diariamente esses momentos guardados.
-Sempre que ocorre um eclipse solar ou lunar completo, os Urianitas celebram em recolhimento,
-Pois consideram tabu estar sob o céu durante tais momentos de encobrimento.
-Algumas culturas têm celebrações especiais do sol na colheita ou no plantio,
-Festivais geralmente dedicados a Urian, onde os Cotovias locais auxiliam no festejo, mas não são universais em todo recinto.
+Os Urianitas consideram cada amanhecer e crepúsculo como eventos sagrados, e a maioria assegura-se de estar ao ar livre para observar diariamente esses momentos guardados.
+Sempre que ocorre um eclipse solar ou lunar completo, os Urianitas celebram em recolhimento, pois consideram tabu estar sob o céu durante tais momentos de encobrimento.
+Algumas culturas têm celebrações especiais do sol na colheita ou no plantio, festivais geralmente dedicados a Urian, onde os Cotovias locais auxiliam no festejo, mas não são universais em todo recinto.
 
 As eyrias não têm horários regulares para serviços; são locais de constante meditação.
-Santos
+
+### Santos
 Os Urianitas recordam os nomes dos santos como aqueles que fizeram contribuições significativas para libertar todos os povos.
 Se alguém impediu um império de conquistar o mundo ou interrompeu um plano infernal de subjugar as raças mortais, 
 Ela seria reverenciada como santa pelos Urianitas, independentemente de sua fé e sinais vitais.
@@ -89,8 +103,7 @@ A eyrie média tem cinco ou seis asas de Cotovia, duas canções de Cotovia, alg
 
 ## Cotovias de Urian
 #clérigos
-Uma ordem contemplativa, a maioria dos Cotovias vive nas montanhas,
-dedicando toda a sua vida a ponderar os dois aspectos de Urian e as raças mortais.
+Uma ordem contemplativa, a maioria dos Cotovias vive nas montanhas, dedicando toda a sua vida a ponderar os dois aspectos de Urian e as raças mortais.
 Eles são quietos e gentis, reverenciando a luz do sol e da lua. Os Cotovias valorizam a contemplação, a compaixão e o orientação suave muito mais do que a ação brutal. Existem outras ordens dos Urianita dedicadas a travar guerras brutais e salvar os oprimidos; os Cotovias são a ordem espiritual e mística, e muitas vezes são difíceis de conversar. Eles falam de mistérios e analisam constantemente as lições aprendidas com os acontecimentos no mundo. No entanto, para aqueles com corações pesados, sobrecarregados pelo pecado, os Cotovias se mostram maravilhosamente prestativos. Eles têm ouvidos atentos, nunca são julgamentais e estão sempre ansiosos para oferecer orientação aos que a buscam.
 Alguns Cotovias deixam suas eyrias para embarcar em uma jornada.
 Eles se reúnem, informam as canções e descem a montanha. Ninguém ordena essas missões; em vez disso, os Cotovias sentem o chamado em suas meditações.
@@ -146,7 +159,7 @@ A ordem dos grifos era composta por guerreiros magníficos que assumiram o espí
 > 
 > No entanto, Urian Trovejante foi movido por suas súplicas, e assim ele desceu à terra em sua forma comum e vagou entre os div, encontrando os dois mais poderosos da raça—Ali Mustafis bin Omar e Farouk al Ban. Esses dois div eram os maiores heróis da época e haviam se tornado famosos entre os Shaitan e Marid por sua rivalidade. Eles haviam lutado 12 vezes antes, e nunca um havia derrotado o outro.
 > 
-> Quando Urian encontrou os dois, foi antes de sua 13ª luta. A cada cem anos, div de todo o mundo (que não envelheciam) se reuniam para grandes competições atléticas entre os mais fortes e ágeis entre eles. Todos os olhos estavam voltados para os grandes campeões, cada um dos quais jurava que seria vitorioso desta vez. O Rei do Céu veio até eles e fez a cada um esta oferta—se ele vencesse, Urian o colocaria nos céus pela eternidade. Ambos aceitaram prontamente.
+> Quando Urian encontrou os dois, foi antes de sua 13ª luta. A cada cem anos, div de todo o mundo (que não envelheciam) se reuniam para grandes competições atléticas entre os mais fortes e ágeis entre eles. Todos os olhos estavam voltados para os grandes campeões, cada um dos quais jurava que seria vitorioso desta vez. O [[Terak|Rei do Céu]] veio até eles e fez a cada um esta oferta—se ele vencesse, Urian o colocaria nos céus pela eternidade. Ambos aceitaram prontamente.
 > 
 > Os dois lutaram por três dias, sua luta mais longa até então, e no final, nenhum foi vitorioso. Quando o Mestre dos Ventos veio até eles depois e suspirou tristemente que só tinha espaço para um no céu, cada um exigiu o lugar. Cada um jurou fervorosamente que serviria com alegria e diligência nos céus apenas para manter seu rival longe da honra. No final de seus juramentos, Urian sorriu, pois de fato tinha espaço e necessidade para ambos.
 > 
@@ -172,7 +185,7 @@ A ordem dos grifos era composta por guerreiros magníficos que assumiram o espí
 > 
 > "Pai do Céu! Não acalmarás teus ventos enfurecidos? Não amamos todos esses mortais inteligentes e desejamos vê-los viajar pela terra e pelo mar? No entanto, eles não podem viajar, pois teus ventos destroem seus navios; tu enfureces onde nem mesmo teu irmão louco [[Shalimyr]] faz."
 > 
-> E o Rei do Céu pensou nisso. O pequeno [[Darmon]] estava certo, pois Urian realmente desejava ver os mortais viajarem pelos mares e, talvez, um dia, pelos céus. Ele falou com seus ventos e exigiu que se acalmassem. Mas eles não o fizeram!
+> E o [[Terak|Rei do Céu]] pensou nisso. O pequeno [[Darmon]] estava certo, pois Urian realmente desejava ver os mortais viajarem pelos mares e, talvez, um dia, pelos céus. Ele falou com seus ventos e exigiu que se acalmassem. Mas eles não o fizeram!
 > 
 > "Não, Senhor! Nós rugiremos e sopraremos e destruiremos, pois nossos corações odeiam!" disseram o Norte e o Leste.
 > 

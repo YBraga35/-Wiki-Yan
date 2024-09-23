@@ -1,3 +1,12 @@
+---
+title: Thellos
+description: Esse documento explica sobre o Deus da Ganância, Gula e Desejo
+aliases:
+  - o Irmão Faminto, a Boca Farta, Ganancioso
+tags:
+  - deuses
+draft: false
+---
 # Deus da Ganância, Gula e Desejo
 ![[Thellos.jpg]]
 
@@ -5,7 +14,7 @@
 
 Thellos é o deus neutralmente maligno da gula, desejo egoísta, ganância e luxúria por coisas e pessoas. Ele é pura ganância. Ele deseja se tornar mais gordo, mais rico, mais feliz e mais poderoso por qualquer meio. Ele não se importa com quem deve roubar ou o que deve fazer para melhorar sua situação. Não há compartilhamento para ele, nem a noção de que pode haver o suficiente. Ele quer apenas alimentar seus desejos.
 
-Como [[Canarak]] e [[Naran]], Thellos aparece em muitas formas, aparecendo para as raças humanoides neutralmente malignas do mundo como um dos seus. Os goblins o veem como o senhor goblin gordo que os levará à terra do leite e mel, onde não terão mais que temer criaturas maiores. Thellos faz parte do Pacto Sombrio para melhorar sua situação, mas se ele achasse que poderia se beneficiar mais ao se aliar aos senhores do bem, ele o faria. Ele não entende lealdade, amor ou qualquer outra coisa decente. Por enquanto, ele trabalha para conquistar o pilar do ar para ganhar poder. Ele se esconde mais frequentemente no Plano Material, onde satisfaz seus apetites com seus seguidores e outros. Ele não está vinculado pelo Pacto e frequentemente aparece para aqueles que o adoram, influenciando diretamente os assuntos mortais.
+Como [[Canarak]] e [[Naran]], Thellos aparece em muitas formas, aparecendo para as raças humanoides neutralmente malignas do mundo como um dos seus. Os goblins o veem como o senhor goblin gordo que os levará à terra do leite e mel, onde não terão mais que temer criaturas maiores. Thellos faz parte do Pacto Sombrio para melhorar sua situação, mas se ele achasse que poderia se beneficiar mais ao se aliar aos [[Grande Igreja|senhores do bem]], ele o faria. Ele não entende lealdade, amor ou qualquer outra coisa decente. Por enquanto, ele trabalha para conquistar o pilar do ar para ganhar poder. Ele se esconde mais frequentemente no Plano Material, onde satisfaz seus apetites com seus seguidores e outros. Ele não está vinculado pelo Pacto e frequentemente aparece para aqueles que o adoram, influenciando diretamente os assuntos mortais.
 
 Thellos é mostrado como um deus gordo com um nariz de porco, cabelo arenoso e olhos azuis aguados, cercado por um banquete e uma montanha de ouro.
 
@@ -19,7 +28,7 @@ Os salões de prazer são supervisionados por um conselho dos membros mais ricos
 Os clérigos da fraternidade não caridosa servem nesses conselhos ou de outra forma os ajudam em seus esforços para dominar as economias. Como o clero dos Thellanos, a fraternidade não caridosa trabalha para estender o poder e o esplendor egoísta da fé, recrutando novos membros e fortalecendo as posições financeiras dos existentes. É proibido para um Thellano prejudicar um irmão não caridoso, não importa o potencial ganho pessoal. Um irmão não caridoso é tratado como "irmão não caridoso" ou "irmã não caridosa".
 
 ## Doutrina
-“Tudo o que eu possa ter, eu terei. Por que eu não deveria tomar o que posso enquanto posso? Qual a utilidade da caridade? A única razão pela qual alguém ajuda outra pessoa é se puder ganhar algo com isso; esse é o modo do mundo. Pelo menos eu tenho o bom senso de admitir isso.”
+> [!quote] “Tudo o que eu possa ter, eu terei. Por que eu não deveria tomar o que posso enquanto posso? Qual a utilidade da caridade? A única razão pela qual alguém ajuda outra pessoa é se puder ganhar algo com isso; esse é o modo do mundo. Pelo menos eu tenho o bom senso de admitir isso.”
 —Irmão Não Caridoso Forist Timberlane
 
 A doutrina dos Thellanos é simples: Faça o que puder para melhorar sua posição. Mate, trapaceie, minta ou até diga a verdade, se isso te trouxer lucro. Salve a menina do fogo, acenda o fogo que mata a menina. Tudo é a mesma coisa, se melhorar sua posição pessoal. A fé atrai as pessoas mais egoístas do mundo com seu simples premissa: Não devemos nada aos outros. Chegamos onde chegamos por nosso próprio talento, habilidade e poder, e se eu tiver mais que outra pessoa, é porque mereço. Caridade é para idiotas. Os pobres nos destruiriam se achassem que isso os faria avançar, então esmague os pobres antes que tenham a chance.

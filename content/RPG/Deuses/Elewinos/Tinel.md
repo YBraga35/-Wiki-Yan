@@ -1,3 +1,22 @@
+---
+title: Tinel
+description: Esse documento explica sobre a Deus da Magia, do Conhecimento e da Verdade Tinel
+aliases:
+  - Magnífico
+  - Distante
+  - Imperioso
+  - Onisciente
+  - Onividente
+  - o Grande
+  - o Sussurrador
+  - dos Inumeráveis Códigos
+  - o Mago Celestial
+  - Senhor dos Segredos
+  - Guardião das Chaves
+tags:
+  - deuses
+draft: false
+---
 # O Deus da Magia, do Conhecimento e da Verdade
 ![[Tinel.jpg]]
 
@@ -120,7 +139,7 @@ Os Tinelitas têm um calendário repleto de dias santos, muitos dos quais são t
  Nem todos os dias santos são tão menores. O Festival da Palavra e o Festival da Magia são os maiores eventos sagrados da fé.
  
 #### O Festival da Palavra
- Mais do que qualquer outra fé dos deuses da árvore, os Tinelitas reverenciam a palavra escrita, livros, bolsas de estudo e aprendizado. No Festival da Palavra, que acontece todos os anos no auge do verão, eles honram e recompensam os maiores estudiosos da época. O evento dura oito dias, durante os quais há grandes festas, palestras, recitais e outras celebrações da palavra escrita. Normalmente, o Festival ocorre em uma escala nacional, para que todos os scriptórios de um único país se unam para nomear as obras mais dignas de bolsas de estudo daquele ano e concedam presentes reais aos estudiosos que as fizeram. Em lugares onde países vizinhos têm relações amigáveis e laços culturais, os scriptórios de todas essas nações podem se unir para emitir apenas um conjunto de prêmios.
+ Mais do que qualquer outra fé dos [[Grande Igreja|deuses da árvore]], os Tinelitas reverenciam a palavra escrita, livros, bolsas de estudo e aprendizado. No Festival da Palavra, que acontece todos os anos no auge do verão, eles honram e recompensam os maiores estudiosos da época. O evento dura oito dias, durante os quais há grandes festas, palestras, recitais e outras celebrações da palavra escrita. Normalmente, o Festival ocorre em uma escala nacional, para que todos os scriptórios de um único país se unam para nomear as obras mais dignas de bolsas de estudo daquele ano e concedam presentes reais aos estudiosos que as fizeram. Em lugares onde países vizinhos têm relações amigáveis e laços culturais, os scriptórios de todas essas nações podem se unir para emitir apenas um conjunto de prêmios.
 
 #### O Festival da Magia
  No auge do inverno a cada ano, o conselho dos Cinco Hierofantes decreta um único local onde os maiores magos e feiticeiros do mundo se reúnem para uma grande celebração do dom da magia. Eles vêm de todo o mundo para cinco dias de festividades. Apenas aqueles que praticam as artes arcanas podem participar do festival, que envolve muitos debates sobre buscas arcanas, as relações entre aqueles que usam magia e aqueles que não usam, as políticas do Conselho dos Cinco (veja abaixo) e outros assuntos de interesse para usuários poderosos de magia. Os celebrantes se reúnem para uma grande competição, onde itens mágicos poderosos e raros são oferecidos como prêmios. O Conselho dos Cinco determina os desafios da competição nos dias anteriores ao festival, então a natureza dos concursos muda a cada ano. No entanto, sempre há pelo menos um em que os concorrentes demonstram habilidade mágica bruta e outro em que mostram inteligência e criatividade no uso da magia. Às vezes, até há um concurso para aprendizes, mas isso depende do capricho dos Cinco.

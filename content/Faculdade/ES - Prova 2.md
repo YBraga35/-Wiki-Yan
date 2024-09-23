@@ -2,7 +2,7 @@
 share_link: https://share.note.sx/mm5xcho6#wJw+p12ncHOnpYLp61TQsFVIiWuyP1pSuv26oPImi80
 share_updated: 2024-08-02T11:14:52-03:00
 title: Resumo Diagramas UML
-draft: false
+draft: true
 ---
 
 ## Explicação Detalhada

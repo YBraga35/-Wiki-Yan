@@ -1,4 +1,17 @@
-# Deus da Guerra e Valor
+---
+title: Terak
+description: Esse documento explica sobre a Deus da Guerra e Bravura Terak
+aliases:
+  - o Valente
+  - Audacioso
+  - o Poderoso
+  - Marechal dos Deuses
+  - Rei do Céu
+tags:
+  - deuses
+draft: false
+---
+# Deus da Guerra e Bravura
 ![[Terak.webp]]
 
 ## O Valente, Audacioso, o Poderoso, Rei do Céu, Marechal dos Deuses

@@ -1,3 +1,8 @@
+---
+title: Docker - Copiar tema Divi
+draft: false
+date: 2024-09-01
+---
 Ótimo! Isso confirma que o caminho do WordPress é `/var/www/html`.
 
 ### Passo 1: Copiar o Arquivo ZIP para Dentro do Container Docker

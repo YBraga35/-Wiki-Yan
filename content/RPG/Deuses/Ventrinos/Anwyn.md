@@ -1,3 +1,21 @@
+---
+title: Anwyn
+description: Esse documento explica sobre a Deusa do Lar, Lareira e Servos Anwyn
+aliases:
+  - a Acolhedora
+  - a Abençoada
+  - Senhora Bondosa
+  - a Guardiã do Fogo
+  - Dama do Banquete
+  - a Pródiga
+  - Dadora de Presentes
+  - Senhora Sorridente
+  - Senhora Brilhante
+  - Donzela Celestial
+tags:
+  - deuses
+draft: false
+---
 # Deusa do Lar, Lareira e Servos
 ![[Anwyn.jpg]]
 

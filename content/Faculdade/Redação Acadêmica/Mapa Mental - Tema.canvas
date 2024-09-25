@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"5e3cd45f8ce8ebe5","x":40,"y":-340,"width":250,"height":60,"type":"text","text":"Informática Biomédica"},
+		{"id":"2e17991e45dd89b4","x":499,"y":-347,"width":250,"height":60,"type":"text","text":"Mobile Apps"},
+		{"id":"10653c10708b73cc","x":-400,"y":-461,"width":250,"height":60,"type":"text","text":"Medicina"},
+		{"id":"85ffcb7bb983f95a","x":-400,"y":-347,"width":250,"height":60,"type":"text","text":"Saúde"},
+		{"id":"dd4fe3ad2a9bdde9","x":499,"y":-461,"width":250,"height":60,"type":"text","text":"Informática"},
+		{"id":"df9b1a063eb7c136","x":220,"y":-598,"width":250,"height":60,"type":"text","text":"Saúde Digital (vício em redes sociais)"},
+		{"id":"098398e67fc5dd43","x":-140,"y":-598,"width":250,"height":60,"type":"text","text":"Socialização"},
+		{"id":"145219d0430b5320","x":-151,"y":-160,"width":272,"height":60,"type":"text","text":"Psicologia atrelada ao uso de dispositivos mobile"},
+		{"id":"01fabb4a32d38530","x":211,"y":-160,"width":268,"height":60,"type":"text","text":"Isolamento social quando há vício em redes"}
+	],
+	"edges":[
+		{"id":"2d84c94e47b6ca21","fromNode":"5e3cd45f8ce8ebe5","fromSide":"right","toNode":"dd4fe3ad2a9bdde9","toSide":"left"},
+		{"id":"cbdcec434ed270f2","fromNode":"5e3cd45f8ce8ebe5","fromSide":"right","toNode":"2e17991e45dd89b4","toSide":"left"},
+		{"id":"602213cb40e3c58d","fromNode":"5e3cd45f8ce8ebe5","fromSide":"left","toNode":"10653c10708b73cc","toSide":"right"},
+		{"id":"527c74e64dd6ad01","fromNode":"5e3cd45f8ce8ebe5","fromSide":"left","toNode":"85ffcb7bb983f95a","toSide":"right"},
+		{"id":"58dd57069fd4dc6b","fromNode":"5e3cd45f8ce8ebe5","fromSide":"top","toNode":"098398e67fc5dd43","toSide":"bottom"},
+		{"id":"f35c40d3b0b9182c","fromNode":"5e3cd45f8ce8ebe5","fromSide":"top","toNode":"df9b1a063eb7c136","toSide":"bottom"},
+		{"id":"2963a2320ae94701","fromNode":"5e3cd45f8ce8ebe5","fromSide":"bottom","toNode":"145219d0430b5320","toSide":"top"},
+		{"id":"12c0d245139bba44","fromNode":"5e3cd45f8ce8ebe5","fromSide":"bottom","toNode":"01fabb4a32d38530","toSide":"top"}
+	]
+}

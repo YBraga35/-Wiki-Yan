@@ -23,11 +23,11 @@ Dos Campeões \
 Fale da Odisseia dos Dragonlords \
 E conte-nos sua história mais uma vez_
 
-_Fale de Adrian, o Amaldiçoado, cujo sangue bestial foi superado e canalizado para o bem \
-Fale de Aeneades, o Psicopompo, que conduziu as almas dos condenados aos seus devidos descansos \
-Fale de Barnabas, o Semideus, que ascendeu aos ranks divinos de seu pai celestial \
+_Fale de Alceus, o Amaldiçoado, cujo sangue bestial foi superado e canalizado para o bem \
+Fale de Atralos, o Psicopompo, que conduziu as almas dos condenados aos seus devidos descansos \
+Fale de Kaýrion, o Semideus, que ascendeu aos ranks divinos de seu pai celestial \
 Fale de Kronos, o Condenado, que desafiou a morte três vezes e a encontrou como um igual \
-Fale de Pephka, o Bastardo, que buscou sua família e encontrou a si mesmo \
+Fale de Elion, o Desaparecido, que buscou sua família e encontrou a si mesmo \
 Fale de Philomena, a Exilada, cujo caminho de vingança a levou a recuperar sua coroa e seu povo_
 
 _Oh Musa das Memórias longínquas! \

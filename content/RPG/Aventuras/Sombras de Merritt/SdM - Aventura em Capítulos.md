@@ -4,6 +4,19 @@ draft: true
 date: 2024-08-01
 ---
 
+```RpgManager4
+id: 
+  type: "campaign"
+tasks: 
+  - id: "3b9e4aa1-eef1-46cd-8ade-6b2614bbf2a9"
+    priority: 1
+    name: "Complete Campaign"
+    description: "Complete Campaign SdM - Aventura em Capítulos"
+    type: "creation"
+    status: "proposed"
+```
+
+
 Claro, vamos aprimorar e detalhar o Capítulo 2 para torná-lo mais envolvente e coerente. Aqui está uma versão revisada com mais detalhes e beleza:
 
 ---
@@ -122,9 +135,6 @@ Claro, vamos aprimorar e detalhar o Capítulo 2 para torná-lo mais envolvente e
 5. **Archibald, o Artífice**: Inventor excêntrico, criador de armas e armaduras mágicas.
 6. **Miranda**: Informante com uma rede de espiões.
 7. **Gruk, o Caçador**: Especialista em rastrear e matar monstros.
-
-
-Vamos detalhar o Capítulo 3 com eventos importantes, NPCs relevantes, locais de interesse, missões secundárias e antecipações do que acontecerá nos capítulos futuros.
 
 ## Capítulo 3: O Portal das Sombras
 **Nível: 5 a 7**

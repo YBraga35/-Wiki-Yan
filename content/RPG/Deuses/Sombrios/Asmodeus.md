@@ -7,6 +7,7 @@ aliases:
   - o Grande
   - o Senhor das Trevas
   - Pai do Fogo
+  - Kador
 tags:
   - deuses
 draft: false

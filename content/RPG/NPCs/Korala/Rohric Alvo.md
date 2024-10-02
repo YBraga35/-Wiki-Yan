@@ -1,0 +1,16 @@
+---
+title: Rohric Alvo
+draft: true
+date: 2024-08-01
+---
+
+[Rohric Alvo](https://i.pinimg.com/564x/92/43/c8/9243c8ec7d8530479347642f09e440cf.jpg)
+![250](https://i.pinimg.com/564x/92/43/c8/9243c8ec7d8530479347642f09e440cf.jpg)
+
+
+> [!Note] Rohric Alvo, 
+> conhecido na Academia de Korala como Vesper Magi, o Mago da Luz, é uma figura lendária que paira sobre os salões da instituição como uma sombra antiga e imponente. Sua presença é tão antiga quanto os próprios pilares da academia, sendo uma constante na vida dos estudantes e professores por séculos. Nascido como um Aasimar Protector de linhagem Tethyrian, Rohric possui uma beleza etérea e uma aura de sabedoria que o diferencia dos demais. Os Tethyrian são uma etnia que se assemelha aos povos do mundo real do Mediterrâneo, com características físicas como pele clara, cabelos escuros e olhos claros. Para alguém que só conhece humanos, elfos e anões, um Aasimar protetor provavelmente pareceria uma pessoa extraordinariamente bela e carismática, com uma presença imponente e uma sensação de bondade radiante ao seu redor. Seus olhos dourados brilhariam com uma luz celestial, transmitindo uma sensação de paz e segurança para aqueles que os encontram. 
+> 
+> Desde jovem, Rohric mostrou uma afinidade excepcional com a magia, sendo escolhido por um antigo mago para servir como seu aprendiz. Esse mago, cujo nome foi esquecido pelo tempo, viu o potencial incomum de Rohric e o iniciou nos mistérios arcanos, guiando-o por caminhos de conhecimento e poder. Ao longo dos anos, Rohric dedicou-se ao estudo das artes arcanas, explorando os segredos do cosmos e desvendando os mistérios do universo. Sua mente brilhante absorvia cada livro e tomo com voracidade insaciável, até mesmo os mais obscuros e esquecidos. Ele se tornou um sábio renomado, um mestre nas artes da magia e um guardião do conhecimento perdido.
+> 
+> Como professor de arcanismo na Academia de Korala, Rohric compartilha seu vasto conhecimento com os jovens estudantes, orientando-os em sua jornada em busca da verdade e do poder. Sua abordagem é rigorosa e exigente, mas também compassiva e inspiradora. Ele desafia seus alunos a alcançarem seu potencial máximo, incentivando-os a explorar além dos limites do que é conhecido e familiar. Além de seu papel como educador, Rohric também é um patrono generoso e benevolente para grupos de aventureiros em busca de conhecimento e tesouros perdidos. Ele financia expedições em todo o mundo conhecido, oferecendo recursos e orientação para aqueles que ousam enfrentar os perigos das terras selvagens em busca de artefatos antigos e segredos esquecidos. Apesar de sua aparência jovem, Rohric Alvo é um ser imortal, cuja idade ultrapassa em muito a compreensão dos mortais. Sua sabedoria transcendental e seu domínio sobre as artes arcanas o tornam uma figura misteriosa e memorável para os aventureiros que cruzam seu caminho, deixando uma marca indelével em suas vidas e em suas jornadas. Ele é uma lenda viva, um guardião do conhecimento e um farol de luz em um mundo envolto em trevas.

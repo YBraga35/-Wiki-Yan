@@ -48,40 +48,42 @@ graph TD
 
 ```mermaid
 graph TD
-    C[Elewinos] 
-    C --> Mormekar[Mormekar - Deus da Morte e Renascimento]
-    C --> Morwyn[Morwyn - Deusa da Cura e Sabedoria]
-    C --> Terak[Terak - Deus da Guerra e Bravura]
-    C --> Tinel[Tinel - Deus da Magia, Conhecimento e Verdade]
-    C --> Zheenkeef[Zheenkeef - Deusa do Vinho, Loucura e Inspiração]
+    A[Elewinos]
+    A --> Mormekar[Mormekar - Deus da Morte e Renascimento]
+    A --> Morwyn[Morwyn - Deusa da Cura e Sabedoria]
+    A --> Terak[Terak - Deus da Guerra e Bravura]
+    A --> Tinel[Tinel - Deus da Magia, Conhecimento e Verdade]
+    A --> Zheenkeef[Zheenkeef - Deusa do Vinho, Loucura e Inspiração]
 
-    D[Ventrinos]
-    D --> Anwyn[Anwyn - Deusa do Lar e Lareira]
-    D --> Aymara[Aymara - Deusa do Amor e das Artes]
-    D --> Darmon[Darmon - Deus da Viagem, Riqueza e Alegria]
-    D --> Korak[Korak - Deus da Forja e dos Artesãos]
-    D --> Maal[Maal - Deus da Lei e da Justiça]
-
-    C --> Mormekar
-    C --> Morwyn
-    C --> Terak
-    C --> Tinel
-    C --> Zheenkeef
+```
+```mermaid
+graph TD
+    A[Ventrinos]
+    A --> Anwyn[Anwyn - Deusa do Lar e Lareira]
+    A --> Aymara[Aymara - Deusa do Amor e das Artes]
+    A --> Darmon[Darmon - Deus da Viagem, Riqueza e Alegria]
+    A --> Korak[Korak - Deus da Forja e dos Artesãos]
+    A --> Maal[Maal - Deus da Lei e da Justiça]
 
 ```
 
 ```mermaid
 graph TD
-    E[Sombrios]
-    E --> Asmodeus[Asmodeus - Deus das Mentiras e Poder]
-    E --> Canarak[Canarak - Deus da Destruição e Raiva]
-    E --> Naran[Naran - Deus da Tirania e Orgulho]
-    E --> Thellos[Thellos - Deus da Ganância e Gula]
+    A[Sombrios]
+    A --> Asmodeus[Asmodeus - Deus das Mentiras e Poder]
+    A --> Canarak[Canarak - Deus da Destruição e Raiva]
+    A --> Naran[Naran - Deus da Tirania e Orgulho]
+    A --> Thellos[Thellos - Deus da Ganância e Gula]
 
-    F[Três Irmãs]
-    F --> Canelle[Canelle - Deusa da Vitória]
-    F --> Naryne[Naryne - Deusa da Nobreza]
-    F --> Thellyne[Thellyne - Deusa do Entalhamento, Natureza e Caça]
+
+```
+```mermaid
+graph TD
+    A[Três Irmãs]
+    A --> Canelle[Canelle - Deusa da Vitória]
+    A --> Naryne[Naryne - Deusa da Nobreza]
+    A --> Thellyne[Thellyne - Deusa do Entalhamento, Natureza e Caça]
+
 
 ```
 

@@ -36,64 +36,52 @@ Explore o mundo de Lhodos e conheça os elementos chave do meu universo RPG.
 
 ```mermaid
 graph TD
-    A[Inominavel] --> B[Antigos]
-    A --> C[Sombrios]
-    A --> D[Três Irmãs]
-    A --> E[Elewinos]
-    A --> F[Ventrinos]
+    A[Inominável] --> B[Antigos]
+    B --> Elewin[Elewin - Árvore da Vida] 
+    B --> IRontra[Rontra - Deusa da Terra]
+    B --> Shalimyr[Shalimyr - Deus das Águas]
+    B --> Urian[Urian - Deus do Ar e do Céu]
+    B --> Kador[Kador - Deus do Fogo]
 
-    subgraph Antigos
-        Elewin[Elewin - Arvore da Vida] 
-        IRontra[Rontra - Deusa da Terra]
-        Shalimyr[Shalimyr - Deus das Aguas]
-        Urian[Urian - Deus do Ar e Ceu]
-        Kador[Kador - Deus do Fogo]
-    end
+```
 
-    subgraph Elewinos
-        Mormekar[Mormekar - Deus da Morte e Renascimento]
-        Morwyn[Morwyn - Deusa da Cura e Sabedoria]
-        Terak[Terak - Deus da Guerra e Bravura]
-        Tinel[Tinel - Deus da Magia, Conhecimento e Verdade]
-        Zheenkeef[Zheenkeef - Deusa do Vinho, Loucura e Inspiracao]
-    end
 
-    subgraph Ventrinos
-        Anwyn[Anwyn - Deusa do Lar e Lareira]
-        Aymara[Aymara - Deusa do Amor e das Artes]
-        Darmon[Darmon - Deus da Viagem, Riqueza e Alegria]
-        Korak[Korak - Deus da Forja e dos Artesaos]
-        Maal[Maal - Deus da Lei e da Justica]
-    end
+```mermaid
+graph TD
+    C[Elewinos] 
+    C --> Mormekar[Mormekar - Deus da Morte e Renascimento]
+    C --> Morwyn[Morwyn - Deusa da Cura e Sabedoria]
+    C --> Terak[Terak - Deus da Guerra e Bravura]
+    C --> Tinel[Tinel - Deus da Magia, Conhecimento e Verdade]
+    C --> Zheenkeef[Zheenkeef - Deusa do Vinho, Loucura e Inspiração]
 
-    subgraph Sombrios
-        Asmodeus[Asmodeus - Deus das Mentiras e Poder]
-        Canarak[Canarak - Deus da Destruicao e Raiva]
-        Naran[Naran - Deus da Tirania e Orgulho]
-        Thellos[Thellos - Deus da Ganancia e Gula]
-    end
+    D[Ventrinos]
+    D --> Anwyn[Anwyn - Deusa do Lar e Lareira]
+    D --> Aymara[Aymara - Deusa do Amor e das Artes]
+    D --> Darmon[Darmon - Deus da Viagem, Riqueza e Alegria]
+    D --> Korak[Korak - Deus da Forja e dos Artesãos]
+    D --> Maal[Maal - Deus da Lei e da Justiça]
 
-    subgraph Tres_Irmas
-        Canelle[Canelle - Deusa da Vitoria]
-        Naryne[Naryne - Deusa da Nobreza]
-        Thellyne[Thellyne - Deusa do Entalhamento e Caca]
-    end
+    C --> Mormekar
+    C --> Morwyn
+    C --> Terak
+    C --> Tinel
+    C --> Zheenkeef
 
-    %% Definindo relações de paternidade
-    E --> Mormekar
-    E --> Morwyn
-    E --> Terak
-    E --> Tinel
-    E --> Zheenkeef
+```
 
-    Mormekar --> Maal
-    Morwyn --> Aymara
-    Morwyn --> Korak
-    Zheenkeef --> Darmon
-    Zheenkeef --> Aymara
-    Terak --> Korak
-    Tinel --> Darmon
-    Tinel --> Aymara
+```mermaid
+graph TD
+    E[Sombrios]
+    E --> Asmodeus[Asmodeus - Deus das Mentiras e Poder]
+    E --> Canarak[Canarak - Deus da Destruição e Raiva]
+    E --> Naran[Naran - Deus da Tirania e Orgulho]
+    E --> Thellos[Thellos - Deus da Ganância e Gula]
+
+    F[Três Irmãs]
+    F --> Canelle[Canelle - Deusa da Vitória]
+    F --> Naryne[Naryne - Deusa da Nobreza]
+    F --> Thellyne[Thellyne - Deusa do Entalhamento, Natureza e Caça]
 
 ```
 

@@ -2,8 +2,7 @@
 title: Sumário Divindades
 description: Esse documento é o sumário sobre as divindades antigas, aqueles que vieram antes dos deuses Elewinos e Ventrinos.
 aliases:
-  - indexação
-  - Índice
+  - Antigos
 tags:
   - index-tag
   - indice-tag

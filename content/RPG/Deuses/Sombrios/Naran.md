@@ -12,7 +12,7 @@ draft: false
 # Deus da Tirania, Orgulho e Astúcia
 ![[Naran.jpg]]
 
-## O Irmão Sábio, o Olhar Penetrante, Senhor
+## O Irmão Sábio, o Olhar Penetrante, O Senhor
 
 Naran é o deus legalmente maligno da astúcia, tirania, orgulho, escravidão, tramas, vilania e conspirações. Ele é o líder dos Três Irmãos e busca posicioná-los para dominar o mundo. Ele confia em [[Asmodeus]] apenas até o limite do Pacto Sombrio, sabendo que seus termos não serão violados. No entanto, uma vez cumprido o pacto, ele espera que o autoproclamado [[Asmodeus|Rei do Universo]] o traia e a seus irmãos. Por essa razão, Naran planeja uma guerra em várias camadas. Ele permanece oculto, manipulando as raças mortais em direção ao mal; ele se move para tomar o controle do pilar da terra; ele planeja derrubar os [[Grande Igreja|deuses da árvore]] uma vez que o pilar seja tomado; e ele planeja destruir [[Asmodeus]] quando essa guerra for vencida.
 

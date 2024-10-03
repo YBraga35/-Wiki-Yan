@@ -1,9 +1,8 @@
 ---
-title: "Sumário Inicial"
-description: "Esse documento é supostamente o sumário e a página inicial de todo o meu site baseado nas anotações do Obsidian."
+title: Sumário Inicial
+description: Esse documento é supostamente o sumário e a página inicial de todo o meu site baseado nas anotações do Obsidian.
 aliases:
-  - indexação
-  - Índice
+  - Eliwynos
 tags:
   - index-tag
   - indice-tag

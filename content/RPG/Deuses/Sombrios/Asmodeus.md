@@ -8,6 +8,8 @@ aliases:
   - o Senhor das Trevas
   - Pai do Fogo
   - Kador
+  - Senhor Sombrio
+  - Senhor do Inferno
 tags:
   - deuses
 draft: false
@@ -15,7 +17,7 @@ draft: false
 # Deus das Mentiras, Poder e Fogo
 ![[Asmodeus.webp]]
 
-## O Perfeito, Rei do Universo, o Grande, o Senhor das Trevas, Pai do Fogo
+## O Perfeito, Rei do Universo, o Grande, o Senhor das Trevas, Pai do Fogo, Kador, Senhor Sombrio, Senhor do Inferno
 
 Asmodeus é o deus ordeiro e mal das mentiras, poder e fogo. Raramente visto, suas descrições são geralmente fantasiosas. Alguns dizem que ele tem 10.000 léguas de altura, com uma cauda de fogo e chifres tão negros quanto a meia-noite. Outros dizem que ele é uma figura pequena, vestida em vermelho e azul profundo, empunhando um cetro de poder, com dois pequenos chifres na testa. Nenhum poder maligno sabe ao certo como Asmodeus se parece, pois ele foi lançado no abismo do Inferno, e seus adoradores não fazem estátuas de sua forma, acreditando que isso irritaria o Rei do Universo se mãos mortais tentassem moldar sua forma.
 

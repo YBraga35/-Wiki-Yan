@@ -27,8 +27,8 @@ _Fale de Alceus, o Amaldiçoado, cujo sangue bestial foi superado e canalizado p
 Fale de Atralos, o Psicopompo, que conduziu as almas dos condenados aos seus devidos descansos \
 Fale de Kaýrion, o Semideus, que ascendeu aos ranks divinos de seu pai celestial \
 Fale de Kronos, o Condenado, que desafiou a morte três vezes e a encontrou como um igual \
-Fale de Elion, o Desaparecido, que buscou sua família e encontrou a si mesmo \
-Fale de Philomena, a Exilada, cujo caminho de vingança a levou a recuperar sua coroa e seu povo_
+Fale de Elion, o Desaparecido, que buscou seu passado e encontrou sua glória futura \
+Fale de Yelena, a Exilada, cujo caminho de vingança a levou a recuperar sua coroa e seu povo_
 
 _Oh Musa das Memórias longínquas! \
 Fale de Thylea \

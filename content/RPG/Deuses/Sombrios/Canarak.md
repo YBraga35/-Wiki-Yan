@@ -12,7 +12,7 @@ draft: false
 # Deus da Destruição, Violência e Raiva
 ![[Canarak.jpg]]
 
-## O Irmão Feroz, a Mão Selvagem, o Vicioso
+## O Irmão Feroz, a Mão Selvagem, o Voraz
  
 
 Canarak é o deus do mal caótico da violência, raiva, sede de sangue, carnificina, brutalidade, selvageria e assassinato. Ele só é feliz quando está enfurecido e destruindo. Ele não tem nenhum grande plano ou ideia. Desde seu despertar pelo rio, ele passou os anos buscando raças de mente semelhante e liderando-as em batalha, aparecendo como um deles. Dessa forma, ele se tornou o deus favorito da maioria das raças malignas caóticas do mundo. Os orcs, por exemplo, o veem como um poderoso rei-deus orc que os liderará na batalha final contra os patéticos anões e elfos. Ele impulsiona essas raças sob centenas de nomes e em centenas de formas, mas seus seguidores entre as cinco raças mortais o conhecem pelo que ele é: o pai da destruição e da sede de sangue. Canarak não está vinculado pelo Pacto e pode influenciar diretamente os eventos mortais, mas deve ter cuidado, sob pena de atrair a ira do Céu sobre si. O Pacto também não o protege.

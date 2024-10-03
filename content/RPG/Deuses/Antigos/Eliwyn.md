@@ -6,6 +6,7 @@ aliases:
   - a Única Árvore
   - a Árvore da Vida
   - a Dadora de Vida
+  - Árvore da Vida
 tags:
   - deuses
 draft: false

@@ -13,6 +13,7 @@ aliases:
   - Senhor dos Caminhos
   - Campeão do Céu
   - o Mensageiro Dourado
+  - Língua de Prata
 tags:
   - deuses
 draft: false
@@ -20,7 +21,7 @@ draft: false
 # O Deus da Viagem, Riqueza e Alegria
 ![[Darmon.jpg]]
 
-## Lábia de Prata, Astuto, Engenhoso, Alegre, o Viajante, dos Múltiplos Rostos, o Deus Risonho, Mestre da Estrada, Senhor dos Caminhos, Campeão do Céu, o Mensageiro Dourado
+## Lábia de Prata, Astuto, Engenhoso, Alegre, o Viajante, dos Múltiplos Rostos, o Deus Risonho, Mestre da Estrada, Senhor dos Caminhos, Campeão do Céu, o Mensageiro Dourado, Língua de Prata
 
 Darmon (DAR-mohn) é o deus caótico bom dos viajantes, trapaceiros e ladrões, alegria, riso, boa fortuna, comércio, mercadores, diplomacia, mensageiros, bufões, batedores, rebeldes e ladrões. Ele está associado à raposa, à lontra e ao falcão-peregrino - as criaturas mais astutas da terra, água e céu. Ele também está associado aos djins, que eram uma vez entre aqueles div confinados à coluna de fogo. Darmon foi uma vez até a coluna de fogo e encontrou aqueles div de bom coração que haviam sido injustamente aprisionados. Esses ele transportou para a coluna de ar, onde governam até hoje. Esses seres poderosos amam Darmon e têm apreço por seus seguidores.
 

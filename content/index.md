@@ -67,7 +67,7 @@ _Avó, Venerável, a Terra, a Fonte, a Mãe Terra, a Antecessora
 *Lábia de Prata, Astuto, Engenhoso, Alegre, o Viajante, dos Múltiplos Rostos, o Deus Risonho, Mestre da Estrada, Senhor dos Caminhos, Campeão do Céu, o Mensageiro Dourado
 - [[Aymara]] - Deusa do Amor e das Artes
 	- Filha de [[Zheenkeef]] + [[Tinel]]
-*Doce, Adorável, Mais Justa, a Dourada, a Cantora, Irmã da Canção, Joia do Céu, Senhora do Amor
+Doce, Adorável, Mais Justa, a Dourada, a Cantora, Irmã da Canção, Joia do Céu, Senhora do Amor
 - [[Korak]] - Deus da Forja e dos Artesãos
 	- Filho de [[Morwyn]] + [[Terak]]
 *Senhor dos Artesãos, Grande Artesão, Forjador de Almas, Rei da Caldeira, Mestre, Mão de Martelo, Hábil com as Mãos

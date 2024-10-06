@@ -1,5 +1,6 @@
 # Culto do Bastão Preso
 **Culto Corrompido de Terak (Leal e Maligno)**
+![[SimbBastaoPreso.jpg]]
 
 Em áreas assoladas por conflitos raciais, o Culto da Vara Amarrada nunca está longe. Os membros do culto se veem como membros plenos dos templos de [[Terak]]. Eles acreditam que estão sendo mantidos fora da fé por um tempo, até que ela se livre de seus absurdos membros leais e bons.
 

@@ -14,6 +14,8 @@ tags:
 draft: false
 ---
 # Deus da Morte e Renascimento
+![[RPG/Sessões/Sombras de Merritt/Resumos/Deuses/img-gods/Mormekar.jpg]]
+
 ## Silencioso, Temeroso, o Entregador, a Sombra, o Peregrino Sombrio, o Último Guia, Morte
 
 Mormekar (MOR-meh-kar) é o deus neutro da morte, renascimento, dos mortos, dos moribundos, daqueles que destroem mortos-vivos, daqueles que buscam renascimento e dos renascidos. As criaturas simbólicas associadas a ele incluem abutres, vermes, coiotes e outros que se alimentam de carniça. Ele está mais fortemente ligado ao corvo. Pessoas ignorantes o relacionam aos mortos-vivos, mas estes são anátema para ele. A fênix é um de seus aspectos simbólicos, pois a majestosa ave morre, é consumida pelo fogo e renasce nele. Na chama ardente da fênix, pode-se ver o rosto de Mormekar.

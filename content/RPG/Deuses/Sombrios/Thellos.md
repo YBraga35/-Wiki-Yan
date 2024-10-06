@@ -2,13 +2,15 @@
 title: Thellos
 description: Esse documento explica sobre o Deus da Ganância, Gula e Desejo
 aliases:
-  - o Irmão Faminto, a Boca Farta, Ganancioso
+  - o Irmão Faminto
+  - a Boca Farta
+  - Ganancioso
 tags:
   - deuses
 draft: false
 ---
 # Deus da Ganância, Gula e Desejo
-![[Thellos.jpg]]
+![[RPG/Deuses/img-gods/sombrios/Thellos.jpg]]
 
 ## O Irmão Faminto, a Boca Farta, Ganancioso
 

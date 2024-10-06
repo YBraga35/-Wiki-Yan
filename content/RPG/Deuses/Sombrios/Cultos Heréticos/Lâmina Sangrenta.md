@@ -1,6 +1,8 @@
 # Culto da Lâmina Sangrenta
 **Culto Corrompido de Maal (Leal e Maligno)**
 
+![[SimbLamSangrenta.jpg]]
+
 Há muito banidos dos tribunais de [[Maal]], essas pessoas acreditam que a justiça não pode ser servida por corações fracos. Existem crimes que devem ser tratados da maneira mais brutal e implacável possível — e se alguns erros forem cometidos ao longo do caminho, que assim seja — a sabedoria de Maal é infinita, e ele prometeu que a justiça viria.
 
 Os membros do Culto da Lâmina Sangrenta são uma profunda decepção para os outros membros dos tribunais de [[Maal]]. Eles são geralmente justiceiros que demonstraram zelo excessivo na perseguição dos perversos, tornando-se aquilo que perseguiam. Esses párias mantêm seus próprios tribunais na clandestinidade, frequentemente levando os acusados vendados diante deles, para responder a evidências secretas. Esses tribunais têm seus próprios “oficiais”, que geralmente são mercenários movidos por dinheiro, mas às vezes oficiais caídos de fato se juntam aos tribunais sombrios. Esses guerreiros formam punhos como outros Maalitas e caçam “criminosos” (definidos de maneiras estranhas, dependendo do tribunal sombrio) com zelo sádico.

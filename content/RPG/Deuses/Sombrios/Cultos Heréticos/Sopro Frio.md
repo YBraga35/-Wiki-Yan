@@ -1,6 +1,8 @@
 # Culto do Sopro Gélido
 **Culto Corrompido de Mormekar (Neutro e Maligno)**
 
+![[SimbSoproGelido.png]]
+
 Vagando pelo mundo e se reunindo em lugares escondidos—cavernas esculpidas em templos, catacumbas de catedrais perdidas, masmorras de reinos antigos—esses cultistas celebram o horror e o esplendor da morte. Eles rezam para [[Mormekar]], o único poder que importa, clamando por sua força para entrar neles. Eles erguem os mortos-vivos, e seus membros mais poderosos tornam-se liches. Por que [[Mormekar]] lhes concede poder é um mistério que nenhum de seus seguidores pode compreender, e a maioria se recusa a acreditar que ele o faz. O culto se representa com um fragmento de gelo irregular. Membros do culto que são clérigos escolhem o domínio da Morte em vez do domínio do Repouso.
 
 ## Doutrina

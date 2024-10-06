@@ -1,6 +1,8 @@
 # Culto da Possessão
 **Culto Herético Corrompido de Darmon (Caótico e Maligno)**
 
+![[SimbPossessao.jpg]]
+
 Membros controlam as casas de [[Darmon]], de modo que existem clérigos heréticos de Darmon que incentivam congregações malignas a cometer atos de maldade crescente em seu nome. Localizados nas casas de [[Darmon]], eles usam os mesmos símbolos sagrados, proferem os mesmos aforismos que outros adeptos e raramente se referem a si mesmos como parte de um culto. É somente ao estudar suas ações que se percebe que são malignos—profundamente. É provável que a casa de [[Darmon]] em Freeport, que foi estabelecida para reverenciar e proteger piratas, seja administrada por hereges deste culto. Esses cultistas se representam da mesma forma que outros viajantes, com sinais de riqueza—particularmente a moeda de ouro.
 
 ## Doutrina

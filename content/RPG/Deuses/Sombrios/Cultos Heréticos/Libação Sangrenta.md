@@ -1,6 +1,8 @@
 # Culto da Libação Sangrenta
 **Culto Corrompido de Zheenkeef (Caótico e Maligno)**
 
+![[SimbLibacaoSangrenta.jpg]]
+
 Os cultistas da Libação Sangrenta vagam pelas florestas realizando orgias selvagens, bebendo vinho até ficarem doentes e convocando demônios para dançar com eles sob a luz da lua. Eles não têm uma ordem estabelecida e se congregam sob cada lua cheia, chamados para seus pontos de encontro por alguma força invisível. Lá cometem atos de devassidão para impressionar a deusa (mas que na verdade a entediariam—decadência não é novidade). O símbolo do culto é a imagem de cinco bebês, um de cada raça, bebendo o sangue de um chacal ferido com cinco feridas, mas isso é reservado para rituais importantes. A imagem simples de um coração sangrante é comumente usada em vez disso.
 
 ## Doutrina

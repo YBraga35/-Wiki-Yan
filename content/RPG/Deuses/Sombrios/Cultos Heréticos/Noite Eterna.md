@@ -1,6 +1,8 @@
 # Culto da Noite Eterna
 **Culto Herético de Urian (Caótico e Neutro)**
 
+![[SimbNoiteEterna.jpg]]
+
 Os fiéis do Culto da Noite Eterna se reúnem na escuridão da meia-noite, ao redor de santuários improvisados construídos por piscinas iluminadas pela lua. O culto não possui uma autoridade central, mas seus membros poderosos comunicam-se entre si em sua incansável busca para cumprir sua “revelação”. Membros deste culto se representam com uma noite sem lua brilhando com doze estrelas, uma para cada geração desde que a doutrina do culto foi revelada.
 
 ## Doutrina

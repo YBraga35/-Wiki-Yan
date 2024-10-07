@@ -3,46 +3,49 @@ title: Khaiden
 draft: false
 date: 2024-08-01
 ---
+# Sumário
 
+
+# Diário
 ---
 
-*Dia 1:*
+## *Dia 1:*
 
 Já se passou uma semana desde que fui aprisionado na "Jaula". Hoje, pela primeira vez, recebi algo além de comida e castigos. Pedi um caderno e uma caneta, mas só me deram uma folha de papel. Disseram que, se me comportar, posso ganhar outra amanhã. Enquanto meus pais lideram batalhas e comandam escravos, eu e meus irmãos realizamos os trabalhos mais básicos. Whaiter, meu irmão mais velho, perdeu um braço por se recusar a matar um escravo. O jovem mestre é cruel e nos maltrata sem motivo.
 
 ---
 
-*Dia 15:*
+## *Dia 15:*
 
 A vida na jaula continua a mesma, mas notei algo peculiar. Durante a coleta de lenha, percebi como a floresta parecia me observar. As árvores e arbustos moviam-se de maneira estranha, como se estivessem respondendo aos meus movimentos. Senti uma inquietação crescente, uma sensação de que algo na natureza estava tentando se conectar comigo.
 
 ---
 
-*Dia 30:*
+## *Dia 30:*
 
 Hoje, enquanto recolhia água, avistei um lobo com pelagem negra e olhos vermelhos. Ele não me atacou, apenas me observou de longe. Senti uma estranha conexão com o animal, como se ele entendesse meus pensamentos mais sombrios. Esse encontro despertou em mim um desejo de explorar o controle que eu poderia ter sobre a natureza.
 
 ---
 
-*Dia 45:*
+## *Dia 45:*
 
 O jovem mestre fez uma demonstração de crueldade hoje. Ordenou que um escravo fosse desmembrado diante de todos, enquanto os outros eram forçados a assistir. A cena foi brutal e sangrenta. Eu observei em silêncio, com uma crescente sensação de frieza interior. A forma como o sangue jorrava e os membros eram arrancados me fez questionar a fragilidade da vida.
 
 ---
 
-*Dia 60:*
+## *Dia 60:*
 
 Hoje, a brutalidade tomou um novo nível. O jovem mestre ordenou a execução de um escravo que tentou fugir. Foi um processo horrível; o escravo foi esfaqueado e deixado para morrer lentamente. O sangue e os gritos ecoaram pela jaula, e eu não consegui desviar o olhar. Uma sensação perturbadora começou a se formar dentro de mim, uma mistura de fascinação e frieza.
 
 ---
 
-*Dia 75:*
+## *Dia 75:*
 
 A morte de Whaiter foi particularmente dolorosa. Sem cuidados médicos, ele morreu lentamente em agonia. A cena foi horrenda, e o sofrimento dele deixou uma marca em mim. Comecei a perceber uma crescente obsessão pela natureza da morte e pelo controle que eu poderia ter sobre ela. A necessidade de algo mais profundo começou a me consumir.
 
 ---
 
-*Dia 100:*
+## *Dia 100:*
 
 O lobo negro retornou e me guiou até uma caverna oculta na floresta. Dentro, encontrei um livro antigo com capas de couro e inscrições que não compreendo completamente. O livro tinha uma aura perturbadora, e a sensação ao tocá-lo era desconfortável. Comecei a estudá-lo, mesmo sem entender tudo, procurando qualquer conhecimento que pudesse ser útil.
 
@@ -134,7 +137,14 @@ O resto do texto está queimado e ilegível.
 
 ---
 
-☑Breve resumo do personagem
+## Objetivos
+Manter aqueles que estão juntos dele com ele. Mantendo uma união boa com aqueles que o circundam, aqueles que realmente se importam e tem algo em comum.
+
+
+
+
+
+## Breve resumo do personagem
 Meio que resumi abaixo pq fiz do meio pra baixo e esse por ultimo mas 
 Khaiden é um draconato escravizado por druidas dos esporos pelo que seria a sua força mas no fim khaiden foi muito mal tratado pois ja ficou claro que ele não é tão forte como os outros,e sim muito sábio 
    Por não ser útil também não recebia muita comida e ter sido escravizado desde pequeno influenciou no seu crescimento,crescendo fraco para sua espécie mas cada vez mais sábio e fascinado pelo arcano.
@@ -142,7 +152,7 @@ Khaiden é um draconato escravizado por druidas dos esporos pelo que seria a sua
     Mais tarde nessa viagem teria se encontrado com os outros do grupo e cada vez mais pessoas se juntando a nós,entretanto também cada vez mais perdas ao decorrer do caminho 
 
 
-☑Aspirações para arco de personagem;
+## Aspirações para arco de personagem;
 - Em base khaiden tem seu objetivo não tão convencional pra um druida mas por ser um druida do covil que ja na descrição de classe é informado que eles buscam poder,pode se dizer que é comum para o tipo de ciclo drudico. Khadein busca poder e reencontrar seus irmãos ou seres da mesma raça,sendo dragões puros ou draconatos,os dois ele considera família. Sua busca de poder resultou em algumas coisas como fazer um pacto com uma bruxa para obter poder, assinar um acordo com o capeta,servir ao senhor do fogo por sua mente aberta e entre outros. Não há limites para quantidade de poder desejado, apenas PODER. 
 
 

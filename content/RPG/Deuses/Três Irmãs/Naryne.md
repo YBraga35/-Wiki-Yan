@@ -16,7 +16,7 @@ tags:
 draft: false
 ---
 # Deusa da Nobreza
-![[RPG/Sessões/Sombras de Merritt/Resumos/Deuses/img-gods/Naryne.jpg]]
+![[Naryne.jpg]]
 
 ## Alta, Gloriosa, Senhora das Senhoras, Rainha das Rainhas,  o Soprar, a Nobre, Rainha das Almas, a Irmã Sombria
 

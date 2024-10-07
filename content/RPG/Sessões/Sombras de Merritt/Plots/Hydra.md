@@ -70,6 +70,8 @@ Nascido e crescido em meio a escravidão dos Tieflings em Constance, o jovem cre
 
 ## Missões e Objetivos
 
+Quer poder tomar as próprias decisões, guiar seu objetivos com a própria alma.
+Ele quer contar a sua história mais heroica possível, se libertar e assim ter uma história grandiosa, talvez tão grande quanto a de [[RPG/Heróis/Drommar|Drommar]]
 - Libertar os tieflings de Constance
 - Obter poder para se libertar e nunca mais ser preso
 - Terminar seus trabalhos a Leo Wilson e Alkak

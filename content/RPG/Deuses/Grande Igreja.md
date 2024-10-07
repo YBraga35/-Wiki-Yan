@@ -21,7 +21,7 @@ modification date: sábado 21º setembro 2024 03:42:01
 
 # Membros da Grande Igreja
 
-Os membros da Grande Igreja adoram os deuses igualmente, como uma família, de forma que a organização ocupa um lugar amplo e nebuloso no mundo. Como um grupo, os deuses são chamados de **Senhores do Bem** por uma razão: eles estão associados a tudo que é sagrado e santo. Juntos, representam a vida, suas muitas maravilhas e suas prolíficas decepções. A Igreja reconhece três grupos de deuses: os deuses antigos, os deuses nascidos da árvore e os deuses jovens.
+Os membros da Grande Igreja adoram os deuses igualmente, como uma família, de forma que a organização ocupa um lugar amplo e nebuloso no mundo. Como um grupo, os deuses são chamados de **Senhores do Bem** por uma razão: eles estão associados a tudo que é sagrado e santo. Juntos, representam a vida, suas muitas maravilhas e suas prolíficas decepções. A Igreja reconhece três grupos de deuses: os [[deuses antigos]], os deuses nascidos da árvore e os deuses jovens.
 
 ## Os Deuses
 

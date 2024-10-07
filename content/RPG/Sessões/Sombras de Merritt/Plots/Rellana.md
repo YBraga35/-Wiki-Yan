@@ -80,5 +80,6 @@ O inverno chegou, frio e implacável, mas com ele também veio a clareza. Rellan
 Agora, sua aventura se transforma em uma corrida contra o tempo. O abissal a segue de perto, esperando a hora de reclamar sua alma. Rellana, no entanto, está decidida a quebrar o ciclo, não apenas para escapar do demônio, mas para finalmente encontrar a verdadeira paz. Ela está disposta a arriscar tudo, sabendo que o inverno sempre antecede uma nova primavera — e, desta vez, será uma primavera que ela criará com suas próprias mãos, livre de pactos e ilusões.
 
 ## Missões e Objetivos
+Ela quer conseguir de novo parte do seu passado, seu pai de novo. Algo que um demônio não poderia fazer sem profanar a alma de seu pai e de todos ao redor. Ela quer uma libertação literal, desde seu contrato como correntes, e nisso ela pretende a benção de sua deusa para poder restaurar seu pai ao mundo mortal.
 
 Objetivos atuais do NPC, missões que ele está envolvido, ou desafios que enfrenta.

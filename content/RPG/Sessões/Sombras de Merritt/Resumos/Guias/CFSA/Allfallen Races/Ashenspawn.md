@@ -1,1 +1,0 @@
-![[alfallen-ashenspawn.webp]]

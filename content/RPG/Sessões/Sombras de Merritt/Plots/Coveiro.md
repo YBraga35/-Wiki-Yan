@@ -9,7 +9,13 @@ tags:
 draft: false
 ---
 
+
+
+
+
 ## Sumário
+### Novas notas
+Ser capaz de proteger e salvar as pessoas de uma forma que ele nunca pôde. Nunca se sentiu capaz de trazer sua própria justiça ao mundo, apenas a que Maal o deu. Gostaria de aplicar sua própria fé ao mundo, ajudando aqueles que a maioria não veria como uma necessidade.
 - [[#História]]
 	- [[#primeira memoria]]
 	- [[#Segunda memoria]]
@@ -123,6 +129,12 @@ Objetivos do Coveiro - O Coveiro havia se acostumado com sua vida pacata de serv
 
 TL;DR - Viu a bruxa, lembrou que queria salvar gente inocente, se sentiu fraco perante a bruxa, quer recuperar os poderes
 Objetivo a curto prazo - Cumprir com o contrato e se livrar do pacto.
+
+
+### Novas notas
+Ser capaz de proteger e salvar as pessoas de uma forma que ele nunca pôde. Nunca se sentiu capaz de trazer sua própria justiça ao mundo, apenas a que Maal o deu. Gostaria de aplicar sua própria fé ao mundo, ajudando aqueles que a maioria não veria como uma necessidade.
+
+
 
 - - -
 ## Itens

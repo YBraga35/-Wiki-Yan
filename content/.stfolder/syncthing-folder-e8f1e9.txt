@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: quartz-content
+created: 2024-07-30T14:24:05-03:00

@@ -55,3 +55,9 @@ Ele provavelmente poderia dizer a Heleka para parar e simplesmente levar Versi e
 Logo após o Desaparecido partir, Versi previu que 1) Sydon enviará algo para levá-la para casa, 2) ela não será ferida enquanto permanecer aqui, e, portanto, 3) ela ainda estará aqui quando os heróis chegarem e poderá contar a profecia aos escolhidos.
 
 Por causa da segurança garantida pela visão, Versi permaneceu no templo em vez de fugir. Obviamente, o resultado foi mais do que ela esperava, ma
+
+"Vocês guerreiros que estão aqui reunidos serão testados. As Moiras revelaram três grandes tarefas que devem ser realizadas antes de estarem prontos para navegar pelos três mares e enfrentar os Titãs."
+
+"Vocês devem moldar os fogos prateados da forja perdida para forjar as ferramentas que precisarão. Vocês devem reivindicar as poderosas armas empunhadas contra os Titãs pelo primeiro Senhor dos Dragões. E vocês devem beber profundamente do chifre de dragão sem fundo, pois ele revelará uma visão que eu não consigo ver."
+
+"Mas ai daquele que eu vi o fim de todas as coisas. A raiva de meu pai não pode ser aplacada, e sua irmã ainda conspira. Sua busca ainda pode falhar e, se assim for, o céu choverá fogo negro, e o destino de Thylea virá."

@@ -3,7 +3,6 @@ title: Academia está em Aula
 draft: true
 date: 2024-09-26
 ---
-
 Os quatro capítulos a seguir apresentam uma série de aventuras de Dungeons & Dragons otimizadas para quatro a seis personagens. Cada aventura acontece dentro e ao redor do campus de Strixhaven. Nessas aventuras, os personagens dos jogadores são estudantes que frequentam a universidade, e eles se tornam heróis por direito próprio enquanto navegam por tramas, superam monstros e frustram perigos que surgem em cada aventura.
 
 Os capítulos 1 e 2 contêm todas as informações que os jogadores precisam para interpretar estudantes de Strixhaven. Cada aventura ocorre ao longo de um ano acadêmico. Por exemplo, "Confusão no Campus", a aventura deste capítulo, ocorre durante o primeiro ano dos personagens na universidade. "Caça à Torre do Mago", no capítulo 4, acontece durante o segundo ano dos personagens na universidade, e assim por diante. As aventuras podem ser realizadas de forma consecutiva como uma campanha ou individualmente, conforme descrito abaixo.
@@ -16,7 +15,7 @@ Os capítulos 1 e 2 contêm todas as informações que os jogadores precisam par
 |  1  | Arcano-botânica para Iniciantes |   Sombravera   |
 |  2  |     Auroras Mágicas Básicas     | Estudos Gerais |
 |  3  | Iniciação à Magia Computacional |    Numeral     |
-|  4  |        Incomancia Básica        |       c        |
+|  4  |        Incomancia Básica        |   Eloquência   |
 |  5  |    História da Magia e Arte     |   Elementar    |
 |  6  |    Introdução à Arqueomancia    |     Legado     |
 
@@ -165,7 +164,7 @@ Esses pintores, escultores, gravuristas e artistas de mosaico se reúnem para cr
 
 Esses especialistas no jogo de dragonchess discutem as últimas estratégias, competem entre si e testam variações caseiras das regras do jogo.
 
-#### Sociedade Histórica Dragonsguard
+#### Sociedade Histórica Karlasgard
 
 - **Habilidades:** Arcana, História
 - **Membro:** Bhedum "Rampart" Sooviij
@@ -179,7 +178,7 @@ Esses historiadores são fascinados por todos os períodos históricos e se reú
 
 Esses especialistas com dedo verde adoram misturar magia e jardinagem para criar novas variedades de vegetação, muitas das quais cultivam no campus.
 
-#### Futuros Empreendedores de Strixhaven
+#### Futuros Empreendedores de Korala
 
 - **Habilidades:** Intuição, Persuasão
 - **Membro:** Grayson Wildemere
@@ -193,7 +192,7 @@ Esses estudantes empreendedores discutem teorias de negócios. Eles frequentemen
 
 Esses ginastas graciosos trabalham para aprimorar sua arte e competem entre si em deslumbrantes rotinas de solo.
 
-#### Clube de Silkball Intramural
+#### Clube de Bola de Seda Intramural
 
 - **Habilidades:** Atletismo, Intimidação
 - **Membro:** Javenesh Stoutclaw, Melwythorne, Tilana Kapule
@@ -219,7 +218,7 @@ Esses entusiastas da narrativa se envolvem em uma mistura de estratégia e atua�
 - **Habilidades:** Percepção, Persuasão
 - **Membro:** Zanther Bowen
 
-Com suas torcidas coordenadas, trajes e espírito escolar, essas líderes de torcida inspiram orgulho nas equipes oficiais da Torre do Mago da Universidade Strixhaven.
+Com suas torcidas coordenadas, trajes e espírito escolar, essas líderes de torcida inspiram orgulho nas equipes oficiais da Torre do Mago da Universidade Korala.
 
 #### Guilda de Drama dos Playactors
 
@@ -228,26 +227,26 @@ Com suas torcidas coordenadas, trajes e espírito escolar, essas líderes de tor
 
 Esses atores trabalham juntos para criar produções de brilhante encenação, frequentemente envolvendo novas interpretações de clássicos antigos, além de exibições de mágica e música.
 
-#### Sociedade dos Lifter de Ferro de Strixhaven
+#### Sociedade dos Lifter de Ferro de Korala
 
 - **Habilidades:** Atletismo, Medicina
 - **Membro:** Greta Gorunn
 
 Esses fisiculturistas apoiam uns aos outros no desenvolvimento de músculos fortes e até amizades ainda mais fortes.
 
-#### Associação de Show Band de Strixhaven
+#### Associação de Show Band de Korala
 
 - **Habilidades:** Prestidigitação, Performance
 - **Membro:** Aurora Luna Wynterstarr, Rubina Larkingdale
 
 Esses entusiastas da música tocam instrumentos como hurdy-gurdies, gaitas de foles, flautas e tambores, e realizam regularmente concertos animados.
 
-#### Estrela de Strixhaven
+#### Estrela de Korala
 
 - **Habilidades:** Investigação, Intuição
 - **Membro:** Grayson Wildemere, Mina Lee
 
-Esses buscadores da verdade e mestres da palavra relatam as notícias do campus, entrevistando regularmente figuras importantes e produzindo o jornal mensal Estrela de Strixhaven, que é distribuído por todo o campus.
+Esses buscadores da verdade e mestres da palavra relatam as notícias do campus, entrevistando regularmente figuras importantes e produzindo o jornal mensal Estrela de Korala, que é distribuído por todo o campus.
 
 #### Estudantes-Magos da Fé
 

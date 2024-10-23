@@ -41,7 +41,7 @@ Os personagens estudantes podem se juntar a qualquer uma das seguintes Atividade
 - **Habilidades:** Atletismo, História
 - **Membro:** Drazhomir Yarnask, Quentillius A. Melentor III
 
-Esses amantes da linguística aproveitam o profundo repositório de tomos escritos em idiomas antigos e quase extintos de Strixhaven, ensinando-se essas línguas e muitas vezes traduzindo suas obras favoritas.
+Esses amantes da linguística aproveitam o profundo repositório de tomos escritos em idiomas antigos e quase extintos de Korala, ensinando-se essas línguas e muitas vezes traduzindo suas obras favoritas.
 
 #### Sociedade Distinta de Belas Artes
 
@@ -71,7 +71,7 @@ Esses historiadores são fascinados por todos os períodos históricos e se reú
 
 Esses especialistas com dedo verde adoram misturar magia e jardinagem para criar novas variedades de vegetação, muitas das quais cultivam no campus.
 
-#### Futuros Empreendedores de Strixhaven
+#### Futuros Empreendedores de Korala
 
 - **Habilidades:** Intuição, Persuasão
 - **Membro:** Grayson Wildemere
@@ -85,7 +85,7 @@ Esses estudantes empreendedores discutem teorias de negócios. Eles frequentemen
 
 Esses ginastas graciosos trabalham para aprimorar sua arte e competem entre si em deslumbrantes rotinas de solo.
 
-#### Clube de Silkball Intramural
+#### Clube de Bola de Seda Intramural
 
 - **Habilidades:** Atletismo, Intimidação
 - **Membro:** Javenesh Stoutclaw, Melwythorne, Tilana Kapule
@@ -111,7 +111,7 @@ Esses entusiastas da narrativa se envolvem em uma mistura de estratégia e atua�
 - **Habilidades:** Percepção, Persuasão
 - **Membro:** Zanther Bowen
 
-Com suas torcidas coordenadas, trajes e espírito escolar, essas líderes de torcida inspiram orgulho nas equipes oficiais da Torre do Mago da Universidade Strixhaven.
+Com suas torcidas coordenadas, trajes e espírito escolar, essas líderes de torcida inspiram orgulho nas equipes oficiais da Torre do Mago da Universidade Korala.
 
 #### Guilda de Drama dos Playactors
 
@@ -120,21 +120,21 @@ Com suas torcidas coordenadas, trajes e espírito escolar, essas líderes de tor
 
 Esses atores trabalham juntos para criar produções de brilhante encenação, frequentemente envolvendo novas interpretações de clássicos antigos, além de exibições de mágica e música.
 
-#### Sociedade dos Lifter de Ferro de Strixhaven
+#### Sociedade dos Lifter de Ferro de Korala
 
 - **Habilidades:** Atletismo, Medicina
 - **Membro:** Greta Gorunn
 
 Esses fisiculturistas apoiam uns aos outros no desenvolvimento de músculos fortes e até amizades ainda mais fortes.
 
-#### Associação de Show Band de Strixhaven
+#### Associação de Show Band de Korala
 
 - **Habilidades:** Prestidigitação, Performance
 - **Membro:** Aurora Luna Wynterstarr, Rubina Larkingdale
 
 Esses entusiastas da música tocam instrumentos como hurdy-gurdies, gaitas de foles, flautas e tambores, e realizam regularmente concertos animados.
 
-#### Estrela de Strixhaven
+#### Estrelas de Korala
 
 - **Habilidades:** Investigação, Intuição
 - **Membro:** Grayson Wildemere, Mina Lee

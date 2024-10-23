@@ -60,6 +60,8 @@ Antes de começar esta aventura, peça aos jogadores que escolham pelo menos tr�
 |  5  |    História da Magia e Arte     |    Elementar    |
 |  6  |    Introdução à Arqueomancia    |    Legado    |
 
+
+
 ## Primeiro Dia no Campus
 
 Esta aventura começa quando os estudantes chegam ao campus de [[Academia de Korala]] e as aulas do semestre estão prestes a começar. Para os personagens, a primeira tarefa é completar a orientação obrigatória para os estudantes do primeiro ano. A orientação acontece no Biblioplex, a grandiosa biblioteca da universidade. Uma descrição completa do Biblioplex segue nesta seção.
@@ -327,7 +329,6 @@ Se todos os personagens ficarem inconscientes durante a luta, a Professora Mavin
 Orientadora em [[Academia de Korala]], a Professora Sharpbeak estava supervisionando as atividades de orientação, mas a massa de estudantes em fuga a impediu de responder ao incidente imediatamente. Quando ela tiver assistido a quaisquer personagens feridos, ela se apresenta.
 
 >>"Estudantes, muito bem!" exclama a Professora Sharpbeak, eriçando suas penas com orgulho. "Que bravura nesta nova turma! E que ocorrência bizarra. Não consigo lembrar de nenhum daqueles antigos baús de fantasias jamais ter dado qualquer indício de magia—quanto mais esse tipo de transmutação. Terei uma conversa com os gerentes de equipamentos do Rose Stage. Eles deveriam evitar que esse tipo de coisa acontecesse!"
->>
 
 Se os personagens conversarem com a professora, ela os tranquiliza, dizendo que este foi um incidente infeliz—mas infelizmente, não inédito, já que monstros estranhos frequentemente encontram seu caminho até o campus. Ainda assim, não é motivo para preocupação. Antes de partir, ela alcança sua bolsa e dá a cada personagem 1 peça de platina, agradecendo novamente pela ajuda e dando-lhes boas-vindas ao campus.
 

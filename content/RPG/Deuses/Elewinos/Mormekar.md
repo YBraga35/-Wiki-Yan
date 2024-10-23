@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 # Deus da Morte e Renascimento
-![[RPG/Sessões/Sombras de Merritt/Resumos/Deuses/img-gods/Mormekar.jpg]]
+![[Mormekar.jpg]]
 
 ## Silencioso, Temeroso, o Entregador, a Sombra, o Peregrino Sombrio, o Último Guia, Morte
 

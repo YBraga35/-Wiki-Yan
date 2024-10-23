@@ -1,5 +1,5 @@
 ---
-title: Manual para Médicos - Teleconsultas Seguras
+title: Manual para Medicos - Teleconsultas Seguras
 draft: true
 date: 2024-10-21
 ---

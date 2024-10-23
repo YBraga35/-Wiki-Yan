@@ -1,5 +1,5 @@
 ---
-title: Telessaúde - Aspectos Éticos
+title: Telessaude - Aspectos eticos
 draft: true
 date: 2024-10-23
 ---

@@ -1,3 +1,8 @@
+---
+title: Trabalho Rede RUTE
+draft: true
+date: 2024-10-23
+---
 
 # Roteiro: Rede RUTE
 

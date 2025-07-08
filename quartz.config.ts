@@ -22,6 +22,7 @@ const config: QuartzConfig = {
       "templates",
       ".obsidian",
       "**/Pessoal/**", // Ignora a pasta Pessoal
+      "**/Faculdade/**",
       "**/RPG/Aventuras/**", // Ignora a pasta Aventuras dentro de RPG
       "**/RPG/Sessões/**",
       "**/RPG/Templates/**",

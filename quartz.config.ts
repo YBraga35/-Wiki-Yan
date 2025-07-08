@@ -17,7 +17,15 @@ const config: QuartzConfig = {
     },
     locale: "pt-BR",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: [
+      "private",
+      "templates",
+      ".obsidian",
+      "**/Pessoal/**", // Ignora a pasta Pessoal
+      "**/RPG/Aventuras/**", // Ignora a pasta Aventuras dentro de RPG
+      "**/RPG/Sessões/**",
+      "**/RPG/Templates/**",
+    ],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

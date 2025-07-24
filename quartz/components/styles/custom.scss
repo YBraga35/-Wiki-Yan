@@ -1,0 +1,82 @@
+// quartz/styles/custom.scss
+
+// 1. Importar as fontes do Google
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=MedievalSharp&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css');
+
+// 2. Definir as variáveis de cor e fonte
+:root {
+    --title-font: "MedievalSharp", cursive;
+    --body-font: "Lora", serif;
+    --code-font: "IBM Plex Mono", monospace;
+    --dark: #1e1e24;
+    --dark-border: #504A4B;
+    --dark-secondary: #9a6941;
+    --light: #d8c3a5;
+    --light-secondary: #d8c3a5;
+    --light-grey: #fdfaf5;
+    --light-border: #dcd1c1;
+    --dark-grey: #4a3f35;
+    --secondary: #8c6d52;
+}
+
+// 3. Aplicar as variáveis aos elementos do Quartz
+[saved-theme="dark"] {
+    --primary: var(--dark-secondary);
+    --secondary: var(--dark-secondary);
+    --tertiary: var(--dark);
+    --highlight: var(--dark-secondary);
+    --text: var(--light);
+    --text-secondary: var(--light-secondary);
+    --background: var(--dark);
+    --background-secondary: var(--dark);
+    --border: var(--dark-border);
+}
+
+[saved-theme="light"] {
+    --primary: var(--secondary);
+    --secondary: var(--secondary);
+    --tertiary: var(--light-grey);
+    --highlight: var(--secondary);
+    --text: var(--dark-grey);
+    --text-secondary: var(--dark-grey);
+    --background: var(--light-grey);
+    --background-secondary: var(--light-grey);
+    --border: var(--light-border);
+}
+
+// 4. Aplicar as fontes
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--title-font);
+}
+
+body {
+    font-family: var(--body-font);
+}
+
+// 5. Estilo para o novo botão de retorno ao Hub
+.hub-link-container {
+    background-color: var(--tertiary);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    margin: 1rem 0;
+    transition: all 0.3s ease;
+}
+.hub-link-container:hover {
+    border-color: var(--primary);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+.hub-link {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.75rem 1rem;
+    text-decoration: none;
+    color: var(--text);
+    font-weight: bold;
+}
+.hub-link i {
+    color: var(--primary);
+    font-size: 1.5rem;
+}

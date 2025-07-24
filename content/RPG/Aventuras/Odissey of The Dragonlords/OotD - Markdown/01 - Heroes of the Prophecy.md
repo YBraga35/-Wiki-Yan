@@ -3,7 +3,7 @@ title: Untitled
 draft: true
 date: 2025-07-05
 ---
-![](assets/srd5e/img/TheGiddyLimit/homebrew/master/_img/ArcanumWorldsOdysseyoftheDragonlords/Chapter1_HeroesOfTheProphecy_Page30.webp)
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/refs/heads/master/_img/ArcanumWorldsOdysseyoftheDragonlords/Chapter1_HeroesOfTheProphecy_Page30.webp)
 
 # Chapter 1: Heroes of the Prophecy
 
@@ -51,7 +51,7 @@ A dark-haired woman calls you over to a table in the corner. She wears a white T
 
 Kyrah explains that the Titans, Sydon and Lutheria, have always hated the mortals of Thylea. For five hundred years, their hatred has been shackled by the Oath of Peace. Now, the power of the Oath has waned, and this ancient beast is one of many signs that they are plotting war upon Mytros once again.
 
-![Kyrah the Poet](assets/srd5e/img/TheGiddyLimit/homebrew/master/_img/ArcanumWorldsOdysseyoftheDragonlords/Chapter1_KyrahThePoet_Page31.webp "Kyrah the Poet")
+![Kyrah the Poet](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/refs/heads/master/_img/ArcanumWorldsOdysseyoftheDragonlords/Chapter1_KyrahThePoet_Page31.webp "Kyrah the Poet")
 
 Kyrah the Poet
 
@@ -65,7 +65,7 @@ The poet offers the heroes assistance in accomplishing this task. She has hired 
 
 The heroes can spend the rest of the night drinking and speaking to the locals. This is a good opportunity for the heroes to learn about each other, as well as hear of any recent events and rumors. Kyrah is willing to answer any questions they may have about Thylea. The heroes may also purchase basic supplies from Aetala, the innkeeper.
 
-![](assets/srd5e/img/TheGiddyLimit/homebrew/master/_img/ArcanumWorldsOdysseyoftheDragonlords/Chapter1_HeartlandsMap_Page32.webp)
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/refs/heads/master/_img/ArcanumWorldsOdysseyoftheDragonlords/Chapter1_HeartlandsMap_Page32.webp)
 
 #### Spreading Rumors p32
 
@@ -191,11 +191,11 @@ Kyrah has promised that you will learn more of your destiny from the water nymph
 
 But Kyrah has heard nothing from her in two weeks, and now she fears that something may have happened to the Oracle.
 
-![](assets/srd5e/img/TheGiddyLimit/homebrew/master/_img/ArcanumWorldsOdysseyoftheDragonlords/Chapter1_TempleOfTheOracle_ExteriorMap_Page35.webp)
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/refs/heads/master/_img/ArcanumWorldsOdysseyoftheDragonlords/Chapter1_TempleOfTheOracle_ExteriorMap_Page35.webp)
 
 - - -
 
-![](assets/srd5e/img/TheGiddyLimit/homebrew/master/_img/ArcanumWorldsOdysseyoftheDragonlords/Chapter1_OracleScroll_Page36.webp)
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/refs/heads/master/_img/ArcanumWorldsOdysseyoftheDragonlords/Chapter1_OracleScroll_Page36.webp)
 
 ## The Current Situation
 
@@ -249,109 +249,9 @@ Treasure. Braeca and his men are carrying 25 gp and 100 sp. Braeca carries a bro
 
 The stairway door that leads to the temple basement is locked. The key to the door is located in the _Attendants' Chambers_ (@UUID\[.0000000000000004#o5.-the-attendants-chambers\]{O5}). The door can be smashed open with a successful DC 20 Strength (&Reference\[skill=Athletics\]) check.
 
-#### Riddle 1: The Storm's Eye
-
-I wear no crown, yet I am king of all I survey. I have no hands, but can shatter the works of gods and men. I have three eyes, though one is all I need to see the truth of your fragile faith.
-
-What am I?
-
-... A Storm (or Sydon)
-
-**Dicas para o Mestre**
-
-- **Análise do Enigma:**
-    - _"I wear no crown, yet I am king..."_ refere-se ao fato de Sydon ser o governante original de Thylea, antes dos Lordes Dragões e dos Cinco Deuses, que ele vê como usurpadores.
-        
-    
-    - _"I have no hands, but can shatter..."_ alude ao seu poder sobre as tempestades e terremotos, capazes de destruir cidades e templos.
-        
-    
-    - _"I have three eyes, though one is all I need..."_ é uma referência direta à sua aparência com três olhos e ao seu símbolo (um olho de obsidiana), representando sua onipresença e desprezo pela fé dos mortais nos "falsos" deuses.
-        
-    
-- **Pistas para os Jogadores:**
-    - Se os jogadores tiverem dificuldade, um teste de **Inteligência (Religião)** pode lembrá-los sobre o símbolo e a aparência de Sydon.
-    - Um teste de **Inteligência (História)** pode trazer à mente as lendas sobre a fúria do Titã das Tempestades e a destruição que ele causa.
-
-**Tradução para o Português**
-
-_Eu não uso coroa, mas sou rei de tudo que observo. Não tenho mãos, mas posso destruir as obras de deuses e homens. Tenho três olhos, embora um seja tudo o que preciso para ver a verdade de sua fé frágil.  
-O que sou eu?_  
-... Uma Tempestade (ou Sydon)
-
----
-
-#### Riddle 2: The Sunken Oath
-
-I am a promise broken, a kingdom drowned in pride. I am the silence that follows a silver queen's last breath. My master's rage is the key, his worship the only lock that matters.
-
-What am I?
-
-... The Oath of Peace (or a Forgotten Oath/Sunken Kingdom)
-
-**Dicas para o Mestre**
-
-- **Análise do Enigma:**
-    - _"I am a promise broken..."_ refere-se ao Juramento de Paz, que os acólitos de Sydon veem como uma trégua frágil e prestes a ser quebrada. A "promessa quebrada" também pode aludir à forma como os Lordes Dragões dizimaram os Gyganos, o povo favorecido de Sydon.
-        
-    
-    - _"...a kingdom drowned in pride."_ é uma referência à destruição das civilizações nativas e, de forma mais ampla, ao destino que aguarda Mytros se eles continuarem a desafiar Sydon.
-    - _"...a silver queen's last breath."_ refere-se ao sacrifício de Mytros, a Rainha Argêntea, para selar o Juramento de Paz, um ato que os seguidores de Sydon veem como fútil.
-        
-    
-    - _"My master's rage is the key..."_ indica que a ira de Sydon é o que pode quebrar o juramento e que a adoração a ele é a única forma de apaziguá-lo.
-- **Pistas para os Jogadores:**
-    - Um teste bem-sucedido de **Inteligência (História)** pode conectar a "rainha de prata" a Mytros e ao Juramento de Paz.
-        
-    
-    - Se eles interagiram com a Ordem de Sydon, podem se lembrar de sua crença de que apenas a adoração ao Titã pode salvar Thylea.
-        
-    
-
-**Tradução para o Português**
-
-_Sou uma promessa quebrada, um reino afogado em orgulho. Sou o silêncio que se segue ao último suspiro de uma rainha de prata. A fúria do meu mestre é a chave, sua adoração a única fechadura que importa.  
-O que sou eu?_  
-... O Juramento de Paz (ou um Juramento Esquecido/Reino Submerso)
-
----
-
-#### Riddle 3: The Oracle's Tears
-
-I am the child of the storm, but I whisper of calm shores. I drink from steaming waters, but my words are cold comfort. My father's children will drown all hope in a sea of truth.
-
-What am I?
-
-... A Prophecy (or The Oracle, Versi)
-
-**Dicas para o Mestre**
-
-- **Análise do Enigma:**
-    - _"I am the child of the storm..."_ refere-se diretamente a Versi, a Oráculo, que é filha de Sydon, o Senhor das Tempestades.
-        
-    
-    - _"...but I whisper of calm shores."_ é um escárnio sobre como suas profecias dão falsas esperanças aos mortais, prometendo salvação da ira de seu pai.
-        
-    
-    - _"I drink from steaming waters..."_ alude à sua casa, as fontes termais abaixo de seu templo. A frase "cold comfort" (conforto frio) sugere que suas previsões são inúteis.
-        
-    
-    - _"My father's children will drown all hope..."_ refere-se aos servos de Sydon (ciclopes, centauros, etc.) e às próprias tempestades, que destruirão as esperanças dos mortais, revelando a "verdade" do poder do Titã.
-        
-    
-- **Pistas para os Jogadores:**
-    - Um personagem com a Senda Épica **O Desaparecido** (The Vanished One) pode ter uma vantagem, pois tem uma conexão especial com Versi.
-        
-    
-    - Um teste de **Inteligência (Religião)** ou **(História)** pode lembrar os jogadores da filiação de Versi e da localização de seu templo.
-        
-    
-
-
-
 - - -
 
-![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/refs/heads/master/_img/ArcanumWorldsOdysseyoftheDragonlords//Chapter1_TempleOfTheOracle_ChamberMap_Page37.webp)
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/refs/heads/master/_img/ArcanumWorldsOdysseyoftheDragonlords/Chapter1_TempleOfTheOracle_ChamberMap_Page37.webp)
 
 ## O5. The Attendants' Chambers
 
@@ -375,7 +275,7 @@ One of the rugs in the center of this grotto is actually a @UUID\[Actor.mSSQQNTV
 
 - - -
 
-![](assets/srd5e/img/TheGiddyLimit/homebrew/master/_img/ArcanumWorldsOdysseyoftheDragonlords/Chapter1_TempleOfTheOracle_GrottoMap_Page38.webp)
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/refs/heads/master/_img/ArcanumWorldsOdysseyoftheDragonlords/Chapter1_TempleOfTheOracle_GrottoMap_Page38.webp)
 
 ## O8. The Oracle's Chamber
 
@@ -423,7 +323,7 @@ Versi has valuable information for heroes using every epic path. This is an impo
 
 The Vanished One. Versi will treat the Vanished One differently than the other heroes. She will ask to speak to this particular hero privately in her cave, where she will remind them that they must return to her when the Great Labors have been completed.
 
-![Versi the Oracle](assets/srd5e/img/TheGiddyLimit/homebrew/master/_img/ArcanumWorldsOdysseyoftheDragonlords/Chapter1_VersiTheOracle_Page39.webp "Versi the Oracle")
+![Versi the Oracle](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/refs/heads/master/_img/ArcanumWorldsOdysseyoftheDragonlords/Chapter1_VersiTheOracle_Page39.webp "Versi the Oracle")
 
 Versi the Oracle
 

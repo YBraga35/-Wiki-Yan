@@ -9,6 +9,201 @@ Muitas histórias gregas giram em torno de truques e jogos de palavras. Incentiv
 
 A melhor maneira é satisfazer os termos do sacrifício sem a intenção real: mate os basilisks com antecedência e coloque a si mesmo ou a Anora na rocha por 24 horas ou o que for - termos satisfeitos, todos sobrevivem: "O Senhor das Tempestades exige que a cidade ofereça um sacrifício digno para remover a seca que atinge a região de Estoria. Eu nomeio o sacrifício como Anora, filha de Pythor." - Gaius, Comandante da Ordem de Sydon. O livro fornece 2 soluções.
 
+
+## 🌩️ **A Profecia de Estoria**
+
+> _“Quando o sol ferir a terra, e os céus se calarem em protesto,  
+> Um juramento antigo despertará, selado em pedra e sangue.  
+> O escolhido deverá ser puro, nascido do trovão e do lamento,  
+> E entregue à Rocha de Estor ao toque da aurora._
+> 
+> Que seja um sacrifício de alma e carne,  
+> Que a terra beba da coragem e do sangue real,  
+> E então, somente então, a seca partirá ao sopro do primeiro trovão.”_
+
+---
+
+### 🔍 **Interpretações possíveis (Pistas para os jogadores)**
+
+- **"Escolhido deverá ser puro"**: pode se referir a alguém de intenção pura, ou “puro” de pecado/sangue derramado (ou até uma virgem, se quiser brincar com o trope).
+    
+- **"Nascido do trovão e do lamento"**: pode indicar o _filho de Pythor_ (trovão = rei deus), ou até um órfão de guerra (lamento). Pode ser mais de uma pessoa.
+    
+- **"Entregue à Rocha"**: não diz que deve morrer, apenas ser _entregue_. Pode significar estar lá, fisicamente, por um tempo.
+    
+- **"Sacrifício de alma e carne"**: pode ser interpretado como presença e sofrimento, não necessariamente morte.
+    
+- **"Que a terra beba da coragem"**: coragem pode ser suficiente, se bem encenada.
+    
+- **"Sangue real"**: há várias personagens com linhagem nobre ou divina — não apenas Anora.
+    
+
+👉 **Possibilidades dramáticas**:
+
+- A princesa amazona pode declarar que seu sangue também é real.
+    
+- O filho de Pythor pode desafiar a interpretação e se oferecer.
+    
+- Os heróis podem tentar uma encenação que satisfaça os termos (ferimentos, lágrimas, uma noite presos, etc).
+    
+- Um jogador pode simular um sacrifício sem que Anora morra — por exemplo, colocando-a na Rocha com um artefato de proteção ou com as feras já mortas.
+    
+
+---
+
+## 🗣️ **Falas alternativas de Gaius (com ambiguidade e jogos de palavras)**
+
+### 🎭 **Versão solene — A interpretação oficial da Ordem**
+
+> _"Assim foi dito, e assim será:  
+> o sol arde, o trovão silencia, a terra grita.  
+> A Rocha de Estor clama por um sacrifício digno, de sangue nobre e alma pura.  
+> Por mando de Sydon, ofereço Anora, filha do Rei-Pythor, como cumprimento da profecia.  
+> Que seu gesto desperte a chuva — ou sua omissão condene a todos."_
+
+> _(Gaius levanta o braço, teatral)_  
+> _"Mas não sou cego aos ventos da mudança… Se outro julgar-se digno de tal oferenda,  
+> que se deite sobre a Rocha. Pois não é a morte, mas a coragem, que apazigua os deuses."_
+
+🪤 _Essa frase final é propositalmente ambígua — dá margem para que um herói ofereça sua presença, não sua vida, e ainda “satisfaça” a profecia._
+
+---
+
+### 🗡️ **Versão provocativa — Aos Lordes Dragões e heróis**
+
+> _"Ah, que ironia, filhos da guerra e netos de mitos virem falar de justiça.  
+> Dizem-se sangue real, clamam coragem — então provem!  
+> A Rocha aguarda. Que se encadeiem vocês! Que suas veias, e não as de Anora, provem seu valor."_
+
+> _"Mas cuidado com o que desejam... a Rocha não distingue mártir de tolo."_
+
+🗝️ _Aqui Gaius joga com o orgulho dos heróis, provocando-os a agir, talvez caindo na armadilha do sacrifício... ou encontrando uma brecha nele._
+
+---
+
+### 🧠 **Versão diplomática — Em audiências ou bastidores**
+
+> _"A Ordem não deseja morte desnecessária. Apenas cumpre a palavra deixada pelos deuses.  
+> A profecia fala de entrega. Se alguém puder provar que essa entrega foi feita — em espírito, em sangue ou em coragem —  
+> então talvez... talvez possamos rogar por clemência."_
+
+> _"Mas quem ousaria interpretar melhor os deuses do que seus próprios arautos?"_
+
+🤔 _Perfeito para abrir espaço a argumentações dos jogadores, sem quebrar a autoridade de Gaius nem a tensão._
+
+---
+
+## Aprofundando o Chefe Centauro: Baenor, o Trovão das Estepes
+
+Vamos dar vida a Baenor, o líder do exército de centauros que sitia Estoria. Ele é muito mais do que um simples peão de Sydon; ele é um líder com sua própria agenda, moldado pela história e pelo orgulho de seu povo.
+
+### 1. Perfil de Baenor
+
+Personalidade:
+
+Baenor é a personificação do espírito indomável e ressentido das raças nativas de Thylea. Ele não é um bárbaro irracional, mas um general astuto e paciente, cujo ódio pelos "colonos" é uma chama fria e constante, alimentada por 500 anos de histórias sobre a humilhação do seu povo.
+
+- **Austero e Pragmático:** Ele fala pouco, mas suas palavras são pesadas e diretas. Despreza a política e os jogos de palavras dos humanos, que considera sinais de fraqueza e desonestidade.
+    
+- **Honrado, mas Implacável:** Ele segue um código de honra centauro, que valoriza a força, a coragem e a palavra dada. Ele respeitará um inimigo valente, mas não hesitará em esmagá-lo se for necessário para o bem de sua tribo.
+    
+- **Profundamente Ressentido:** Ele jamais esqueceu a derrota na Primeira Guerra e a morte do último dragão . Ele vê os Cinco Deuses como usurpadores e o Juramento de Paz como uma humilhação que seu povo foi forçado a engolir.
+    
+- **Paciente como a Estepe:** Ele esperou por séculos. A aproximação do fim do Juramento de Paz é a oportunidade que sua linhagem aguardava para restaurar a glória dos centauros.
+    
+
+Intenções e Motivações:
+
+O objetivo final de Baenor não é simplesmente servir a Sydon, mas sim restaurar a ordem antiga de Thylea, onde as raças nativas eram soberanas.
+
+1. **Restaurar a Honra Centaura:** Seu principal objetivo é reaver as terras e a dignidade de seu povo. A humilhação de Estoria e do rei-deus Pythor é um passo simbólico e estratégico crucial.
+    
+2. **Cumprir a Vontade de Sydon (Como um Meio):** Ele vê Sydon não como um mestre, mas como a ordem natural do mundo. Para ele, Sydon _é_ a tempestade, o mar, a força primordial de Thylea. A exigência do sacrifício é, para Baenor, a natureza retomando o que é seu por direito.
+    
+3. **Testar os "Heróis":** Ele não acredita na profecia do Oráculo da mesma forma que os colonos. Para ele, os heróis são apenas mais um sintoma da doença que aflige a terra. Ele quer testar a fibra deles, ver se são dignos de respeito ou se são apenas mais fantoches dos "falsos deuses".
+    
+
+### 2. Relação com Sydon e a Ordem (Gaius)
+
+Esta é uma aliança de conveniência, marcada por uma profunda desconfiança mútua.
+
+- **Proximidade Física:** Eles não estão acampados juntos. O exército de Baenor é uma presença ameaçadora no horizonte, um cerco visível das muralhas de Estoria. Gaius e a Ordem de Sydon operam _dentro_ da cidade, usando a ameaça externa para manipular a política interna. A comunicação entre eles é feita por mensageiros discretos.
+    
+- **Visão de Baenor sobre Gaius:** Baenor despreza Gaius. Ele o vê como um "cão de coleira", um mortal que late em nome de um poder que mal compreende. Gaius é um peão útil, mas Baenor jamais o consideraria um igual. Ele se irrita com a necessidade de interagir com ele, mas entende sua utilidade tática.
+    
+- **Visão de Gaius sobre Baenor:** Gaius vê o exército centauro como uma ferramenta bruta, mas eficaz. Uma "força da natureza" que ele pode direcionar para seus próprios fins: fortalecer a fé em Sydon e minar o poder de Pythor. Ele sabe que não pode controlar Baenor, apenas "sugerir" e torcer para que seus objetivos se alinhem.
+    
+
+### 3. Aprofundando o Sacrifício de Estoria
+
+O sacrifício é o ponto central do drama político e religioso em Estoria. Para Baenor, o ato tem múltiplos significados:
+
+- **Humilhação Pública de Pythor:** Forçar o Deus da Guerra a sacrificar sua própria filha (ou permitir que ela seja sacrificada) é a maior demonstração de que o poder dos Cinco Deuses é ilusório perante a força primordial de Sydon.
+    
+- **Um Teste de Fé (dos Outros):** Ele quer ver até onde os colonos irão para apaziguar um poder que eles desprezaram por séculos. A hesitação deles prova sua fraqueza.
+    
+- **Uma Brecha para os Heróis:** Baenor, em sua honra, pode ser persuadido por uma solução alternativa, _se_ essa solução ainda cumprir o objetivo de humilhar Estoria e provar a coragem dos heróis. Ele não está sedento pelo sangue de Anora especificamente; ele está sedento por justiça e restauração. O "combate ritual" é uma alternativa perfeitamente honrada aos seus olhos.
+    
+
+---
+
+## Roleplay e Diálogos de Baenor
+
+Aqui estão cenas e falas que você pode usar ou adaptar para suas sessões.
+
+### Cena 1: A Chegada dos Heróis ao Acampamento Centauro
+
+> Os heróis se aproximam do acampamento. Centenas de tendas de couro se espalham pela estepe. O cheiro de cavalo, couro e fumaça é forte. Baenor não está em uma tenda, mas ao ar livre, observando o horizonte em direção a Estoria, seu machado de duas lâminas fincado no chão ao seu lado. Ele é imponente, com o torso coberto de cicatrizes e um olhar que parece carregar o peso de gerações.
+> 
+> _(Ele não se vira imediatamente. Deixa que os heróis se aproximem e se anunciem. Quando finalmente fala, sua voz é grave e ressonante como um trovão distante.)_
+> 
+> > **Baenor:** "Mais filhotes dos 'deuses'. Vieram rastejando da sua cidade de pedra para implorar à tempestade que cesse? As preces de vocês são fracas. O céu não as ouve mais."
+
+_Se os heróis mencionarem a profecia ou o Oráculo:_
+
+> > **Baenor:** "A tagarelice da filha de Sydon não me interessa. O céu tem suas próprias leis. A terra seca clama por um tributo. Um tributo que seu 'rei-deus' em seu trono dourado parece relutante em pagar."
+
+### Cena 2: A Proposta do Desafio
+
+> Se os heróis tentarem negociar, argumentando ou oferecendo alternativas, Baenor os interromperá com um gesto impaciente.
+> 
+> > **Baenor:** "Palavras são vento. A estepe responde ao aço e ao casco. Vocês se dizem 'heróis'. Falam de coragem. Provem-na. Se o sangue de um rei é valioso demais, então que o seu seja derramado na rocha. Sobrevivam ao presente de Sydon até o amanhecer, e talvez eu ouça o que têm a dizer. Falhem... e a princesa se junta a vocês no próximo crepúsculo."
+> 
+> _(Ele aponta com o queixo para a Rocha de Estor, visível à distância.)_
+> 
+> > **Baenor:** "A Rocha espera. Mostrem-me se a fama que os precede é merecida, ou se são apenas mais uma canção vazia cantada por bardos bêbados."
+
+### Cena 3: Durante a Batalha (se ocorrer)
+
+> Baenor não participa, mas observa de uma posição elevada com seus tenentes. Ele não torce nem zomba. Ele analisa.
+> 
+> _Se um herói executa uma manobra impressionante:_
+> 
+> > **Baenor:** _(Para um de seus guerreiros)_ "Aquele ali luta com o fogo de um verdadeiro thyliano. Uma pena que seu coração sirva a deuses de pedra e ouro."
+> 
+> _Se um herói cai:_
+> 
+> > **Baenor:** _(Com um tom neutro, quase clínico)_ "A fraqueza é purgada. A Rocha aceita seu tributo."
+> 
+> _Se os heróis vencem:_
+> 
+> > _(Ele não aplaude, mas há um brilho de respeito relutante em seus olhos. Ele se aproxima lentamente quando o último monstro cai.)_
+
+### Cena 4: Após o Desafio (A Proposta Final)
+
+> Com os heróis vitoriosos, mas exaustos, Baenor se aproxima. Ele os vê sob uma nova luz: não mais como insetos, mas como adversários dignos.
+> 
+> > **Baenor:** "Vocês sangraram em solo sagrado. Lutaram com a fúria que meu povo quase esqueceu. Vocês têm força. Talvez... tenham honra."
+> 
+> _(Ele faz uma pausa, seu olhar varrendo cada um deles.)_
+> 
+> > **Baenor:** "A profecia será cumprida. A dívida será paga. Mas os deuses são dados a jogos de palavras, e eu também sei jogar. O sacrifício de uma princesa virgem é... poético. Mas a submissão de um reino é um tributo muito maior."
+> 
+> > **Baenor:** "Vocês têm uma escolha. Ajudem-me a tomar a cidade. Forcem Pythor a se ajoelhar, não diante de mim, mas diante da verdadeira Thylea. Façam-no renunciar ao seu trono usurpado. Isso seria um sacrifício de orgulho que ecoaria por mais quinhentos anos. Façam isso, e a princesa vive, e a chuva virá."
+> 
+> > **Baenor:** "Ou... simplesmente entreguem a garota. A escolha é sua, 'heróis'. Mostrem-me que tipo de lenda vocês desejam ser."
+
+
 ## Sacrifício através do combate na rocha
 Os personagens devem substituir Anora ou ser adicionados ao sacrifício dela: "Que tal isso, vocês chamados de Escolhidos. Querem estar na Rocha tão desesperadamente, aceitarei todos vocês em vez de Anora. Se acham que podem suportar as poderosas criaturas de Sydon!" - Gaius, Comandante da Ordem de Sydon.
 

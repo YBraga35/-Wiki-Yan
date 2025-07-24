@@ -20,6 +20,8 @@ import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
+import HubLink from "./HubLink" // <-- ADICIONE ESTA LINHA DE IMPORTAÇÃO
+
 
 export {
   ArticleTitle,
@@ -28,6 +30,7 @@ export {
   FolderContent,
   Darkmode,
   Head,
+  HubLink,
   PageTitle,
   ContentMeta,
   Spacer,

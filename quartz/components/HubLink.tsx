@@ -1,5 +1,5 @@
 // quartz/components/HubLink.tsx
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { QuartzComponent, QuartzComponentConstructor } from "./types"
 
 const HubLink: QuartzComponent = () => {
   return (

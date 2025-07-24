@@ -1,10 +1,6 @@
 // quartz/styles/custom.scss
 
-// 1. Importar as fontes do Google
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=MedievalSharp&display=swap');
-@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css'); // Importa Font Awesome
-
-// 2. Definir as variáveis de cor e fonte
+// 1. Definir as variáveis de cor e fonte
 :root {
     // Fontes
     --title-font: "MedievalSharp", cursive;
@@ -25,7 +21,7 @@
     --secondary: #8c6d52;
 }
 
-// 3. Aplicar as variáveis aos elementos do Quartz
+// 2. Aplicar as variáveis aos elementos do Quartz
 [saved-theme="dark"] {
     --primary: var(--dark-secondary);
     --secondary: var(--dark-secondary);
@@ -50,7 +46,7 @@
     --border: var(--light-border);
 }
 
-// 4. Aplicar as fontes
+// 3. Aplicar as fontes
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--title-font);
 }
@@ -59,7 +55,7 @@ body {
     font-family: var(--body-font);
 }
 
-// 5. Estilo para o novo botão de retorno ao Hub
+// 4. Estilo para o novo botão de retorno ao Hub
 .hub-link-container {
     background-color: var(--tertiary);
     border: 1px solid var(--border);

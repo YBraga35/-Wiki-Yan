@@ -75,3 +75,4 @@ Aqui estão as identidades por trás das descrições do sonho, para sua referê
 - **Os Dois Meninos Gêmeos Idênticos:**
   - **Nomes:** **Harry e Tom** 
   - **Descrição:** Os gêmeos sequestrados da vila de Kreznik, mantidos na Casa de Elazar para o ritual de sacrifício de Emmanuel.
+

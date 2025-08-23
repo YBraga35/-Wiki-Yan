@@ -1,3 +1,11 @@
+---
+title: Fluxo Financeiro WhatsApp com n8n e WAHA
+date: 2025-08-22
+tags:
+  - n8n
+  - whatsapp
+  - automação
+---
 
 ---
 

@@ -3,3 +3,6 @@ A ideia do infosio é que haja uma unificacao de tecnologias do formulario e do 
 Depois disso o dash board seja implementado usando uma analise simples de dados 
 
 Para o TCC aumentar o escopo do infocisio para nao apenas radiodistal mas sim para toda fisíoterapia na ufcspa usando nosql 
+
+https://brasil.uxdesign.cc/o-que-%C3%A9-o-sus-system-usability-scale-e-como-us%C3%A1-lo-em-seu-site-6d63224481c8
+

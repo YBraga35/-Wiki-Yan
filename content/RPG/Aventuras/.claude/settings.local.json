@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tree:*)",
+      "Bash(dir:*)",
+      "Bash(for file in \"00.01 - Playing the Villains.md\" \"00.02 - Handling the Epic Paths.md\" \"00.05 - Milestone Leveling.md\" \"00.06 - Placing Spell Scrolls.md\" \"00.07 - Gods and Grief.md\" \"00.08 - Companions and Romance.md\" \"00.10 - Opening Scene.md\" \"00.11 - The Hunt for the Corrupted Boar.md\")",
+      "Bash(do mv \"$file\" \"$file%.md [EN].md\")",
+      "Bash(done)",
+      "Bash(for:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

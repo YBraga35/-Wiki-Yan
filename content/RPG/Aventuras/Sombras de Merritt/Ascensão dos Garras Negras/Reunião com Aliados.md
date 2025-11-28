@@ -20,5 +20,4 @@ data:
 
 
 
-[[RPG/Aventuras/Sombras de Merritt/SdM - Aventura em Capítulos.md|]]
-[[RPG/Aventuras/Sombras de Merritt/Ascensão dos Garras Negras.md|]]
+

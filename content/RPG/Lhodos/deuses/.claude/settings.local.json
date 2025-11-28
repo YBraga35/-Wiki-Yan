@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gemini -p \"I need detailed information about the Pointy Hat YouTube video on god/deity design for D&D and TTRPGs. The video discusses principles for creating compelling pantheons. Please provide: the main framework or methodology Pointy Hat recommends, key principles for deity design, common mistakes to avoid, how to make gods narratively useful in campaigns, tips for deity relationships and conflicts, how to connect gods to players through cults/worship, and any practical examples given. Be comprehensive and detailed.\")",
+      "Bash(gemini -p \"What does Pointy Hat say about designing gods for D&D campaigns? Summarize the key points from his deity design video.\")",
+      "Bash(gemini --help:*)",
+      "Bash(gemini:*)",
+      "Bash(git mv:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

@@ -3,6 +3,8 @@ title: Template Guia
 draft: true
 date: 2024-09-20
 ---
+Página no Homebrewery: [Lhodos - Guia do Mundo Iluminado - The Homebrewery](https://homebrewery.naturalcrit.com/share/xIXEGPgrJUeZ)
+
 # Exemplos de Guias
 ## Guia de “Vanguard Adventuring Academy”
 https://drive.google.com/file/d/1kxtaIwHdSQ48x3vch2cmXer7Abex_Kju/view

@@ -65,3 +65,25 @@ O objetivo é atravessar, não lutar.
 - **Falha:** Se o grupo falhar, uma patrulha de **Gigantes de Gelo** (use o bloco de estatísticas do módulo) é enviada para investigar. Os guias farão de tudo para evitar o combate, apontando rotas de fuga e escondites. O combate aqui deve ser visto como uma falha e um grande perigo.
     
 - **Sinais de Perigo:** Antes de um teste de furtividade, dê aos jogadores sinais da proximidade dos gigantes: o som de passos pesados que fazem o chão tremer, o cheiro de animais assados em uma fogueira enorme, ou a visão de uma sentinela gigante no topo de um penhasco distante.
+
+
+
+#### 09 – Fenda
+
+Uma grande fenda corta a montanha, um pouco fora do caminho batido. Ela é protegida dos ventos fortes e pode fornecer um esconderijo se o grupo estiver desesperado para evitar a detecção. Um personagem com uma pontuação de Percepção passiva de 15 ou mais ouve gemidos fracos vindo de baixo, quase engolidos pelo uivo do vento.
+
+- **A Descoberta:** Ao se aproximarem da borda, eles veem uma figura humana caída no fundo, parcialmente coberta por neve. A figura está vestindo roupas de viagem de inverno, agora rasgadas, e uma de suas pernas está em um ângulo antinatural. É Robinson, um druida humano de bom coração.
+    
+- **Perigo e Resgate:** A fenda desce 30 metros. Suas paredes íngremes são cobertas por uma camada de geada que dificulta a escalada (CD de todos os testes de escalada aumentada em 2, como no original). O resgate em si é um desafio: o frio é intenso, e o tempo é crucial.
+    
+- **Encontro: 27 Horas de Desespero.** Robinson (humano CB **druida**) está à beira da morte. Ele tem apenas 7 pontos de vida e quatro níveis de exaustão. Ele está delirante, alternando entre tremores e murmúrios sobre "a Lágrima de Gelo" e "a promessa que fiz ao povo do deserto". Ele usou seu último resquício de força para enviar um _mensageiro animal_ (um falcão da neve) em busca de ajuda, mas não tem ideia se a mensagem chegou.
+    
+- **Quem é Robinson e por que ele está aqui?** Robinson não é um aventureiro comum. Ele é um membro dos "Guardiões do Pico", um círculo de druidas e naturalistas dedicados a preservar os segredos das montanhas mais altas do mundo. Ele estava no Passo de Tharngrold em uma missão sagrada: colher a **Lágrima de Gelo**, uma flor cristalina extremamente rara que só desabrocha no coração de nevascas mágicas. A lenda diz que a essência desta flor, quando devidamente preparada, pode purificar a terra da mais vil corrupção e é uma das poucas substâncias que pode nutrir a **Semente** que os heróis procuram em Apios. Ele acredita que a flor é uma bênção da natureza para ajudar na luta contra a escuridão que se aproxima (a Guerra Rubra). Durante uma nevasca súbita, enquanto tentava alcançar a flor em uma saliência traiçoeira, o gelo cedeu e ele caiu na fenda.
+    
+- **Recompensas da Bondade:** Salvar Robinson pode render aos personagens mais do que apenas a gratidão de um homem.
+    
+    - **Recompensa Imediata:** Em sua bolsa, Robinson carrega um **foco druídico feito de um galho de árvore petrificado** (vale 50 po), um punhado de **Bagberries Raras** (quem comer uma recupera 2d4+2 PV, 3 doses) e um mapa de couro mal desenhado que marca locais de abrigo seguro e perigos naturais (mas não as patrulhas dos gigantes) no Passo de Tharngrold.
+        
+    - **Informação Valiosa:** Uma vez que ele se recupere (mesmo que parcialmente), Robinson pode compartilhar seu vasto conhecimento sobre a flora, a fauna e o comportamento climático da região. Ele pode avisar sobre os lobos do inverno perto do santuário ou sobre a natureza do ritual da xamã gigante. Ele também pode confirmar que a **Lágrima de Gelo** é real e vital, criando um novo objetivo opcional para os heróis: encontrar a flor para ajudar em sua missão principal.
+        
+    - **Um Aliado Futuro:** A dívida de Robinson para com os personagens é imensa. Ele e os "Guardiões do Pico" se tornarão aliados valiosos. Se os personagens precisarem de ajuda relacionada à natureza, orientação em terras selvagens ou conhecimento sobre criaturas raras, Robinson será um contato poderoso. Ele pode, por exemplo, ser a chave para encontrar um caminho seguro por uma floresta amaldiçoada ou para decifrar um enigma natural mais tarde na campanha.

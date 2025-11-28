@@ -24,7 +24,7 @@ Bem-vindo ao repositório de minhas anotações! Aqui, você encontrará informa
 
 Explore o [[Lhodos|mundo de Lhodos]] e conheça os elementos chave do meu universo RPG.
 
- ### [[RPG/Deuses/index|Deuses]]
+ ### [[RPG/Lhodos/deuses/index|Deuses]]
  Seres fantásticos e poderosos, baseados na mitologia do *Book of the Righteous*.
  - [[Um Tratado Sobre o Divino]]: Epopeia do Grande Sábio Matalou sobre a [[Um Tratado Sobre o Divino|criação]] do mundo e o toque dos deuses sobre ele.
 
@@ -92,9 +92,9 @@ Explore o [[Lhodos|mundo de Lhodos]] e conheça os elementos chave do meu univer
 
 - - -
 
-- **[[RPG/Facções/index|Facções]]**: Grupos importantes, desde a Liga dos Aventureiros até cultistas antagonistas.
+- **[[RPG/Lhodos/Facções/index|Facções]]**: Grupos importantes, desde a Liga dos Aventureiros até cultistas antagonistas.
 - **[[Heróis|Heróis]]**: Lendas e figuras heroicas que refletem os valores culturais e divinos.
-- **[[RPG/NPCs/index|NPCs]]**: Personagens recorrentes que enriquecem as histórias e aventuras.
+- **[[RPG/Lhodos/NPCs/index|NPCs]]**: Personagens recorrentes que enriquecem as histórias e aventuras.
 - [[RPG/Regras/index|Regras]]: Regras alternativas ou complementares para as mesas de RPG, muitas vezes para todas as vezes, algumas em apenas algumas é aceito (consulte o narrador)
 
 

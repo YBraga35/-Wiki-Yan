@@ -139,12 +139,12 @@ Apesar de serem vistos como provinciais, Estoria produz:
 
 ## Timeline Importante
 
-| Data | Evento |
-|------|--------|
-| Era Antiga | Fundação como pequena comunidade |
-| 330 CE | Pythor torna-se rei, derrubando tirano |
-| Séculos | Resistência contínua a ataques |
-| Presente | Fortaleza do Norte, centro de treinamento guerreiro |
+| Data       | Evento                                              |
+| ---------- | --------------------------------------------------- |
+| Era Antiga | Fundação como pequena comunidade                    |
+| 330 CE     | Pythor torna-se rei, derrubando tirano              |
+| Séculos    | Resistência contínua a ataques                      |
+| Presente   | Fortaleza do Norte, centro de treinamento guerreiro |
 
 ## Proximidade com Locais Importantes
 

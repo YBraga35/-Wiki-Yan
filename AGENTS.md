@@ -1,31 +1,45 @@
 # Repository Guidelines
 
 ## Project Structure & Module Organization
-- `content/` holds published notes; keep entries under domain folders (e.g., `RPG/Thylea/{Locais,Personagens,Itens,Criaturas}`) with Markdown plus YAML frontmatter.
-- `images-obsidian/` and `public/` store shared assets; reference them with relative paths.
-- `quartz.config.ts` and `quartz.layout.ts` define site settings and layout; adjust carefully, and keep changes documented.
-- `docs/` and `public/` are build outputs; avoid manual edits except for inspection.
+- `content/` holds the published notes. Key areas: `RPG/Thylea/` (chapters under `md/`, setting pages in `Locais/`, `Personagens/`, `Itens/`), plus other domains like `Dev - Computação`, `Faculdade`, `Pessoal`, and `_Meta`.
+- `content/images-obsidian/` stores shared assets; reference them with relative paths from the page that uses them.
+- `docs/` and `public/` are build outputs; regenerate rather than editing directly.
+- `quartz/`, `quartz.config.ts`, and `quartz.layout.ts` define the Quartz generator and theme; keep changes documented and minimal.
 
 ## Build, Test, and Development Commands
-- `npm install` (Node 20/22) to install dependencies.
-- `npx quartz build` generates the static site locally into `public/`.
-- `npm run docs` builds and serves the site from `docs/` for local preview.
-- `npm run check` runs `tsc --noEmit` plus Prettier in check mode.
-- `npm test` runs the path and dependency graph unit tests.
-- `npm run format` applies Prettier to the codebase and Markdown.
+- `npm install` (Node 20/22) installs dependencies.
+- `npx quartz build` produces a static build in `public/`.
+- `npm run docs` builds and serves from `docs/` for local preview.
+- `npm run check` runs TypeScript `--noEmit` and Prettier in check mode.
+- `npm test` runs path and dependency graph unit tests; `npm run format` applies Prettier.
 
 ## Coding Style & Naming Conventions
-- Write Markdown in Portuguese with YAML frontmatter: always include `title`, `aliases` (list), and `tags` (list); keep domain fields relevant to the page (e.g., `tipo`, `status`, `governo`).
-- H1 should mirror `title`, followed by a concise summary line when useful.
-- Prefer wiki links (`[[Target Page]]`) over raw URLs for internal references; match existing casing and spacing (Title Case with spaces allowed, e.g., `Locais/Dungeons/Mithral Mines.md`).
-- Reuse section ordering seen in current pages (`Visão Geral`, `História`, `Links Relacionados`, `Referências`) to keep navigation consistent.
-- For TypeScript edits, rely on Prettier defaults (2-space indent) and keep exported types explicit.
+- Notes are Markdown with YAML frontmatter; include `title`, `aliases` when helpful, `tags`, `draft`, and date fields already used in nearby files. Preserve domain-specific keys (`tipo`, `governante`, etc.). Example:
+
+```markdown
+---
+title: Mytros
+aliases: [City of Mytros]
+tags: [thylea, local]
+draft: false
+date: 2025-11-27
+---
+```
+
+- H1 should mirror `title`; keep summaries concise.
+- Prefer wiki links (`[[RPG/Thylea/Locais/Cidades/Mytros|Mytros]]`) over raw URLs; match existing casing and spacing.
+- Keep existing Title Case filenames (spaces allowed). New chapters under `content/RPG/Thylea/md/` follow the `NN Chapter - Title.md` numbering.
 
 ## Testing Guidelines
-- After content edits, run `npx quartz build` or `npm run docs` to catch frontmatter or linking issues before syncing.
-- For generator or config changes, run `npm run check` and `npm test`, then spot-check the served site for navigation/search regressions.
+- For content edits, run `npx quartz build` or `npm run docs` to catch frontmatter errors, broken links, or missing assets.
+- For config or TypeScript changes, run `npm run check` and `npm test`; preview locally before publishing.
 
 ## Commit & Pull Request Guidelines
-- Recent history uses `Quartz sync: <date, time>` for publish commits; follow that for syncs/deploys and use short imperative titles for content batches (e.g., `Add Estoria overview`).
-- PRs should list scope, affected areas, and verification (commands run, pages reviewed); link related issues or notes when available.
-- Attach screenshots or notes for layout/theme changes and mention any follow-up tasks needed post-merge.
+- Recent history uses `Quartz sync: <MMM DD, YYYY, HH:MM TZ>` for publish commits; for feature/content batches, use short imperative titles (e.g., `Add Thylea Mytros overview`).
+- PRs should describe scope, affected sections, verification commands, and linked issues/notes; include screenshots for layout or theme changes.
+- Note follow-ups (e.g., indexes to refresh or assets to compress) so sync steps stay clear.
+
+## Content & Asset Tips
+- Place images in `content/images-obsidian/`; compress before committing and reference with relative paths.
+- Update index/overview notes when adding new locations, NPCs, or chapters so navigation remains coherent.
+- Avoid deleting legacy links; add redirects/alias entries in frontmatter when renaming pages.

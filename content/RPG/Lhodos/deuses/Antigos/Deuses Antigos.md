@@ -12,6 +12,8 @@ draft: false
 date: 2024-07-23
 creation date: 2024-07-23 03:48
 modification date: terça-feira 23º julho 2024 03:48:18
+NotionID-DadosObs: 2baf36a8-7c3b-816e-9099-cea7027c5bdf
+link-DadosObs: https://yan-braga.notion.site/Deuses-Antigos-2baf36a87c3b816e9099cea7027c5bdf
 ---
 
 > [!quote] Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance.

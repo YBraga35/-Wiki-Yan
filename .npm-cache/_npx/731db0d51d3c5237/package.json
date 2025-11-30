@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@jackyzha0/quartz": "file:../../.."
+  },
+  "_npx": {
+    "packages": [
+      "/mnt/c/Users/Yanbd/dev/-Wiki-Yan"
+    ]
+  }
+}

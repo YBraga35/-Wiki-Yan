@@ -1,23 +1,21 @@
 ---
-title: "CFSA - Compendium of Forgotten Secrets: Awakening"
-description: "Esse documento é a introdução e o sumário relativo de todo o Guia Compendium of Forgotten Secrets: Awakening"
+title: Guias CFSA
 aliases:
-  - indexação
-  - Índice
-  - CoFSA
   - CFSA
-tags:
-  - index-tag
-  - indice-tag
-  - guias
+tags: [rpg, guias, cfsa]
 draft: false
-date: 2024-08-10
-creation date: 2024-08-10 21:59
-modification date: sábado 10º agosto 2024 21:59:39
+date: 2025-11-29
+description: Referências e anotações ligadas ao CFSA.
 ---
+> 🧭 Navegação: [[RPG/Guias/index\|Voltar]] • [[index\|Raiz]] • ▶ [[content/index\|Conteúdo]]
 
-> [!quote] Be the change that you want to see in the world.
-> — Mahatma Gandhi
+# [[RPG/Guias/index|⬅ Guias]] • [[content/index|Conteúdo]] • [[index|Sumário do Site]]
 
+# Guias CFSA
 
+Notas reservadas para conteúdos e procedimentos do CFSA. Estruture por módulo ou assunto conforme o material for sendo produzido.
 
+## Raças e suplementos
+- [[RPG/Guias/CFSA/Allfallen Races/Ashenspawn|Allfallen Races — Ashenspawn]]
+
+> 🧭 Navegação: [[RPG/Guias/index\|Voltar]] • [[index\|Raiz]] • ▶ [[content/index\|Conteúdo]]

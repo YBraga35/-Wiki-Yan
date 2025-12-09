@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"ca7e40e56e8033e6","type":"text","text":"Processo terapêutico de pesssoas com ansiedade social ou depressão","x":-440,"y":-130,"width":260,"height":100},
+		{"id":"59e71e4b1aeb2255","type":"text","text":"Aplicativo que une pessoas em tratamento com boas práticas psicológicas","x":-463,"y":40,"width":306,"height":100},
+		{"id":"d1ed2a24dcb3014f","type":"text","text":"Finch?","x":-156,"y":-20,"width":143,"height":60},
+		{"id":"2e17991e45dd89b4","type":"text","text":"Mobile Apps","x":220,"y":-257,"width":250,"height":60},
+		{"id":"145219d0430b5320","type":"text","text":"Psicologia atrelada ao uso de dispositivos mobile","x":-107,"y":-257,"width":272,"height":60},
+		{"id":"dd4fe3ad2a9bdde9","type":"text","text":"Informática","x":220,"y":-367,"width":250,"height":60},
+		{"id":"85ffcb7bb983f95a","type":"text","text":"Saúde","x":-96,"y":-480,"width":250,"height":60},
+		{"id":"10653c10708b73cc","type":"text","text":"Psicologia","x":-96,"y":-367,"width":250,"height":60},
+		{"id":"5e3cd45f8ce8ebe5","type":"text","text":"Informática Biomédica","x":95,"y":-620,"width":250,"height":60},
+		{"id":"e55194da869dddd3","type":"text","text":"Disponibilidade de consultas e profissionais","x":-780,"y":0,"width":250,"height":60},
+		{"id":"eaa07e340a903242","type":"text","text":"Telemedicina → Teleconsultas","x":-780,"y":-130,"width":250,"height":60},
+		{"id":"098398e67fc5dd43","type":"text","text":"Socialização","x":-96,"y":-140,"width":250,"height":60},
+		{"id":"df9b1a063eb7c136","type":"text","text":"Saúde Digital (vício em redes sociais)","x":220,"y":-140,"width":250,"height":60},
+		{"id":"01fabb4a32d38530","type":"text","text":"Isolamento social quando há vício em redes","x":51,"y":10,"width":268,"height":60},
+		{"id":"b0b056f5fa15eb1b","type":"text","text":"Tempo de uso de Instagram / Whatsapp aumentado?","x":31,"y":140,"width":308,"height":60}
+	],
+	"edges":[
+		{"id":"b2ace9475dc42cc5","fromNode":"df9b1a063eb7c136","fromSide":"bottom","toNode":"01fabb4a32d38530","toSide":"top"},
+		{"id":"e30af7c25d4d24e3","fromNode":"145219d0430b5320","fromSide":"bottom","toNode":"098398e67fc5dd43","toSide":"top"},
+		{"id":"7e485a5bb7dd901a","fromNode":"098398e67fc5dd43","fromSide":"bottom","toNode":"01fabb4a32d38530","toSide":"top"},
+		{"id":"64818d2bc01dde83","fromNode":"2e17991e45dd89b4","fromSide":"bottom","toNode":"df9b1a063eb7c136","toSide":"top"},
+		{"id":"c2ce04cdc652111e","fromNode":"5e3cd45f8ce8ebe5","fromSide":"bottom","toNode":"dd4fe3ad2a9bdde9","toSide":"top"},
+		{"id":"b6e30a41c898ae9d","fromNode":"dd4fe3ad2a9bdde9","fromSide":"bottom","toNode":"2e17991e45dd89b4","toSide":"top"},
+		{"id":"02bb3a3bee9c74a5","fromNode":"5e3cd45f8ce8ebe5","fromSide":"bottom","toNode":"85ffcb7bb983f95a","toSide":"top"},
+		{"id":"24706e25ef2a86b7","fromNode":"85ffcb7bb983f95a","fromSide":"bottom","toNode":"10653c10708b73cc","toSide":"top"},
+		{"id":"c4e153c37d9f0013","fromNode":"10653c10708b73cc","fromSide":"bottom","toNode":"145219d0430b5320","toSide":"top"},
+		{"id":"4c9a9aa135133413","fromNode":"145219d0430b5320","fromSide":"left","toNode":"ca7e40e56e8033e6","toSide":"top"},
+		{"id":"e8fbebaad9eb7510","fromNode":"145219d0430b5320","fromSide":"right","toNode":"2e17991e45dd89b4","toSide":"left","fromEnd":"arrow"},
+		{"id":"22c956982dc97d1b","fromNode":"098398e67fc5dd43","fromSide":"right","toNode":"df9b1a063eb7c136","toSide":"left","fromEnd":"arrow"},
+		{"id":"ab35f563177f3619","fromNode":"ca7e40e56e8033e6","fromSide":"bottom","toNode":"59e71e4b1aeb2255","toSide":"top"},
+		{"id":"2c571067f48d856a","fromNode":"59e71e4b1aeb2255","fromSide":"right","toNode":"d1ed2a24dcb3014f","toSide":"bottom"},
+		{"id":"72c913dab5450eac","fromNode":"01fabb4a32d38530","fromSide":"bottom","toNode":"b0b056f5fa15eb1b","toSide":"top"},
+		{"id":"e312e87ead7807eb","fromNode":"ca7e40e56e8033e6","fromSide":"left","toNode":"eaa07e340a903242","toSide":"right"},
+		{"id":"f374a4063b61ce90","fromNode":"eaa07e340a903242","fromSide":"bottom","toNode":"e55194da869dddd3","toSide":"top"},
+		{"id":"c6a4821f178f08cf","fromNode":"e55194da869dddd3","fromSide":"bottom","toNode":"59e71e4b1aeb2255","toSide":"left"}
+	]
+}

@@ -1,0 +1,837 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OpenProject - Apresentação AP4</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --primary-color: #1A67A3;      /* OpenProject blue */
+            --secondary-color: #35A8E0;    /* Light blue */
+            --accent-color: #FF6B35;       /* Orange accent */
+            --success-color: #06D6A0;      /* Green */
+            --warning-color: #FFD23F;      /* Yellow */
+            --danger-color: #EF476F;       /* Red */
+            --text-dark: #1F2937;
+            --text-light: #6B7280;
+            --bg-light: #F9FAFB;
+            --bg-white: #FFFFFF;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .presentation-container {
+            width: 100%;
+            max-width: 1200px;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 25px 50px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+        }
+
+        .slide {
+            display: none;
+            padding: 60px;
+            min-height: 600px;
+            animation: slideIn 0.5s ease-in-out;
+        }
+
+        .slide.active {
+            display: block;
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateX(50px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        /* Slide Header */
+        .slide-header {
+            border-bottom: 4px solid var(--primary-color);
+            padding-bottom: 20px;
+            margin-bottom: 40px;
+        }
+
+        .slide-number {
+            font-size: 14px;
+            color: var(--text-light);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            font-weight: 600;
+        }
+
+        .slide-title {
+            font-size: 42px;
+            color: var(--text-dark);
+            font-weight: 700;
+            margin-top: 10px;
+            line-height: 1.2;
+        }
+
+        .slide-subtitle {
+            font-size: 18px;
+            color: var(--text-light);
+            margin-top: 10px;
+        }
+
+        /* Content Layouts */
+        .content-grid {
+            display: grid;
+            gap: 30px;
+        }
+
+        .grid-2 {
+            grid-template-columns: 1fr 1fr;
+        }
+
+        .grid-3 {
+            grid-template-columns: repeat(3, 1fr);
+        }
+
+        /* Cards */
+        .card {
+            background: var(--bg-light);
+            padding: 30px;
+            border-radius: 12px;
+            border-left: 5px solid var(--primary-color);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+        }
+
+        .card-icon {
+            font-size: 48px;
+            margin-bottom: 15px;
+        }
+
+        .card-title {
+            font-size: 20px;
+            font-weight: 600;
+            color: var(--text-dark);
+            margin-bottom: 12px;
+        }
+
+        .card-text {
+            font-size: 16px;
+            color: var(--text-light);
+            line-height: 1.6;
+        }
+
+        /* Lists */
+        .bullet-list {
+            list-style: none;
+            padding: 0;
+        }
+
+        .bullet-list li {
+            padding: 15px 0;
+            padding-left: 35px;
+            position: relative;
+            font-size: 18px;
+            color: var(--text-dark);
+            line-height: 1.6;
+        }
+
+        .bullet-list li::before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: var(--success-color);
+            font-weight: bold;
+            font-size: 20px;
+        }
+
+        .bullet-list.warning li::before {
+            content: "⚠";
+            color: var(--warning-color);
+        }
+
+        .bullet-list.danger li::before {
+            content: "✗";
+            color: var(--danger-color);
+        }
+
+        /* Comparison Table */
+        .comparison-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-size: 15px;
+        }
+
+        .comparison-table thead {
+            background: var(--primary-color);
+            color: white;
+        }
+
+        .comparison-table th,
+        .comparison-table td {
+            padding: 15px;
+            text-align: left;
+            border-bottom: 1px solid #E5E7EB;
+        }
+
+        .comparison-table tbody tr:hover {
+            background: var(--bg-light);
+        }
+
+        .check-green {
+            color: var(--success-color);
+            font-weight: bold;
+        }
+
+        .check-yellow {
+            color: var(--warning-color);
+            font-weight: bold;
+        }
+
+        .check-red {
+            color: var(--danger-color);
+            font-weight: bold;
+        }
+
+        /* Highlight Box */
+        .highlight-box {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            color: white;
+            padding: 30px;
+            border-radius: 12px;
+            margin: 20px 0;
+        }
+
+        .highlight-box h3 {
+            font-size: 24px;
+            margin-bottom: 15px;
+        }
+
+        .highlight-box p {
+            font-size: 18px;
+            line-height: 1.7;
+        }
+
+        /* Code Example */
+        .code-example {
+            background: #1F2937;
+            color: #10B981;
+            padding: 25px;
+            border-radius: 8px;
+            font-family: 'Courier New', monospace;
+            font-size: 14px;
+            overflow-x: auto;
+            margin: 20px 0;
+        }
+
+        .code-example .wrong {
+            color: var(--danger-color);
+        }
+
+        .code-example .right {
+            color: var(--success-color);
+        }
+
+        /* Navigation */
+        .slide-nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 60px;
+            background: var(--bg-light);
+            border-top: 1px solid #E5E7EB;
+        }
+
+        .nav-btn {
+            background: var(--primary-color);
+            color: white;
+            border: none;
+            padding: 12px 30px;
+            border-radius: 8px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background 0.3s ease;
+            font-weight: 600;
+        }
+
+        .nav-btn:hover {
+            background: var(--secondary-color);
+        }
+
+        .nav-btn:disabled {
+            background: #D1D5DB;
+            cursor: not-allowed;
+        }
+
+        .slide-counter {
+            font-size: 16px;
+            color: var(--text-light);
+            font-weight: 600;
+        }
+
+        /* Timer */
+        .timer {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: rgba(0, 0, 0, 0.8);
+            color: white;
+            padding: 15px 25px;
+            border-radius: 30px;
+            font-size: 24px;
+            font-weight: bold;
+            font-family: 'Courier New', monospace;
+            z-index: 1000;
+        }
+
+        .timer.warning {
+            background: var(--warning-color);
+            color: var(--text-dark);
+        }
+
+        .timer.danger {
+            background: var(--danger-color);
+            animation: pulse 1s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.7; }
+        }
+
+        /* Screenshot Placeholder */
+        .screenshot {
+            background: var(--bg-light);
+            border: 2px dashed #D1D5DB;
+            border-radius: 8px;
+            padding: 60px;
+            text-align: center;
+            color: var(--text-light);
+            font-size: 18px;
+            margin: 20px 0;
+        }
+
+        .screenshot.large {
+            padding: 120px;
+        }
+
+        /* Pillar Layout */
+        .pillars {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 30px;
+            margin: 30px 0;
+        }
+
+        .pillar {
+            text-align: center;
+            padding: 30px;
+            background: var(--bg-light);
+            border-radius: 12px;
+            transition: transform 0.3s ease;
+        }
+
+        .pillar:hover {
+            transform: scale(1.05);
+        }
+
+        .pillar-icon {
+            font-size: 60px;
+            margin-bottom: 20px;
+        }
+
+        .pillar-title {
+            font-size: 20px;
+            font-weight: 700;
+            color: var(--text-dark);
+            margin-bottom: 15px;
+        }
+
+        .pillar-text {
+            font-size: 15px;
+            color: var(--text-light);
+            line-height: 1.6;
+        }
+
+        /* Wrong vs Right Layout */
+        .comparison {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            margin: 20px 0;
+        }
+
+        .comparison-item {
+            padding: 25px;
+            border-radius: 12px;
+        }
+
+        .comparison-item.wrong {
+            background: #FEE2E2;
+            border-left: 5px solid var(--danger-color);
+        }
+
+        .comparison-item.right {
+            background: #D1FAE5;
+            border-left: 5px solid var(--success-color);
+        }
+
+        .comparison-label {
+            font-size: 14px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 15px;
+        }
+
+        .comparison-item.wrong .comparison-label {
+            color: var(--danger-color);
+        }
+
+        .comparison-item.right .comparison-label {
+            color: var(--success-color);
+        }
+
+        .comparison-content {
+            font-size: 16px;
+            color: var(--text-dark);
+            line-height: 1.6;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .slide {
+                padding: 30px;
+            }
+
+            .slide-title {
+                font-size: 32px;
+            }
+
+            .grid-2, .grid-3, .pillars, .comparison {
+                grid-template-columns: 1fr;
+            }
+
+            .comparison-table {
+                font-size: 12px;
+            }
+
+            .comparison-table th,
+            .comparison-table td {
+                padding: 10px 5px;
+            }
+        }
+
+        /* Print Styles */
+        @media print {
+            body {
+                background: white;
+            }
+
+            .slide {
+                display: block !important;
+                page-break-after: always;
+                min-height: auto;
+            }
+
+            .slide-nav, .timer {
+                display: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="presentation-container">
+
+        <!-- SLIDE 1: TÍTULO -->
+        <div class="slide active" id="slide-1">
+            <div class="slide-header">
+                <div class="slide-number">Slide 1 de 16 • Gerência de Projetos UFCSPA</div>
+                <h1 class="slide-title">OpenProject</h1>
+                <p class="slide-subtitle">Planejamento e Execução Integrados na Prática</p>
+            </div>
+
+            <div style="text-align: center; margin-top: 80px;">
+                <div style="font-size: 120px; margin-bottom: 30px;">📊</div>
+                <h2 style="font-size: 28px; color: var(--text-dark); margin-bottom: 20px;">
+                    Ferramenta escolhida: OpenProject Community Edition
+                </h2>
+                <p style="font-size: 20px; color: var(--text-light); margin-bottom: 40px;">
+                    Yan Braga da Silva<br>
+                    Prof. Dr. Muriel Figueredo Franco<br>
+                    2025/2
+                </p>
+
+                <div class="pillars" style="margin-top: 60px;">
+                    <div class="pillar">
+                        <div class="pillar-icon">📈</div>
+                        <div class="pillar-title">Gantt</div>
+                    </div>
+                    <div class="pillar">
+                        <div class="pillar-icon">📋</div>
+                        <div class="pillar-title">Kanban</div>
+                    </div>
+                    <div class="pillar">
+                        <div class="pillar-icon">🔒</div>
+                        <div class="pillar-title">LGPD</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- SLIDE 2: O PROBLEMA (REESTRUTURADO) -->
+        <div class="slide" id="slide-2">
+            <div class="slide-header">
+                <div class="slide-number">Slide 2 de 16 • O Problema</div>
+                <h1 class="slide-title">O Desafio: InfoPhysio</h1>
+                <p class="slide-subtitle">⏱️ 60 segundos</p>
+            </div>
+
+            <div class="highlight-box">
+                <h3>🏥 Contexto</h3>
+                <p>Sistema web para gestão de fichas fisioterapêuticas com dados sensíveis de pacientes</p>
+            </div>
+
+            <div class="content-grid grid-2" style="margin-top: 40px;">
+                <div class="card">
+                    <div class="card-icon">⚖️</div>
+                    <div class="card-title">Requisitos Regulatórios</div>
+                    <ul class="bullet-list">
+                        <li>Conformidade LGPD</li>
+                        <li>Acessibilidade WCAG 2.1</li>
+                        <li>Integração FHIR</li>
+                        <li>Auditoria completa</li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <div class="card-icon">⚠️</div>
+                    <div class="card-title">Stakes</div>
+                    <ul class="bullet-list danger">
+                        <li>Multas de até R$ 50M (ANPD)</li>
+                        <li>Dano reputacional irreversível</li>
+                        <li>Quebra de confiança dos pacientes</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div style="margin-top: 40px; padding: 30px; background: #FEF3C7; border-left: 5px solid var(--warning-color); border-radius: 8px;">
+                <h3 style="font-size: 22px; color: var(--text-dark); margin-bottom: 15px;">❓ A Pergunta Central</h3>
+                <p style="font-size: 18px; color: var(--text-dark); line-height: 1.7;">
+                    <strong>Como gerenciar um projeto onde cada work package pode se tornar evidência em auditoria?</strong>
+                </p>
+            </div>
+        </div>
+
+        <!-- SLIDE 3: MATRIZ COMPARATIVA (MOVIDO PARA FRENTE) -->
+        <div class="slide" id="slide-3">
+            <div class="slide-header">
+                <div class="slide-number">Slide 3 de 16 • A Decisão</div>
+                <h1 class="slide-title">Avaliação de Ferramentas</h1>
+                <p class="slide-subtitle">⏱️ 60 segundos</p>
+            </div>
+
+            <table class="comparison-table">
+                <thead>
+                    <tr>
+                        <th>Critério</th>
+                        <th>OpenProject</th>
+                        <th>Jira</th>
+                        <th>GitHub Projects</th>
+                        <th>Trello</th>
+                        <th>MS Project</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Gantt Nativo</strong></td>
+                        <td class="check-green">✅✅ Robusto</td>
+                        <td class="check-yellow">⚠️ Via apps</td>
+                        <td class="check-red">❌ Básico</td>
+                        <td class="check-red">❌ Sem</td>
+                        <td class="check-green">✅✅ Poderoso</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Kanban</strong></td>
+                        <td class="check-green">✅ Integrado</td>
+                        <td class="check-green">✅ Forte</td>
+                        <td class="check-green">✅ Nativo</td>
+                        <td class="check-green">✅✅ Core</td>
+                        <td class="check-yellow">⚠️ Limitado</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Time/Cost</strong></td>
+                        <td class="check-green">✅ Nativo</td>
+                        <td class="check-yellow">⚠️ Add-ons</td>
+                        <td class="check-red">❌ Sem</td>
+                        <td class="check-red">❌ Sem</td>
+                        <td class="check-green">✅ Completo</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Self-hosted</strong></td>
+                        <td class="check-green">✅ Sim (CE)</td>
+                        <td class="check-yellow">⚠️ Data Center</td>
+                        <td class="check-red">❌ Não</td>
+                        <td class="check-red">❌ Não</td>
+                        <td class="check-yellow">⚠️ On-prem</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Custo (5 users)</strong></td>
+                        <td class="check-green">✅✅ Grátis</td>
+                        <td class="check-yellow">⚠️ $7-14/user/mês</td>
+                        <td class="check-green">✅ Grátis</td>
+                        <td class="check-yellow">⚠️ $10-25/user</td>
+                        <td class="check-red">❌ Caro</td>
+                    </tr>
+                    <tr>
+                        <td><strong>LGPD/Privacidade</strong></td>
+                        <td class="check-green">✅✅ Controle total</td>
+                        <td class="check-yellow">⚠️ Depende</td>
+                        <td class="check-yellow">⚠️ Cloud GitHub</td>
+                        <td class="check-red">❌ SaaS</td>
+                        <td class="check-yellow">⚠️ Configurável</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <div class="highlight-box" style="margin-top: 30px;">
+                <h3>🎯 Veredito</h3>
+                <p>OpenProject é a única ferramenta que combina planejamento robusto (Gantt), execução ágil (Kanban), controle de custos E conformidade LGPD — tudo sem custo.</p>
+            </div>
+        </div>
+
+        <!-- Adicione os outros slides seguindo o mesmo padrão... -->
+        <!-- Por questões de espaço, vou criar alguns slides-chave -->
+
+        <!-- SLIDE EXEMPLO: LGPD GOVERNANCE -->
+        <div class="slide" id="slide-14">
+            <div class="slide-header">
+                <div class="slide-number">Slide 14 de 16 • Governança LGPD</div>
+                <h1 class="slide-title">Separação de Dados Sensíveis</h1>
+                <p class="slide-subtitle">⏱️ 90 segundos • CONTEÚDO CRÍTICO</p>
+            </div>
+
+            <div style="background: #FEE2E2; padding: 20px; border-radius: 8px; margin-bottom: 30px;">
+                <h3 style="font-size: 20px; color: var(--danger-color); margin-bottom: 10px;">🔒 Princípio Fundamental</h3>
+                <p style="font-size: 17px; color: var(--text-dark);"><strong>NUNCA registrar PHI/PII em Work Packages</strong></p>
+            </div>
+
+            <div class="comparison">
+                <div class="comparison-item wrong">
+                    <div class="comparison-label">❌ ERRADO</div>
+                    <div class="comparison-content">
+                        <div class="code-example">
+<span class="wrong">Work Package:</span> "Corrigir cadastro de Maria Silva, CPF 123.456.789-00"
+
+<span class="wrong">Comentário:</span> "Paciente relatou dor lombar crônica desde 2020"
+                        </div>
+                    </div>
+                </div>
+
+                <div class="comparison-item right">
+                    <div class="comparison-label">✅ CORRETO</div>
+                    <div class="comparison-content">
+                        <div class="code-example">
+<span class="right">Work Package:</span> "Corrigir validação de CPF no formulário"
+
+<span class="right">RiskID:</span> R12 (LGPD)
+<span class="right">Link:</span> sistema-clinico.local/patient/UUID-ABC-123
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div style="margin-top: 30px;">
+                <h3 style="font-size: 20px; margin-bottom: 15px;">🛡️ Boas Práticas Implementadas</h3>
+                <div class="content-grid grid-2">
+                    <ul class="bullet-list">
+                        <li><strong>Templates padronizados</strong> (User Story, Bug OWASP, Spike FHIR)</li>
+                        <li><strong>Perfis de acesso</strong> granulares</li>
+                    </ul>
+                    <ul class="bullet-list">
+                        <li><strong>Wiki de governança</strong> (DoR/DoD, checklists LGPD)</li>
+                        <li><strong>Histórico completo</strong> para auditoria</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- SLIDE FINAL: FECHAMENTO -->
+        <div class="slide" id="slide-16">
+            <div class="slide-header">
+                <div class="slide-number">Slide 16 de 16 • Fechamento</div>
+                <h1 class="slide-title">OpenProject: A Escolha Certa</h1>
+                <p class="slide-subtitle">⏱️ 30 segundos + Q&A</p>
+            </div>
+
+            <div class="pillars">
+                <div class="pillar">
+                    <div class="pillar-icon">❓</div>
+                    <div class="pillar-title">POR QUÊ</div>
+                    <div class="pillar-text">Planejamento forte + Execução ágil + Governança + LGPD</div>
+                </div>
+                <div class="pillar">
+                    <div class="pillar-icon">⚙️</div>
+                    <div class="pillar-title">COMO</div>
+                    <div class="pillar-text">Gantt + Kanban + Time/Cost + Wiki integrados</div>
+                </div>
+                <div class="pillar">
+                    <div class="pillar-icon">🏥</div>
+                    <div class="pillar-title">APLICAÇÃO</div>
+                    <div class="pillar-text">InfoPhysio com WBS, Riscos, Sprints e práticas LGPD</div>
+                </div>
+            </div>
+
+            <div class="highlight-box" style="margin-top: 50px;">
+                <h3>💡 Reflexão Final</h3>
+                <p style="font-size: 20px; line-height: 1.8;">
+                    "InfoPhysio não é apenas um projeto — é uma <strong>responsabilidade</strong>.
+                    Cada linha de código toca pacientes reais, dados de saúde reais.
+                    OpenProject nos deu algo que Jira e Trello não conseguiram: <strong>prova de compliance</strong>.
+                    Quando a ANPD perguntar 'Como vocês protegem a privacidade dos pacientes?',
+                    não vamos adivinhar — vamos mostrar o audit log."
+                </p>
+            </div>
+
+            <div style="margin-top: 50px; text-align: center;">
+                <h2 style="font-size: 32px; color: var(--text-dark); margin-bottom: 20px;">🙋 Perguntas?</h2>
+                <p style="font-size: 18px; color: var(--text-light);">
+                    yan.silva@ufcspa.edu.br<br>
+                    <strong>Demo:</strong> github.com/yanbraga/infophysio-openproject-demo
+                </p>
+            </div>
+        </div>
+
+        <!-- Navigation -->
+        <div class="slide-nav">
+            <button class="nav-btn" id="prevBtn" onclick="changeSlide(-1)">← Anterior</button>
+            <span class="slide-counter" id="slideCounter">Slide 1 de 16</span>
+            <button class="nav-btn" id="nextBtn" onclick="changeSlide(1)">Próximo →</button>
+        </div>
+
+    </div>
+
+    <script>
+        let currentSlide = 1;
+        const totalSlides = 16;
+        let timerSeconds = 0;
+        let timerInterval;
+
+        // Slide Navigation
+        function showSlide(n) {
+            const slides = document.querySelectorAll('.slide');
+            if (n > totalSlides) { currentSlide = totalSlides; }
+            if (n < 1) { currentSlide = 1; }
+
+            slides.forEach(slide => slide.classList.remove('active'));
+            slides[currentSlide - 1].classList.add('active');
+
+            document.getElementById('slideCounter').textContent = `Slide ${currentSlide} de ${totalSlides}`;
+            document.getElementById('prevBtn').disabled = (currentSlide === 1);
+            document.getElementById('nextBtn').disabled = (currentSlide === totalSlides);
+        }
+
+        function changeSlide(n) {
+            currentSlide += n;
+            showSlide(currentSlide);
+        }
+
+        // Keyboard Navigation
+        document.addEventListener('keydown', function(event) {
+            if (event.key === 'ArrowLeft') changeSlide(-1);
+            if (event.key === 'ArrowRight') changeSlide(1);
+            if (event.key === 'Home') { currentSlide = 1; showSlide(currentSlide); }
+            if (event.key === 'End') { currentSlide = totalSlides; showSlide(currentSlide); }
+
+            // Timer controls
+            if (event.key === ' ') { // Space bar
+                event.preventDefault();
+                toggleTimer();
+            }
+            if (event.key === 'r' || event.key === 'R') {
+                resetTimer();
+            }
+        });
+
+        // Timer Functions
+        function updateTimer() {
+            const minutes = Math.floor(timerSeconds / 60);
+            const seconds = timerSeconds % 60;
+            const display = `${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
+
+            const timerElement = document.getElementById('timer');
+            timerElement.textContent = display;
+
+            // Color coding
+            timerElement.classList.remove('warning', 'danger');
+            if (timerSeconds > 720) { // 12 min
+                timerElement.classList.add('warning');
+            }
+            if (timerSeconds > 840) { // 14 min
+                timerElement.classList.add('danger');
+            }
+        }
+
+        function startTimer() {
+            if (!timerInterval) {
+                timerInterval = setInterval(() => {
+                    timerSeconds++;
+                    updateTimer();
+                }, 1000);
+            }
+        }
+
+        function stopTimer() {
+            if (timerInterval) {
+                clearInterval(timerInterval);
+                timerInterval = null;
+            }
+        }
+
+        function toggleTimer() {
+            if (timerInterval) {
+                stopTimer();
+            } else {
+                startTimer();
+            }
+        }
+
+        function resetTimer() {
+            stopTimer();
+            timerSeconds = 0;
+            updateTimer();
+        }
+
+        // Initialize
+        showSlide(currentSlide);
+        updateTimer();
+
+        // Auto-start timer when presenting
+        console.log('🎯 Controles de Apresentação:');
+        console.log('  ← → : Navegar slides');
+        console.log('  Home/End : Primeiro/Último slide');
+        console.log('  Espaço : Pausar/Continuar timer');
+        console.log('  R : Resetar timer');
+    </script>
+</body>
+</html>
